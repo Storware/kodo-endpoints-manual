@@ -1,5 +1,22 @@
 # Table of contents
 
+* [First steps](first-steps/README.md)
+  * [Administration levels](first-steps/administration-levels.md)
+  * [Getting started](first-steps/getting-started.md)
+  * [Configuring IBM Spectrum Protect \(first-steps/TSM\)](configuring-ibm-spectrum-protect-tsm.md)
+  * [Preparing KODO Server for SSL connection with Spectrum Protect \(first-steps/TSM\)](preparing-kodo-server-for-ssl-connection-with-spectrum-protect-tsm.md)
+  * [Configuring Web Admin UI](first-steps/configuring-web-admin-ui.md)
+  * [Log in to system as KODO administrator](first-steps/log-in-to-system-as-kodo-administrator/README.md)
+  * [Setting deployment server address](first-steps/log-in-to-system-as-kodo-administrator/setting-deployment-server-address.md)
+  * [E-mail server configuration](first-steps/log-in-to-system-as-kodo-administrator/e-mail-server-configuration.md)
+  * [Spectrum Protect \(first-steps/TSM\) configuration](log-in-to-system-as-kodo-administrator/spectrum-protect-tsm-configuration.md)
+  * [Configuring SSL connection with Spectrum Protect \(first-steps/TSM\)](log-in-to-system-as-kodo-administrator/configuring-ssl-connection-with-spectrum-protect-tsm.md)
+  * [License registration](first-steps/log-in-to-system-as-kodo-administrator/license-registration.md)
+  * [KODO client deployment packages](first-steps/log-in-to-system-as-kodo-administrator/kodo-client-deployment-packages.md)
+  * [Log in to system as organization administrators](first-steps/log-in-to-system-as-organization-administrators/README.md)
+  * [Synchronizing users with LDAP server](first-steps/log-in-to-system-as-organization-administrators/synchronizing-users-with-ldap-server.md)
+  * [Adjusting the default policy](first-steps/log-in-to-system-as-organization-administrators/adjusting-the-default-policy.md)
+  * [Adding users or synchronizing them with LDAP server](first-steps/log-in-to-system-as-organization-administrators/adding-users-or-synchronizing-them-with-ldap-server.md)
 * [Organization management](admin-organization/README.md)
   * [About this guide](admin-organization/en/README.md)
   * [policy](admin-organization/en/policy/README.md)
@@ -212,4 +229,3 @@
   * [Summary](admin-organization/pl/summary.md)
   * [settings](admin-organization/pl/settings/README.md)
     * [Podstawowe ustawienia](admin-organization/pl/settings/general.md)
-
