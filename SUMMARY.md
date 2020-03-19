@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [About KODO for Endpoints](README.md)
 * [Planning & Preparation](first-steps/README.md)
   * [Getting started](first-steps/getting-started.md)
   * [Server requirements](first-steps/server-requirements.md)
