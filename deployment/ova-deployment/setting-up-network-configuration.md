@@ -63,7 +63,7 @@ ONBOOT=yes
 
 Save the file pressing the `CTRL+o` and then `Enter` key.
 
-![nano](../.gitbook/assets/nano.png)
+![nano](../../.gitbook/assets/nano.png)
 
 After file is saved you can exit editor pressing `CTRL+x` key combiantion.
 
@@ -81,5 +81,5 @@ https://ip_address
 
 KODO login page shoud be opened.
 
-![kodo](../.gitbook/assets/kodo.png)
+![kodo](../../.gitbook/assets/kodo.png)
 

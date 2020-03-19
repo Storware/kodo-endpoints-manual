@@ -1,4 +1,4 @@
-# Spectrum Protect \(TSM\) configuration
+# Spectrum Protect \(TSM\) setup
 
 **NOTE: If you are using KODO Virtual Appliance change "Server address" configuration. "Server address" should point to KODO server IP address that will be available for backup clients! For Virtual Appliance no further changes are required.**
 
@@ -12,11 +12,11 @@ To set up connection with backup server:
    * **Adminitrative port** – Spectrum Protect Administrative port \(if different from client port\)
    * **Nodename** – nodname used by KODO \(created in previous steps\)
 
-     ![tsm](../.gitbook/assets/tsm.png)
+     ![tsm](../../../.gitbook/assets/tsm.png)
 4. Click **SAVE CHANGES** button.
 5. Provide password for node in “SET IBM SP PASSWORD” section
 
-   ![tsm](../.gitbook/assets/tsm_password.png)
+   ![tsm](../../../.gitbook/assets/tsm_password.png)
 
 6. Click **UPDATE PASSWORD** button
 

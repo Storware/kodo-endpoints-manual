@@ -1,4 +1,4 @@
-# First steps
+# Planning & Preparation
 
 KODO is a platform that provides the protection both for workstations, laptops, tablets, mobile devices and smartphones. It ensures not only continued protection of key corporate data, but also sharing and migrating data to a new device.
 

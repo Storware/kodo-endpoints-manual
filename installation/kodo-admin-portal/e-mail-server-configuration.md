@@ -12,11 +12,11 @@ To set up e-mail server:
    * **Use SSL** - set to "on" if SSL communication is required
    * **Require Authentication** - set to “on” if server requires authentication
 
-     ![mail](../.gitbook/assets/mail.png)
+     ![mail](../../.gitbook/assets/mail.png)
 4. Click **SAVE CHANGES** button.
 5. Provide password for e-mail server in **SET EMAIL SERVER PASSWORD** section
 
-   ![mail\_password](../.gitbook/assets/mail_password.png)
+   ![mail\_password](../../.gitbook/assets/mail_password.png)
 
 6. click “UPDATE PASSWORD” button
 

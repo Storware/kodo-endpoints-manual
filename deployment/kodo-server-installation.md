@@ -2,7 +2,7 @@
 description: This chapter describes how to install Kodo Server.
 ---
 
-# Installation
+# Manual Installation
 
 ## Downloading installation packages
 

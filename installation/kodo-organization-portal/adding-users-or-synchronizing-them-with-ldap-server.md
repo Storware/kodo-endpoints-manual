@@ -13,13 +13,13 @@
    * **Username \(e-mail\)** - e-mail address used to log in to KODO client
    * **First name**
    * **Last name**
-   * **Comapny role** \(optional\)
+   * **Company role** \(optional\)
    * **Phone number** \(optional\)
    * **Policy** - default data protection policy for user
    * **Group** \(optional\)
    * **Password** - password used by user to log in to KODO client
    * **Verify password** - password used by user to log in to KODO client
 
-     ![user\_add](../.gitbook/assets/user_add.png)
+     ![user\_add](../../.gitbook/assets/user_add.png)
 3. Click **SAVE CHANGES** button.
 

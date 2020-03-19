@@ -12,5 +12,5 @@ If you already have a valid license key please follow the steps:
 4. Click **UPDATE LICENSE** button
 
 _TIP: You can check trail or license expiration date in **Your license is now** sextion_  
-![license](../.gitbook/assets/license.png)
+![license](../../.gitbook/assets/license.png)
 

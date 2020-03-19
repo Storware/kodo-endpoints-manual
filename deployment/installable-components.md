@@ -2,7 +2,7 @@
 description: You can install the following components for KODO v3.12 or later.
 ---
 
-# Installable components
+# KODO Components
 
 | **KODO component** | **Description** |
 | :--- | :--- |

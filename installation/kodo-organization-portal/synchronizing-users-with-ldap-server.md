@@ -12,11 +12,11 @@ To synchronize users with LDAP server complete the following steps:
    * **Domain prefix** - domain prefix if different than default
    * **Search** and **Group filter** - select the entries to be returned for a search operation.
 
-     ![ldap](../.gitbook/assets/ldap%20%281%29.png)
+     ![ldap](../../.gitbook/assets/ldap%20%281%29.png)
 4. Click **SAVE CHANGES** button.
 5. Provide password for LDAP server in **USERS & GROUPS LDAP PASSWORD** section
 
-   ![ldap\_password](../.gitbook/assets/ldap_password.png)
+   ![ldap\_password](../../.gitbook/assets/ldap_password.png)
 
 6. click “UPDATE PASSWORD” button
 

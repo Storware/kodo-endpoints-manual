@@ -2,7 +2,7 @@
 description: The RPM packages are suitable for installation on Red Hat and CentOS.
 ---
 
-# Installation with RPM packages
+# RPM packages installation
 
 {% hint style="info" %}
 The commands described below need to be executed with root user privileges.
