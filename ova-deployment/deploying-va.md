@@ -20,7 +20,7 @@ The KODO Server Virtual Appliance comes as an OVA \(Open Virtualization Applianc
 6. Review virtual machine configuration and click Finish
 7. Virtual machine deployment will start. This process will automatically create a virtual machine with the settings you specify.
 
-   ![Deployment](.gitbook/assets/deployment.png)
+   ![Deployment](../.gitbook/assets/deployment.png)
 
 8. When the KODO Server VA is deployed, power it on. You can now go to the next chapter and configure network connection.
 

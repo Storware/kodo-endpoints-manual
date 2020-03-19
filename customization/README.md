@@ -1,4 +1,4 @@
-# Introduction
+# Customization
 
 This guide will show you how to customize your instance of KODO server.
 

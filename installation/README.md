@@ -1,4 +1,4 @@
-# Introduction
+# Installation
 
 Storware KODO is a next generation of enterprise data protection software for Windows/OS X and mobile platforms \(Android, iOS, Windows Phone\). The robust protection, it provides, is fundamental both to IT admins and business users. KODO fights against thefts, malware attacks \(incl. ransomware\) or human errors.
 
@@ -32,6 +32,4 @@ Managing IT infrastructure of the company is never easy. Nethertheless KODO coul
 * Different backup policies
 * Easy restore
 * Ready for ticket system integration
-
-
 

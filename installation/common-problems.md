@@ -4,16 +4,16 @@
 
 This error mean that web admin UI component cannot contact with api-core component.
 
-![Server communication error](.gitbook/assets/server_comm_error.png)
+![Server communication error](https://github.com/Storware/kodo-endpoints-manual/tree/c068300cc64c33520602adf853bb9c84f514bac8/installation/.gitbook/assets/server_comm_error.png)
 
 ### Check status of api-core component
 
 Check if api-core components is working.
 
-You can check status using this command:   
+You can check status using this command:  
 `/opt/storware/kodo-server/api-core/bin/status.sh`
 
-### Check if firewall doesn't block connections 
+### Check if firewall doesn't block connections
 
 Check if firewall \(global/on workstation/on server\) doesn't block connections to api-core component, default port: 8181.
 
@@ -26,7 +26,7 @@ You can check this using web browser, provide api-core component address to test
 
 Version of installed component should be displayed.
 
-![Version of installed api-core component](.gitbook/assets/api-core-error.png)
+![Version of installed api-core component](https://github.com/Storware/kodo-endpoints-manual/tree/c068300cc64c33520602adf853bb9c84f514bac8/installation/.gitbook/assets/api-core-error.png)
 
 ## Support contact - when something gone wrong
 
