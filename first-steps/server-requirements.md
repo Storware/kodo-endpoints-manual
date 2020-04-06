@@ -10,10 +10,9 @@ description: >-
 
 The following operating systems are supported.
 
-* Linux CentOS 7 ( Recommended )
-* Linux CentOS 6 
-* Red Hat Enterprise Linux 7 ( Recommended )
-* Red Hat Enterprise Linux 6
+* Linux CentOS 7 
+* Red Hat Enterprise Linux 7 
+
 
 ## **Hardware requirements**
 

@@ -26,7 +26,7 @@ You can check this using web browser, provide api-core component address to test
 
 Version of installed component should be displayed.
 
-![Version of installed api-core component](https://github.com/Storware/kodo-endpoints-manual/tree/c068300cc64c33520602adf853bb9c84f514bac8/installation/.gitbook/assets/api-core-error.png)
+![Version of installed api-core component](../.gitbook/assets/apiversion.PNG)
 
 ## Support contact - when something gone wrong
 

@@ -13,7 +13,7 @@ KODO system require some special Spectrum Protect \(TSM\) configuration. Create 
 
 Log in to the Spectrum Protect server as administrator with **SYSTEM** level authority.
 
-Define new dedicated domain, policy and managment class for KODO.
+Define new dedicated domain, policy and management class for KODO.
 
 ```text
 SERVER1> define domain kodo

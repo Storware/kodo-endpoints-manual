@@ -29,6 +29,23 @@ When authentication is required then you have to set email server password.
 
 ![emailpassword](../../.gitbook/assets/emailpass.png)
 
+
+After installation and configuration SSL components for Spectrum Protect Server described in [IBM Spectrum Protect engine](../deployment/ibm-spectrum-protect/README.md) you can configure SSL settings in KODO Admin portal tab.
+
+# Configuring SSL connection with Spectrum Protect \(TSM\)
+
+To use SSL connection between KODO Server, Desktop clients, and Spectrum Protect \(TSM\) server you need to upload correct SP \(TSM\) certificate. This certificate will be used by server, and also will be distributed to all KODO for Desktop clients and used with SSL connection between client a backup server.
+
+If you already have a valid certificate file please follow the steps:
+
+1. Click **Settings** located in top bar, this will move you to KODO configuration page
+2. Click **IBM Spectrum Protect** tab.
+3. Click **Upload certificate** button and select the valid SP \(TSM\) certificate file
+
+![tsm](../../.gitbook/assets/ssltsmcert.PNG)
+
+4. Set to "on" **Use SSL** switch
+5. 
 ### IBM Spectrum Protect \(TSM\) setup
 
 **NOTE: If you are using KODO Virtual Appliance change "Server address" configuration. "Server address" should point to KODO server IP address that will be available for backup clients! For Virtual Appliance no further changes are required.**

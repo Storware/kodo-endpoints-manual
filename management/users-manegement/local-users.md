@@ -3,9 +3,9 @@
 ## Register new user account
 
 1. Select `Users` from main menu
-2. Click the ![](../.gitbook/assets/addlocaluserbutton.png) button, located atthe top of user list
+2. Click the ![](../../.gitbook/assets/addlocaluserbuttonsmall.png) button, located at the top of user list
 
-![](../.gitbook/assets/addlocaluser.png)
+![](../../.gitbook/assets/addlocaluser.png)
 
 Provide user account informations:
 

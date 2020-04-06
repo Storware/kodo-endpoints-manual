@@ -11,9 +11,9 @@ In [Policy configuration](policy-configuration.md) chapter you will find detaile
 
 1. **Go to the list of policies. Select** `Policies` **from main menu**
 2. **Click on the name of the policy you want to edit**
-3. **Click** ![](../../.gitbook/assets/editbutton.png) **button**
+3. **Click** ![](../../.gitbook/assets/editbuttonsmall.png) **button**
 4. **Edit selected options and confirm your changes by clicking 
-![](../../.gitbook/assets/savebutton.png) button. button located on rightbottom of the page.**
+![](../../.gitbook/assets/savebuttonsmall.png) button. button located on rightbottom of the page.**
 
 You can also use Quick Action menu "Edit" item from policy list
 
@@ -21,6 +21,6 @@ You can also use Quick Action menu "Edit" item from policy list
 
 1. **Go to the list of policies. Select** `Policies` **from main menu**
 2. **Click on the name of the policy you want to edit**
-3. **Click** ![](../../.gitbook/assets/manageusersbutton.png) **button**
+3. **Click** ![](../../.gitbook/assets/manageusersbuttonsmall.png) **button**
 4. **Assign users to policy by clicking checkboxes on left side**
-5. **Confirm changes by clicking ![](../../.gitbook/assets/savebutton.png) button.**
+5. **Confirm changes by clicking ![](../../.gitbook/assets/savebuttonsmall.png) button.**

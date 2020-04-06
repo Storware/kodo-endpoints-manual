@@ -1,6 +1,6 @@
 # Setting up network configuration
 
-Next step is to configure network connection. To do this you will need to edit network configuration file. Default configuration will try to assign IP adress from DHCP.
+Next step is to configure network connection. To do this you will need to edit network configuration file. Default configuration will try to assign IP address from DHCP.
 
 Use `sudo` command to run shell with root privileges:
 
@@ -16,7 +16,7 @@ Edit network configuration file:
 # nano /etc/sysconfig/netork-scripts/ifcfg-eth0
 ```
 
-To set up static IP adress change:
+To set up static IP address change:
 
 ```text
 BOOTPROTO=dhcp
@@ -67,19 +67,19 @@ Save the file pressing the `CTRL+o` and then `Enter` key.
 
 After file is saved you can exit editor pressing `CTRL+x` key combiantion.
 
-The final step is to restar network configuration. To do this use the command:
+The final step is to restart network configuration. To do this use the command:
 
 ```text
 # service network restart
 ```
 
-Now you shoud be able login your KODO system using webbrowser and IP address that you configured in previous steps. Open webbrowser and enter:
+Now you should be able login your KODO system using web browser and IP address that you configured in previous steps. Open web browser and enter:
 
 ```text
 https://ip_address
 ```
 
-KODO login page shoud be opened.
+KODO login page should be opened.
 
 ![kodo](../../.gitbook/assets/kodo.png)
 

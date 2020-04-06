@@ -68,7 +68,7 @@ Start KODO server with: systemctl start kodo-server-api-core
 [root@localhost ~]#
 ```
 
-### Starting and stoping api-core component
+### Starting and stopping api-core component
 
 **To start api-core component run:**
 
@@ -128,9 +128,9 @@ Once started api-core component will listen on port 5000 for HTTPS connections.
 The server url address \(IP or FQDN\) that you provide in configuration is used in javascript that is executed on local web browser. Web browser needs to be able to connect to it.
 {% endhint %}
 
-### Starting and stoping web-admin-ui component
+### Starting and stopping web-admin-ui component
 
-**To start api-core component run:**
+**To start web-admin-ui component run:**
 
 ```text
 systemctl start kodo-server-web-admin-ui
@@ -140,79 +140,5 @@ systemctl start kodo-server-web-admin-ui
 
 ```text
 systemctl stop kodo-server-web-admin-ui
-```
-
-## Configuring kodo-agent component
-
-You can run multiple instances of kodo-agent. Running more than one instance will allow performing tasks \(backup/restore\) parallel.
-
-To create new agent instance run script:
-
-```text
-/opt/storware/kodo-agent/bin/kodo-agent-install.sh -s api-core-url
-```
-
-Follow the instructions to complete the configuration.
-
-You need to use following parameter with script:
-
-_-s \| --server_  
-Specify HTTPS url to api-core component. Default: none
-
-_-n \| --name_  
-Agent name, if not specified name will be drawn.
-
-{% hint style="info" %}
-Remember to specify listening port of api-core component
-{% endhint %}
-
-#### **Example:**
-
-```text
-[root@localhost ~]# /opt/storware/kodo-agent/bin/kodo-agent-install.sh -s https://10.10.0.5:8181
-Storware KODO Agent instance wizard v0.1
-Trying connect to KODO server... (ignoring SSL certificate) [OK]
-Trying to obtain KODO api version...[OK] (3.16.0)
-
-Agent name not specified. Trying to draw a unique name for agent [DONE]
-
-KODO SERVER URL: https://10.10.0.5:8181
-INSTANCES PATH: /opt/storware/kodo-agent/instances
-AGENT NAME: Voyager
-AGENT SERVICE NAME: kodo-agent-Voyager.service
-
-Continue? [Y/N] y
-
-
-Creating instance directory...[OK]
-Copying config file... [OK]
-Copying service file... [OK]
-Created symlink from /etc/systemd/system/multi-user.target.wants/kodo-agent-Voyager.service to /etc/systemd/system/kodo-agent-Voyager.service.
-Starting agent Voyager...
-[root@localhost ~]#
-```
-
-This will create and start new agent instance. After agent instance is up you need to activate it using administrative portal.
-
-### Starting and stoping kodo-agent instances
-
-**To start kodo-agent instance run:**
-
-```text
-systemctl start kodo-agent-{agent name}
-```
-
-{% hint style="info" %}
-It make take few minutes to start service
-{% endhint %}
-
-Once started api-core component will listen on port 8181\(default\) for HTTPS connections.
-
-Now you can configure web-admin-ui component that will allows you to mange kodo instance.
-
-**To stop kodo-agent instance run:**
-
-```text
-systemctl stop kodo-agent-{agent name}
 ```
 

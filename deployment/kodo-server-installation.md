@@ -27,7 +27,7 @@ You can install OpenJDK Java from yum repositories:
 `yum -y install java`
 
 {% hint style="info" %}
-To provide the best security mechanisms Kodo Server **MUST** have Java Cryptography Extension \(JCE\) Unlimited Strength Jurisdiction Policy installed. **OpenJDK Java has this policy installed by default.**
+To provide the best security mechanisms KODO Server **MUST** have Java Cryptography Extension \(JCE\) Unlimited Strength Jurisdiction Policy installed. **OpenJDK Java has this policy installed by default.**
 {% endhint %}
 
 ### MariaDB

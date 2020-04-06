@@ -82,6 +82,6 @@
   * [E-mail template for test message](customization/e-mail-template-for-test-message.md)
   * [WWW page for downloading file from password protected link](customization/www-page-for-downloading-file-from-password-protected-link.md)
   * [Portal branding](customization/portal-branding.md)
-* TROUBLESHOOTING
+* [Troubleshooting]
 
 

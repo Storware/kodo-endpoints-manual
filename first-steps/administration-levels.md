@@ -21,7 +21,7 @@ KODO administration level is the highest level of authorization. Logging in to t
 ## KODO organization administrator level
 
 KODO system allows your company to create multiple organization under one KODO server. Every organization is a separate entity with separated data, users, policies etc.  
-Logging in to the KODO organization portal as organization administrator will allow to configure aspects of the system such as:
+Logging in to the KODO Organization Portal as organization administrator will allow to configure aspects of the system such as:
 
 * Organization administrators
 * Users

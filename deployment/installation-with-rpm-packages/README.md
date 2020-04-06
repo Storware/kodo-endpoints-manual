@@ -58,15 +58,3 @@ gpgcheck=1
 # yum install web-admin-ui
 ```
 
-### kodo-agent component
-
-{% hint style="info" %}
-Install kodo-agent component if you want to protect Office365 or Box service
-{% endhint %}
-
-1. Install kodo-agent component
-
-```text
-# yum install kodo-agent
-```
-
