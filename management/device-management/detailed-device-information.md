@@ -4,11 +4,23 @@ To view details about the device, select `Devices` from the main menu and then:
 
 * Click the device name from the available list
 
-  ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LD_wiez_0EVVIJJEUSK%2F-LD_woYrpsPXEvr23qMU%2F-LD_wtrYROmWB6W_TuEc%2Fdevices_s.png?generation=1527497620590433&alt=media)​
+  ​![](../../.gitbook/assets/devicedetail.png)​
 
 or
 
-* Click the arrow icon from the table ACTION menu and select `DETAILS` from the menu.
+* Click the arrow icon from the table **Options menu and select `Details` from the menu.
 
-  ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LD_wiez_0EVVIJJEUSK%2F-LD_woYrpsPXEvr23qMU%2F-LD_wuQ6zZn93EVx8trd%2Fdevicesaction.png?generation=1527497607502837&alt=media)
+  ![](../../.gitbook/assets/deviceoptions.png)
 
+
+
+## Details
+
+* **Device information** - Informations about registerd device ie: app version, operating system, manufacturer.
+![](../../.gitbook/assets/devicedetails.png)
+
+
+* **Protected Files** - Backup browser allows administrator to restore files from backup when [policy](../data-protection-management/general-settings.md) allows it, and option: _Allow administrators to restore user files_ is turned on.
+
+![](../../.gitbook/assets/backupedfiles.png)
+* **Device Events** - Device event log.

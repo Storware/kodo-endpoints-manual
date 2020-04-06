@@ -1,4 +1,4 @@
-# KODO client deployment packages \(Admin Portal\)
+# KODO client deployment packages \(KODO Admin Portal\)
 
 To use KODO client you first need to upload KODO client packages.
 
@@ -8,9 +8,9 @@ _TIP: If you are using KODO Server VA, client packages should be already availab
 
 To upload client packages to your KODO Server follow the steps:
 
-1. Click **Deployment** located in left menu, this will move you to KODO deployemnt page
+1. Click **Deployments** located in left menu of the KODO Admin Portal, this will move you to KODO deployment page
 2. Click **Upload package** button, select downloaded client package and click **Open**
-3. Package will be uploaded, after sucessful installation information will be displayed
+3. Package will be uploaded, after successful upload information will be displayed
 
-![upload](../../.gitbook/assets/upload.png)
+![upload](../../.gitbook/assets/uploadpkg.png)
 

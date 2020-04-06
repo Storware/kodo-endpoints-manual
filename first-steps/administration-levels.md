@@ -2,12 +2,14 @@
 
 KODO system consist of two levels of administration:
 
-* KODO administration level
-* KODO organization administration level 
+* KODO administration level - accessed through KODO Admin Portal
+* KODO organization administration level - accessed through KODO organization portal
+
+
 
 ## KODO administrator level
 
-KODO administration level is the highest level of authorization. Logging in to the system with this level of authorization will allow to configure fundamental aspects of the system such as:
+KODO administration level is the highest level of authorization. Logging in to the system with this level of authorization you will log in to KODO Admin Portal. KODO Admin Portal allows you to configure fundamental aspects of the system such as:
 
 * General system settings
 * E-mail server settings
@@ -18,8 +20,8 @@ KODO administration level is the highest level of authorization. Logging in to t
 
 ## KODO organization administrator level
 
-KODO system allow your company to create multiple organization under one KODO server. Every organization is a separate entity with separated data, users, policies etc.  
-Logging in to the system as organization administrator will allow to configure aspects of the system such as:
+KODO system allows your company to create multiple organization under one KODO server. Every organization is a separate entity with separated data, users, policies etc.  
+Logging in to the KODO organization portal as organization administrator will allow to configure aspects of the system such as:
 
 * Organization administrators
 * Users

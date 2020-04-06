@@ -1,20 +1,40 @@
 # Locking device
 
-{% hint style="info" %}
-**Locking only applies to mobile devices**
-{% endhint %}
-
 To lock device and prevent user from logging in to system, select `Devices` from the main menu and:
 
-* Click the device name from the available list, click the `...` drop-down menu button and select `LOCK DEVICE`
+* Click the device name from the available list, click the ![](../../.gitbook/assets/rozwinbutton.png) drop-down menu button and select `Lock Device`
 
-  ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LD_wiez_0EVVIJJEUSK%2F-LD_woYrpsPXEvr23qMU%2F-LD_wuHrgfGzSxABv62r%2Fdevice_menu_s.png?generation=1527497607460421&alt=media)​
+  ![](../../.gitbook/assets/lockdevice1.png)
+  
+or
+
+* Click on the arrow to the right of the table on the line with the device whose data you want to display select `Lock` from the `Options` menu.
+
+![](../../.gitbook/assets/deviceoptions.png)
+
+or 
+
+* Select the selectbox next to desired devices and then click_ `Lock` _button located at the top of device list. In this way you can lock multiple devices at once.
+
+
+![](../../.gitbook/assets/lockdevice2.png)
+
+# Unlocking device
+
+To unlock the device and allow the user to login from it select `Devices` from the main menu and:
+* Click the device name from the available list, click the ![](../../.gitbook/assets/rozwinbutton.png) drop-down menu button and select `Unlock Device`
+
+  ![](../../.gitbook/assets/unlockdevice1.png)
+  
+or
+
+* Click on the arrow to the right of the table on the line with the device whose data you want to display select `Unlock` from the `Options` menu.
+
+![](../../.gitbook/assets/unlockdevice.png)
 
 or
 
-* Click on the arrow to the right of the table on the line with the device whose data you want to display select `LOCK` from the menu.
+* Select the selectbox next to desired devices and then click_ `Unlock` _button located at the top of device list. In this way you can unlock multiple devices at once.
 
-  _**Hint:**_ _To lock multiple devices at once, select the selectbox next to desired devices and then click_ `LOCK` _button located at the top of device list._
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LD_wiez_0EVVIJJEUSK%2F-LD_woYrpsPXEvr23qMU%2F-LD_wuHunLNDl900fMzj%2Fdevices_multi_s.png?generation=1527497600000494&alt=media)
-
+![](../../.gitbook/assets/unlockdevice2.png)
