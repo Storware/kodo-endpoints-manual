@@ -21,8 +21,8 @@ This section allows you to configure reports about space usage and device activi
 **Send reports every \(days\)**  
 The interval with which the reports are sent
 
-**Send reports to \(comma separated emails\)**  
-The email addresses to which the report should been sent. Multiple email addresses need be separated using commas
+**Send reports to emails**  
+The email addresses to which the report should been sent. Multiple email addresses can be provided. 
 
 **Send report time**  
 Time of report sending
@@ -30,17 +30,13 @@ Time of report sending
 **Unprotected devices notification time**  
 Time of SMS notification
 
-Confirm the settings with the `SAVE CHANGES` button
+Confirm the settings with the `SAVE` button
 
-### **MASTER PASSWORD**
 
-Here you can set master password that is required to provide when erasing android device.
+## Administrators
 
-Type new password and save it by clicking on the `UPDATE PASSWORD` and confirm change with the `Ok` button.
+In this tab you can list and manage your organization administrators.
 
-## LDAP
-
-The LDAP configuration are described in [Sync users with LDAP](settings.md) chapter.
 
 ## USER SYNCHRONIZATION
 
@@ -51,21 +47,12 @@ Source of user synchronization:
 
 * **NONE** - no synchronization with external
 * **LDAP** - users synchronization with LDAP service
-* **MDM** - user synchronization with MDM system
-
-{% hint style="info" %}
-KODO supports users synchronization only with KODO-EMM \(Famoc\) MDM system
-{% endhint %}
 
 **Auto synchronize users**  
 User synchronization will be performed automatically according to configured frequency \(see below\)
 
-**Auto synchronize groups**  
-Users group synchronization will be performed automatically according to configured frequency \(see below\).  
-_This feature is supported only when synchronizing with MDM system. Groups synchronization is NOT supported with LDAP._
-
 **Auto synchronization frequency \(minutes\)**  
-Every how many minutes automatic users and/or groups will be performed.
+Every how many minutes automatic users synchronization will be performed.
 
 ## NOTIFICATIONS
 
@@ -86,3 +73,6 @@ Example:
 _Address Construction Template: %PHONE%@example-sms-gateway.com  
 E-mail from address: 123420123@example-sms-gateway.com_
 
+## LDAP
+
+The LDAP configuration are described in [Sync users with LDAP](settings.md) chapter.

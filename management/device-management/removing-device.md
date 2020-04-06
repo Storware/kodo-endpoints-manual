@@ -4,15 +4,14 @@
 
 To remove a device from the system, select `Devices` from the main menu and then:
 
-* Click on the name of the device you want to delete, click on the `DELETE` button
+* Click on the name of the device you want to delete, click on the ![](../../.gitbook/assets/deletebutton.png) button
 
-  ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LD_wiez_0EVVIJJEUSK%2F-LD_woYrpsPXEvr23qMU%2F-LD_wurda8gIX4ybGj8W%2Fdevice_delete_s.png?generation=1527497601374597&alt=media)​
 
 or
 
-* Click the arrow icon from the table ACTION menu and select `DELETE` from the menu.
+* Click the arrow icon from the table Options menu and select `Delete` from the menu.
 
-  ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LD_wiez_0EVVIJJEUSK%2F-LD_woYrpsPXEvr23qMU%2F-LD_wurfUM-MxSt_1fTr%2Fdevices_action_s.png?generation=1527497601358707&alt=media)​
+  ​![](../../.gitbook/assets/deviceoptions.png)​
 
 Confirm your action with the `Ok` key.
 
