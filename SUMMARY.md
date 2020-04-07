@@ -9,7 +9,6 @@
   * [KODO Components](deployment/installable-components.md)
   * [Manual Installation](deployment/kodo-server-installation.md)
   * [Virtual Appliance](deployment/ova-deployment/README.md)
-    * [KODO Server VA requirements](deployment/ova-deployment/kodo-server-va-requirements.md)
     * [Downloading VA](deployment/ova-deployment/downloading-va.md)
     * [Deploying VA](deployment/ova-deployment/deploying-va.md)
     * [Configuring KODO Server VA](deployment/ova-deployment/configuring-kodo-server-va.md)
