@@ -11,7 +11,7 @@ or
 
 * Click the arrow icon from the table Options menu and select `Delete` from the menu.
 
-  ​![](../../.gitbook/assets/deviceoptions.PNG)​
+  ​![](../../.gitbook/assets/deviceoptions.png)​
 
 Confirm your action with the `Ok` key.
 
