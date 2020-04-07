@@ -5,9 +5,7 @@ Each policy consists of the following configuration tabs:
 ​[**GENERAL**](general-settings.md)
 General settings for whole policy​
 
-
-
-[**WINDOWS**, **OS X**](windows-ans-macos-protection.md)
+[**WINDOWS**, **OS X**](windows-and-macos-protection.md)
 Continues Data Protection for Windows, OS X and MacOS
 
 

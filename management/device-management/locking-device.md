@@ -2,15 +2,15 @@
 
 To lock device and prevent user from logging in to system, select `Devices` from the main menu and:
 
-* Click the device name from the available list, click the ![](../../.gitbook/assets/rozwinbutton.png) drop-down menu button and select `Lock Device`
+* Click the device name from the available list, click the ![](../../.gitbook/assets/rozwinbuttonsmall.png) drop-down menu button and select `Lock Device`
 
-  ![](../../.gitbook/assets/lockdevice1.png)
+  ![](../../.gitbook/assets/lockdevice1.PNG)
   
 or
 
 * Click on the arrow to the right of the table on the line with the device whose data you want to display select `Lock` from the `Options` menu.
 
-![](../../.gitbook/assets/deviceoptions.png)
+![](../../.gitbook/assets/deviceoptions.PNG)
 
 or 
 
@@ -22,15 +22,15 @@ or
 # Unlocking device
 
 To unlock the device and allow the user to login from it select `Devices` from the main menu and:
-* Click the device name from the available list, click the ![](../../.gitbook/assets/rozwinbutton.png) drop-down menu button and select `Unlock Device`
+* Click the device name from the available list, click the ![](../../.gitbook/assets/rozwinbuttonsmall.png) drop-down menu button and select `Unlock Device`
 
-  ![](../../.gitbook/assets/unlockdevice1.png)
+  ![](../../.gitbook/assets/unlockdevice1.PNG)
   
 or
 
 * Click on the arrow to the right of the table on the line with the device whose data you want to display select `Unlock` from the `Options` menu.
 
-![](../../.gitbook/assets/unlockdevice.png)
+![](../../.gitbook/assets/unlockdevice.PNG)
 
 or
 
