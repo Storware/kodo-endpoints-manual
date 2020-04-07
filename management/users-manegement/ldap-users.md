@@ -6,6 +6,7 @@
 2. **Go to the LDAP tab**
 
 ![](../../.gitbook/assets/ldapset.png)
+
 Provide necessary information:
 
 * **Server URL -** directory server ip or domain address
@@ -15,7 +16,7 @@ Provide necessary information:
 * **Group filter -** LDAP group filter
 
 {% hint style="warning" %}
-If you configuring synchronization for the first time before clicking the ![](../../.gitbook/assets/savebutton.png) button fill the LDAP user password fields.
+If you configuring synchronization for the first time before clicking the ![](../../.gitbook/assets/savebuttonsmall.png) button fill the LDAP user password fields.
 {% endhint %}
 
 Click on the  button to confirm your changes.
@@ -28,5 +29,5 @@ Click on the  button to confirm your changes.
 4. **As source of synchronization \(**`Source type` **\) select:** `LDAP`
 5. **Mark the Auto Synchronize users checkbox**
 6. **Set Auto synchronization frequency [min]  \(0 - no synchronization\)**
-7. **Save changes with** ![](../../.gitbook/assets/savebutton.png) button.
+7. **Save changes with** ![](../../.gitbook/assets/savebuttonsmall.png) button.
 
