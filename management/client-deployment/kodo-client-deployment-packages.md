@@ -12,5 +12,5 @@ To upload client packages to your KODO Server follow the steps:
 2. Click **Upload package** button, select downloaded client package and click **Open**
 3. Package will be uploaded, after successful upload information will be displayed
 
-![upload](../../.gitbook/assets/uploadpkg.png)
+![upload](../../.gitbook/assets/uploadpkg.PNG)
 
