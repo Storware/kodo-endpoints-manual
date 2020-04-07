@@ -4,7 +4,7 @@ To send KODO client installation instructions, select `Users` from the main menu
 
 You will be sent a KODO client installation instruction for the selected platform type.
 
-![](../../.gitbook/assets/userdeploy.PNG)
+![](../../.gitbook/assets/userdeploy.png)
 
 {% hint style="info" %}
 **The email will include both, Windows and OS X client packages.**
@@ -14,7 +14,10 @@ You will be sent a KODO client installation instruction for the selected platfor
 
 
 {% hint style="info" %}_To send a single message containing download links and instructions for multiple users simultaneously, just select check box next to all selected usernames and then click `Send Deployment` button in upper right corner._
-![](../../.gitbook/assets/selecteduserspkg.png){% endhint %}
+
+![](../../.gitbook/assets/selecteduserspkg.png)
+
+{% endhint %}
 
 
 
