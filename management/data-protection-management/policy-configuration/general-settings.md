@@ -25,11 +25,12 @@ Password requirements for local users accounts:
 * **Require both letters and numbers**
 * **Require special characters**
 
-## RISK NOTIFICATION SETTINGS
-
+## **RISK NOTIFICATION SETTINGS** <a id="risk-notification-settings"></a>
 ![](../../../.gitbook/assets/policygeneral3.png)
 
-KODO for Endpoints will send e-mail notification about unprotected device after set amount of days from last backup.
+**Send email notification for unprotected desktops** If desktop device will change status to unprotect, device owner will be notified by e-mail
+
+**Show desktop as "Unprotected" after specified period since last backup [day]** Number of days, without any contact from desktop device, after which status will be changed to unprotected
 
 
 ## ENCRYPTION SETTINGS <a id="encryption-settings"></a>
