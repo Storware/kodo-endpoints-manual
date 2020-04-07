@@ -6,7 +6,7 @@ A list will display all policies configured in system
 
 To view the list of polices, select `Policies` from the main menu. 
 
-![](../../.gitbook/assets/policieslist.png)
+![](../../.gitbook/assets/policieslist.PNG)
 
 Policies list table view consist of following columns:
 
@@ -35,5 +35,5 @@ To modify policy priorities, go to the list of policies and then click on `Manag
 
 Grab the selected policy and move \(grab and drop\) it to the selected position. The higher the policy is, the higher priority will be assigned. Grab policy and move it around the list
 
-![](../../.gitbook/assets/priority.png)
+![](../../.gitbook/assets/priority.PNG)
 
