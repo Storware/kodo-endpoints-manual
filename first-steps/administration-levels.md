@@ -17,6 +17,7 @@ KODO administration level is the highest level of authorization. Logging in to t
 * IBM Spectrum Protect server settings
 * Licensing informations
 * Create new organization
+* T1
 
 ## KODO organization administrator level
 
