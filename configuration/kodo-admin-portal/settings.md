@@ -3,7 +3,7 @@
 To change configuration select `Settings` from the top portal bar.
 
 
-### **GENERAL**
+  ### **GENERAL**
 
 This section allows you to configure domain name for URL with deployment package:
 ![email](../../.gitbook/assets/deploy.png)
@@ -19,15 +19,29 @@ Confirm the settings with the `SAVE` button
 
 In this section you will configure smtp server settings for KODO for Endpoint.
 
-You must set sender email address, server address and ports settings.
+To set up **e-mail** server:
 
-You can set login name when server needs authentication.
-![email](../../.gitbook/assets/email.png)
+1. Click **Settings** located in top bar, this will move you to KODO configuration page
+2. Click **General** tab.
+3. Provide the necessary information for the e-mail server configuration
+   * **E-mail address** – address used to sending e-mails from KODO
+   * **Login** – user name used to login to e-mail server \(optional if server needs authentication\)
+   * **Server address** - IP or DNS name of the e-mail server
+   * **Port** - port of the e-mail server
+   * **Use SSL** - set to "on" if SSL communication is required
+   * **SSL Port** - TCP Port number used by SSL SMTP server
+   * **Require Authentication** - set to “on” if server requires authentication
 
-When authentication is required then you have to set email server password.
+   ![mail](../../.gitbook/assets/email.png)
+     
+4. Click **SAVE CHANGES** button.
+5. If server needs authetication then provide password for e-mail server in **SET EMAIL SERVER PASSWORD** section
 
+   ![mail\_password](../../.gitbook/assets/emailpass.png)
 
-![emailpassword](../../.gitbook/assets/emailpass.png)
+6. Click “UPDATE PASSWORD” button
+
+_TIP: You can test your configuration click **SEND TEST EMAIL** button_
 
 
 After installation and configuration SSL components for Spectrum Protect Server described in [IBM Spectrum Protect engine](../deployment/ibm-spectrum-protect/README.md) you can configure SSL settings in KODO Admin portal tab.
