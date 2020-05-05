@@ -74,7 +74,7 @@ To set up connection with backup server:
    * **Adminitrative port** – Spectrum Protect Administrative port \(if different from client port\)
    * **Nodename** – nodname used by KODO \(created in [previous steps](../deployment/spectrum-protect-tsm-configuration.md)\)
 
-     ![tsm](../../.gitbook/assets/ssltsm.PNG)
+     ![tsm](../../.gitbook/assets/ssltsm.png)
 4. Click **SAVE CHANGES** button.
 5. Provide password for node in “SET IBM SP PASSWORD” section
 
