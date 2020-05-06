@@ -59,7 +59,7 @@ If you already have a valid certificate file please follow the steps:
 ![tsm](../../.gitbook/assets/ssltsmcert.PNG)
 
 4. Set to "on" **Use SSL** switch
-5. 
+
 ### IBM Spectrum Protect \(TSM\) setup
 
 **NOTE: If you are using KODO Virtual Appliance change "Server address" configuration. "Server address" should point to KODO server IP address that will be available for backup clients! For Virtual Appliance no further changes are required.**
