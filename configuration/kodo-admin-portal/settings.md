@@ -56,7 +56,7 @@ If you already have a valid certificate file please follow the steps:
 2. Click **IBM Spectrum Protect** tab.
 3. Click **Upload certificate** button and select the valid SP \(TSM\) certificate file
 
-![tsm](../../.gitbook/assets/ssltsmcert.PNG)
+![tsm](../../.gitbook/assets/ssltsmcert.png)
 
 4. Set to "on" **Use SSL** switch
 
@@ -78,7 +78,7 @@ To set up connection with backup server:
 4. Click **SAVE CHANGES** button.
 5. Provide password for node in “SET IBM SP PASSWORD” section
 
-     ![tsm](../../.gitbook/assets/ssltsmpass.PNG)
+     ![tsm](../../.gitbook/assets/ssltsmpass.png)
 
 6. Click **UPDATE PASSWORD** button
 
