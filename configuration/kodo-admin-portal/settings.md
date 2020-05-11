@@ -12,7 +12,7 @@ _Link will be sent in format:_ **https://deployment.server.name/TOKEN**
 
 Yo can narrow access for kodoadmin to specific IP addresses.
 
-Confirm the settings with the `SAVE` button
+Confirm the settings with the ![SAVE](../../.gitbook/assets/savebuttonsmall.png) button
 
 
 ### Email
@@ -34,7 +34,7 @@ To set up **e-mail** server:
 
    ![mail](../../.gitbook/assets/email.png)
      
-4. Click **SAVE CHANGES** button.
+4. Click ![SAVE](../../.gitbook/assets/savebuttonsmall.png) button.
 5. If server needs authetication then provide password for e-mail server in **SET EMAIL SERVER PASSWORD** section
 
    ![mail\_password](../../.gitbook/assets/emailpass.png)
@@ -75,7 +75,7 @@ To set up connection with backup server:
    * **Nodename** – nodname used by KODO \(created in [previous steps](../deployment/spectrum-protect-tsm-configuration.md)\)
 
      ![tsm](../../.gitbook/assets/ssltsm.png)
-4. Click **SAVE CHANGES** button.
+4. Click ![SAVE](../../.gitbook/assets/savebuttonsmall.png) button.
 5. Provide password for node in “SET IBM SP PASSWORD” section
 
      ![tsm](../../.gitbook/assets/ssltsmpass.png)
@@ -105,7 +105,7 @@ In this tab you can set all parameters for KODO for Endpoints server logs.
 1. Click **Settings** located in top bar, this will move you to KODO configuration page
 2. Click **Logs** tab. 
 3. Provide max number of logs files, log level, max size of single file and set retentions period in days.
-4. Click **Save** to apply settings.
+4. Click ![SAVE](../../.gitbook/assets/savebuttonsmall.png) to apply settings.
 
 ![logs](../../.gitbook/assets/logs.png)
 
