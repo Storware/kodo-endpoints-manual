@@ -26,7 +26,7 @@ After editing an user just click ![](../../.gitbook/assets/savebuttonsmall.png) 
 
 * ### Removing organization administrator account
 
-To remove account you have to click drop-down menu on the right side of user in table\
+To remove account you have to click drop-down menu on the right side of user in table
 
 ![](../../.gitbook/assets/editadmin.png) and select _**Delete**_
 
@@ -34,8 +34,21 @@ To confirm selection write username for deletion.
 
 ![](../../.gitbook/assets/deleteadmin.png)
 
-
-And click ![](../../.gitbook/assets/continuesmall.png) or 
+and choose ![](../../.gitbook/assets/continuesmall.png) or ![](../../.gitbook/assets/nosmall.png) for cancel.
 
 * ### Resetting password for organization administrator account
 
+To reset password for organization administrator just click drop-down menu and choose _**Reset password**_ for manual password set,
+
+![](../../.gitbook/assets/editadmin.png)
+
+![](../../.gitbook/assets/resetpass1.png)
+
+
+and choose ![](../../.gitbook/assets/savebuttonsmall.png) or ![](../../.gitbook/assets/dismissbuttonsmall.png) for cancel.
+
+Another way to change password is _**Reset and email password**_ for automatic password generation. Generated password will be sent to email provided for account.
+
+![](../../.gitbook/assets/changepass2.png)
+
+Choose ![](../../.gitbook/assets/yesbuttonsmall.png) or ![](../../.gitbook/assets/nosmall.png) for cancel.
