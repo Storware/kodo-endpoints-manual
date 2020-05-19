@@ -28,7 +28,9 @@ After editing an user just click ![](../../.gitbook/assets/savebuttonsmall.png) 
 
 To remove account you have to click drop-down menu on the right side of user in table
 
-![](../../.gitbook/assets/editadmin.png) and select _**Delete**_
+![](../../.gitbook/assets/editadmin.png) 
+
+and select _**Delete**_
 
 To confirm selection write username for deletion.
 
