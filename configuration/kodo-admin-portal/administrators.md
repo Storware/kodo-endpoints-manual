@@ -34,7 +34,7 @@ To confirm selection write username for deletion.
 
 ![](../../.gitbook/assets/deleteadmin.png)
 
-and choose ![](../../.gitbook/assets/continuesmall.png) or ![](../../.gitbook/assets/nosmall.png) for cancel.
+and choose ![](../../.gitbook/assets/continuesmall.png) or ![](../../.gitbook/assets/nosmall.PNG) for cancel.
 
 * ### Resetting password for organization administrator account
 
@@ -51,4 +51,4 @@ Another way to change password is _**Reset and email password**_ for automatic p
 
 ![](../../.gitbook/assets/changepass2.png)
 
-Choose ![](../../.gitbook/assets/yesbuttonsmall.png) or ![](../../.gitbook/assets/nosmall.png) for cancel.
+Choose ![](../../.gitbook/assets/yesbuttonsmall.png) or ![](../../.gitbook/assets/nosmall.PNG) for cancel.
