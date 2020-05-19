@@ -26,7 +26,7 @@ You can check this using web browser, provide api-core component address to test
 
 Version of installed component should be displayed.
 
-![Version of installed api-core component](../.gitbook/assets/apiversion.PNG)
+![Version of installed api-core component](../.gitbook/assets/apiversion.png)
 
 ## Support contact - when something gone wrong
 
