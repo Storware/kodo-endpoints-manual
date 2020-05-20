@@ -16,7 +16,6 @@
     * [Setting up network configuration](deployment/ova-deployment/setting-up-network-configuration.md)
   * [RPM packages installation](deployment/installation-with-rpm-packages/README.md)
     * [Taking the first steps after installation](deployment/installation-with-rpm-packages/taking-the-first-steps-after-installation.md)
-  * [Configuring web admin gui](deployment/configuring-web-admin-ui.md)
   * [IBM Spectrum Protect engine](deployment/ibm-spectrum-protect/README.md)
     * [Preparing KODO Server for SSL connection with Spectrum Protect \(TSM\)](deployment/ibm-spectrum-protect/preparing-kodo-server-for-ssl-connection-with-spectrum-protect-tsm.md)
     * [Spectrum Protect \(TSM\) configuration + policy](deployment/ibm-spectrum-protect/spectrum-protect-tsm-configuration.md)
