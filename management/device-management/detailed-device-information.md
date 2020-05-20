@@ -8,19 +8,19 @@ To view details about the device, select `Devices` from the main menu and then:
 
 or
 
-* Click the arrow icon from the table **Options menu and select `Details` from the menu.
+* Click the arrow icon from the table \*\*Options menu and select `Details` from the menu.
 
   ![](../../.gitbook/assets/deviceoptions.png)
-
-
 
 ## Details
 
 * **Device information** - Informations about registerd device ie: app version, operating system, manufacturer.
-![](../../.gitbook/assets/devicedetails.png)
 
+  ![](../../.gitbook/assets/devicedetails.png)
 
-* **Protected Files** - Backup browser allows administrator to restore files from backup when [policy](../data-protection-management/general-settings.md) allows it, and option: _Allow administrators to restore user files_ is turned on.
+* **Protected Files** - Backup browser allows administrator to restore files from backup when [policy](../data-protection-management/policy-configuration/general-settings.md) allows it, and option: _Allow administrators to restore user files_ is turned on.
 
 ![](../../.gitbook/assets/backupedfiles.png)
+
 * **Device Events** - Device event log.
+

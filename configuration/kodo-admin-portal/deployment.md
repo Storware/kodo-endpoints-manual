@@ -5,7 +5,7 @@ description: >-
   and use.
 ---
 
-# Uploading KODO clients
+# Deployment
 
 To upload client packages to your KODO Server follow the steps:
 

@@ -1,6 +1,6 @@
 # Users list
 
-## List users accounts (KODO Organization Admin Portal)
+## List users accounts \(KODO Organization Admin Portal\)
 
 A list of users is a collection of all accounts registered in the organization system.
 

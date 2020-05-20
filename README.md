@@ -1,10 +1,10 @@
 # About KODO for Endpoints
 
-  Storware KODO is a next generation of enterprise data protection software for Windows/OS X.
+Storware KODO is a next generation of enterprise data protection software for Windows/OS X.
 
-  The robust protection, it provides, is fundamental both to IT admins and business users. KODO fights against thefts, malware attacks (incl. ransomware) or human errors.
-  
-* Enterprise engine (+1000 users)
+The robust protection, it provides, is fundamental both to IT admins and business users. KODO fights against thefts, malware attacks \(incl. ransomware\) or human errors.
+
+* Enterprise engine \(+1000 users\)
 * File versioning
 * Continuous data protection
 * Space saver – deduplication
@@ -21,3 +21,4 @@ Managing IT infrastructure of the company is never easy. Nethertheless KODO coul
 * “User transparent” or magic link deployment
 * Easy restore
 * Ready for ticket system integration
+

@@ -16,7 +16,7 @@ To synchronize users with LDAP server complete the following steps:
 4. Click **SAVE CHANGES** button.
 5. Provide password for LDAP server in **USERS & GROUPS LDAP PASSWORD** section
 
-   ![ldap\_password](../../.gitbook/assets/ldap_password.png)
+   ![ldap\_password](https://github.com/Storware/kodo-endpoints-manual/tree/4aaf7963e8bd360acf364257fa025561f954a699/.gitbook/assets/ldap_password.png)
 
 6. click “UPDATE PASSWORD” button
 

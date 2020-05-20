@@ -1,12 +1,10 @@
-# Device list
+# Devices list
 
 ## List registered devices <a id="list-registered-devices"></a>
 
 A list of devices is a collection of all registered and protected devices in the system.
 
 To view the list of registered devices, select `Devices` from the main menu.
-
-
 
 Devices list table view consist of following columns:
 
@@ -36,7 +34,7 @@ Devices list table view consist of following columns:
 
 | **Status** | **Description** |
 | :--- | :--- |
-| Protected ![](../../.gitbook/assets/protected.png)| Device is protected according to assigned policy |
+| Protected ![](../../.gitbook/assets/protected.png) | Device is protected according to assigned policy |
 | Not protected ![](../../.gitbook/assets/unprotected.png) | Device didn't connect with server within last days. Number of days is configured by policy, |
 | Locked ![](../../.gitbook/assets/locked.png) | Device is locked. User cannot log in and perform any operations from this device. |
 

@@ -1,9 +1,10 @@
 # Virtual Appliance
 
-The following guide provide an information about virtual environment and virtual machine requirements. Please carefully review all [KODO Server VA requirements](../first-steps/server-requirements.md).
+The following guide provide an information about virtual environment and virtual machine requirements. Please carefully review all [KODO Server VA requirements](https://github.com/Storware/kodo-endpoints-manual/tree/4aaf7963e8bd360acf364257fa025561f954a699/deployment/first-steps/server-requirements.md).
 
-* [*Downloading VA*](downloading-va.md)
-* [*Deploying VA*](deploying-va.md)
-* [*Configuring KODO Server VA*](configuring-kodo-server-va.md)
-* [*Loggin to virtual machine*](loggin-to-virtual-machine.md)
-* [*Setting up network configuration*](setting-up-network-configuration.md)
+* [_Downloading VA_](downloading-va.md)
+* [_Deploying VA_](deploying-va.md)
+* [_Configuring KODO Server VA_](configuring-kodo-server-va.md)
+* [_Loggin to virtual machine_](loggin-to-virtual-machine.md)
+* [_Setting up network configuration_](setting-up-network-configuration.md)
+

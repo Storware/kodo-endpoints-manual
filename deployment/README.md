@@ -1,10 +1,11 @@
 # Deployment
 
-To start working with KODO for Endpoints, you must configure a backup server by installing  all KODO for Endpoints components on a machine that meets the [system requirements](../first-step/server-requirements.md). 
+To start working with KODO for Endpoints, you must configure a backup server by installing all KODO for Endpoints components on a machine that meets the [system requirements](https://github.com/Storware/kodo-endpoints-manual/tree/4aaf7963e8bd360acf364257fa025561f954a699/first-step/server-requirements.md).
 
-* [*KODO for Endpoint components*](installable-components.md)
-* [*Manual Installation*](kodo-server-installation.md)
-* [*Virtual Appliance*](ova-deployment/README.md)
-* [*RPM packages installation*](installation-with-rpm-packages/README.md)
-* [*Configuring web admin gui*](configuring-web-admin-ui.md)
-* [*IBM Spectrum Protect engine*](ibm-spectrum-protect/README.md)
+* [_KODO for Endpoint components_](installable-components.md)
+* [_Manual Installation_](kodo-server-installation.md)
+* [_Virtual Appliance_](ova-deployment/)
+* [_RPM packages installation_](installation-with-rpm-packages/)
+* [_Configuring web admin gui_](configuring-web-admin-ui.md)
+* [_IBM Spectrum Protect engine_](ibm-spectrum-protect/)
+

@@ -19,15 +19,17 @@ Provide necessary information:
 If you configuring synchronization for the first time before clicking the ![](../../.gitbook/assets/savebuttonsmall.png) button fill the LDAP user password fields.
 {% endhint %}
 
-Click on the  button to confirm your changes.
+Click on the button to confirm your changes.
 
 ## Configure users synchronization source
 
 1. **Go to settings by clicking on Settings in the main menu**
 2. **Go to tab** `Users Synchronization`
-![](../../.gitbook/assets/ldapsync.png)
-4. **As source of synchronization \(**`Source type` **\) select:** `LDAP`
-5. **Mark the Auto Synchronize users checkbox**
-6. **Set Auto synchronization frequency [min]  \(0 - no synchronization\)**
-7. **Save changes with** ![](../../.gitbook/assets/savebuttonsmall.png) button.
+
+   ![](../../.gitbook/assets/ldapsync.png)
+
+3. **As source of synchronization \(**`Source type` **\) select:** `LDAP`
+4. **Mark the Auto Synchronize users checkbox**
+5. **Set Auto synchronization frequency \[min\]  \(0 - no synchronization\)**
+6. **Save changes with** ![](../../.gitbook/assets/savebuttonsmall.png) button.
 

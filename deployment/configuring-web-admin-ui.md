@@ -1,4 +1,4 @@
-# Configuring Web Admin UI
+# Configuring web admin gui
 
 ## Configuring connection with api-core <a id="configuring-connection-with-api-core"></a>
 

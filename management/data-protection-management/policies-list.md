@@ -4,7 +4,7 @@
 
 A list will display all policies configured in system
 
-To view the list of polices, select `Policies` from the main menu. 
+To view the list of polices, select `Policies` from the main menu.
 
 ![](../../.gitbook/assets/policieslist.png)
 
@@ -23,7 +23,7 @@ Policies list table view consist of following columns:
 
 ## Default policy <a id="default-policy"></a>
 
- Default policy will be used for all new users synced from external source, like e.g. Active Directory.
+Default policy will be used for all new users synced from external source, like e.g. Active Directory.
 
 ## Priority <a id="policy-priotiy"></a>
 

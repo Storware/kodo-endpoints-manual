@@ -22,7 +22,7 @@ This section allows you to configure reports about space usage and device activi
 The interval with which the reports are sent
 
 **Send reports to emails**  
-The email addresses to which the report should been sent. Multiple email addresses can be provided. 
+The email addresses to which the report should been sent. Multiple email addresses can be provided.
 
 **Send report time**  
 Time of report sending
@@ -32,11 +32,9 @@ Time of SMS notification
 
 Confirm the settings with the `SAVE` button
 
-
 ## Administrators
 
 In this tab you can list and manage your organization administrators.
-
 
 ## USER SYNCHRONIZATION
 
@@ -76,3 +74,4 @@ E-mail from address: 123420123@example-sms-gateway.com_
 ## LDAP
 
 The LDAP configuration are described in [Sync users with LDAP](settings.md) chapter.
+

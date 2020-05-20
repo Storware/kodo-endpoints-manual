@@ -9,3 +9,4 @@ After this section you will be able to manage devices in KODO Organization Admin
 * [Locking and Unlocking device](locking-device.md)
 * [Removing device](removing-device.md)
 * [Device logs](device-logs.md)
+

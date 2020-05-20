@@ -27,7 +27,6 @@ You can also use Options menu "Edit" item from user list
 **You can only edit local user accounts.**
 {% endhint %}
 
-
 ## Lock/unlock user account
 
 Locking account will result in blocking access to account and data by the user
@@ -36,7 +35,7 @@ To lock/unlock user account:
 
 1. **Go to the list of users. Select** `Users` **from main menu**
 2. **Click on the name of the user you want to lock or unlock**
-3. **Click the ![](../../.gitbook/assets/rozwinbuttonsmall.png) button, select** `Lock user` **or if user was previously locked** `Unlock user`
+3. **Click the** ![](../../.gitbook/assets/rozwinbuttonsmall.png) **button, select** `Lock user` **or if user was previously locked** `Unlock user`
 
 ## Delete user account and backup data
 
@@ -51,3 +50,4 @@ To lock/unlock user account:
 {% hint style="warning" %}
 **You can only delete local user accounts.**
 {% endhint %}
+

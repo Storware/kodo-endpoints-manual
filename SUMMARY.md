@@ -46,9 +46,9 @@
     * [Policies overview](management/data-protection-management/policies-overview.md)
     * [Policies list](management/data-protection-management/policies-list.md)
     * [Detailed policy information](management/data-protection-management/detailed-policy-information.md)
-    * [Policy configuration](management/data-protection-management/policy-configuration.md)
-      * [General settings](management/data-protection-management/general-settings.md)
-      * [Windows ans MacOS protection](management/data-protection-management/windows-ans-macos-protection.md)
+    * [Policy configuration](management/data-protection-management/policy-configuration/README.md)
+      * [General settings](management/data-protection-management/policy-configuration/general-settings.md)
+      * [Windows ans MacOS protection](management/data-protection-management/policy-configuration/windows-ans-macos-protection.md)
     * [New protection policy](management/data-protection-management/new-protection-policy.md)
     * [Policy removal](management/data-protection-management/policy-removal.md)
   * [Users manegement](management/users-manegement/README.md)
@@ -76,6 +76,5 @@
   * [E-mail template for test message](customization/e-mail-template-for-test-message.md)
   * [WWW page for downloading file from password protected link](customization/www-page-for-downloading-file-from-password-protected-link.md)
   * [Portal branding](customization/portal-branding.md)
-* [Troubleshooting](troubleshooting/README.md)
-
+* [Troubleshooting](troubleshooting.md)
 

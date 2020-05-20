@@ -8,6 +8,7 @@ In order to ensure 100% safety, data are encrypted and all of your precious file
 
 Before you install KODO for Endpoints, you must make sure that environment and machines that you plan to use as a backup infrastructure components meet hardware and software recommendations and system requirements.
 
-* [*Getting started*](getting-started.md)
-* [*Server requirements*](server-requirements.md)
-* [*Administration levels*](administration-levels.md)
+* [_Getting started_](getting-started.md)
+* [_Server requirements_](server-requirements.md)
+* [_Administration levels_](administration-levels.md)
+

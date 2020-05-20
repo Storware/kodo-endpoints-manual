@@ -1,4 +1,4 @@
-# KODO client deployment packages \(KODO Admin Portal\)
+# KODO client deployment packages \(Admin Portal\)
 
 To use KODO client you first need to upload KODO client packages.
 

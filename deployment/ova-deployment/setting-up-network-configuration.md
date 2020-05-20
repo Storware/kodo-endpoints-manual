@@ -13,7 +13,7 @@ When ask for password use password for kodo user.
 Edit network configuration file:
 
 ```text
-# nano /etc/sysconfig/netork-scripts/ifcfg-eth0
+# nano /etc/sysconfig/netork-scripts/ifcfg-ens160
 ```
 
 To set up static IP address change:
@@ -76,7 +76,7 @@ The final step is to restart network configuration. To do this use the command:
 Now you should be able login your KODO system using web browser and IP address that you configured in previous steps. Open web browser and enter:
 
 ```text
-https://ip_address
+https://ip_address:8181
 ```
 
 KODO login page should be opened.
