@@ -10,7 +10,7 @@ This section allows you to configure domain name for URL with deployment package
 
 _Link will be sent in format:_ [https://deployment.server.name/TOKEN](https://deployment.server.name/TOKEN)
 
-Yo can narrow access for kodoadmin to specific IP addresses.
+You can narrow access for kodoadmin to specific IP addresses.
 
 Confirm the settings with the ![SAVE](../../.gitbook/assets/savebuttonsmall.png) button
 

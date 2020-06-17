@@ -1,6 +1,6 @@
 # Administration levels
 
-KODO for Endpoint system consist of two levels of administration:
+KODO for Endpoint system consists of two levels of administration:
 
 * KODO ADMIN level
 * KODO organization administration level
@@ -13,7 +13,7 @@ KODO ADMIN level is the highest level of authorization. Logging in to the system
 * E-mail server settings
 * KODO client packages
 * IBM Spectrum Protect server settings
-* Licensing informations
+* Licensing information
 * Create new organization
 
 ### Default credentials
