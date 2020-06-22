@@ -28,7 +28,7 @@ Version of installed component should be displayed.
 
 ![Version of installed api-core component](../.gitbook/assets/apiversion.png)
 
-## Support contact - when something gone wrong
+## Support contact - when something went wrong
 
-In case of any installation problems please contat with [Storware Support Team](mailto:support@storware.eu) or one of our local [partners](https://storware.eu/en/partners/).
+In case of any installation problems please contact with [Storware Support Team](mailto:support@storware.eu) or one of our local [partners](https://storware.eu/en/partners/).
 
