@@ -36,6 +36,7 @@ and then select directory and/or file(s) to restore. You can restore whole direc
 After all click one more time __Restore__ button.
 
 If there is conflict with existing file, you have to choose an action:
+
 ![](../.gitbook/assets/actionrestore.png)
 
 * _Overwrite_ - to overwrite all existing files that conflict with restore
@@ -43,5 +44,14 @@ If there is conflict with existing file, you have to choose an action:
 * _Decide for each file_ - decide what to do on every restored file
 * _Cancel_ - for cancel operation.
 
+![](../.gitbook/assets/restoring.png)
+
+You can cancel unfinished operation by clicking __Cancel__ button.
+
+After all just click __Done__.
+
+![](../.gitbook/assets/done.png)
+
+Restore process is finalized.
 
 ## Settings
