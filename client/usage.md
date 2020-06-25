@@ -2,7 +2,7 @@
 
 ## Overview
 
-![](../.gitbook/assets/clientoverwiew.png)
+![](../.gitbook/assets/clientoverwiew.PNG)
 
 On this screen you will see basic information about client settings and backup status.
 
