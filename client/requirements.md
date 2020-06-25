@@ -7,6 +7,7 @@
   * Minimum 4GB of RAM
   * .NET framework 4.5 or higher
   * Minimum 15GB of free disk space
+  
 
 2. MacOS Client minimum requirements:
   
