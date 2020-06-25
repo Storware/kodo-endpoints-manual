@@ -55,3 +55,8 @@ After all just click __Done__.
 Restore process is finalized.
 
 ## Settings
+On Settings tab you can change server settings, interface language and turn on or off data encryption.
+
+On this tab You can open logs folder for troubleshooting by clicking "_Open Log folder_" on bottom right corner.
+
+![](../.gitbook/assets/kodosettings.png)
