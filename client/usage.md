@@ -21,4 +21,27 @@ All shared data will be protected by KODO for Endpoint.
 ## Backups
 
 
+![](../.gitbook/assets/restore1.png)
+
+On this tab you can perform restore of files from previous backups.
+
+To restore file or files, just select day and time of backup on upper left corner
+
+![](../.gitbook/assets/callendarclient.png)
+
+and then select directory and/or file(s) to restore. You can restore whole directories instead of individual files too by checking up directories. After selection just click __Restore__ button and choose destination of restore.
+
+![](../.gitbook/assets/restoredestination.png)
+
+After all click one more time __Restore__ button.
+
+If there is conflict with existing file, you have to choose an action:
+![](../.gitbook/assets/actionrestore.png)
+
+* _Overwrite_ - to overwrite all existing files that conflict with restore
+* _Skip_ - to skip restore of all conflicting files
+* _Decide for each file_ - decide what to do on every restored file
+* _Cancel_ - for cancel operation.
+
+
 ## Settings
