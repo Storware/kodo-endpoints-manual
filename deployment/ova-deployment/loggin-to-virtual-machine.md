@@ -1,4 +1,4 @@
-# Loggin to virtual machine
+# Logging to the virtual machine
 
 Use credentials listed below to log in to system:
 

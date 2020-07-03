@@ -1,5 +1,5 @@
 ---
-description: You can install the following components for KODO v3.12 or later.
+description: You can install the following components for KODO
 ---
 
 # KODO Components
@@ -8,4 +8,5 @@ description: You can install the following components for KODO v3.12 or later.
 | :--- | :--- |
 | api-core | Includes core part of KODO server |
 | web-admin-ui | Include administrative portal to manage KODO instance |
+| KODO Client | KODO Client |
 

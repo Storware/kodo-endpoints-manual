@@ -12,7 +12,7 @@
     * [Downloading VA](deployment/ova-deployment/downloading-va.md)
     * [Deploying VA](deployment/ova-deployment/deploying-va.md)
     * [Configuring KODO Server VA](deployment/ova-deployment/configuring-kodo-server-va.md)
-    * [Loggin to virtual machine](deployment/ova-deployment/loggin-to-virtual-machine.md)
+    * [Logging to the virtual machine](deployment/ova-deployment/loggin-to-virtual-machine.md)
     * [Setting up network configuration](deployment/ova-deployment/setting-up-network-configuration.md)
   * [RPM packages installation](deployment/installation-with-rpm-packages/README.md)
     * [Taking the first steps after installation](deployment/installation-with-rpm-packages/taking-the-first-steps-after-installation.md)

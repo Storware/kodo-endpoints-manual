@@ -72,13 +72,13 @@ Latest 7.1.8 version of IBM SP BA Client can be found on IBM FTP server:
 
 #### Installing Spectrum Protect Backup-Archive Client 7.1.8 on CentOS
 
-Download package with client:  
+Download package with the client:  
 `wget ftp://ftp.software.ibm.com/storage/tivoli-storage-management/patches/client/v7r1/Linux/LinuxX86/BA/v718/7.1.8.3-TIV-TSMBAC-LinuxX86.tar`
 
 Extract a tarball file:  
 `tar -xvf 7.1.8.3-TIV-TSMBAC-LinuxX86.tar`
 
-Install required packages:
+Install the required packages:
 
 * gskcrypt64
 * gskssl64
