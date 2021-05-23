@@ -1,5 +1,5 @@
 
-## Restore
+## Backups
 
 
 ![](../.gitbook/assets/restore1.png)
@@ -36,6 +36,7 @@ After all just click __Done__.
 Restore process is finalized.
 
 ## Settings
+
 On Settings tab you can change server settings, interface language and turn on or off data encryption.
 
 After changing values just click __Save__ button. 
@@ -46,7 +47,23 @@ On this tab You can open logs folder for troubleshooting by clicking "_Open Log 
 
 ![](../.gitbook/assets/kodosettings.png)
 
+* To enable data encryption just check box and confirm warning message.
 
 {% hint style="info" %}
-Enablement or disablement encryption will delete all previous created backups!
+Enablement or disablement of encryption will erase all previous created backups!
 {% endhint %}
+
+![](../.gitbook/assets/encrwarning.PNG)
+
+And set encryption password.
+
+![](../.gitbook/assets/encryptpass.PNG)
+
+After that backup will be encrypted.
+
+
+* To disable encryption just unselect checkbox, confirm warning message and provide previously set password.
+
+![](../.gitbook/assets/decryptwarn.PNG)
+
+![](../.gitbook/assets/decryptpass.PNG)
