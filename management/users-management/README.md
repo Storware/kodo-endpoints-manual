@@ -1,4 +1,4 @@
-# Users manegement
+# Users management
 
 In this section you will learn about user management in KODO for Endpoints with KODO Organization Portal.
 
