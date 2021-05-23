@@ -1,4 +1,5 @@
-## UI Restore
+
+## Restore
 
 
 ![](../.gitbook/assets/restore1.png)
@@ -34,7 +35,7 @@ After all just click __Done__.
 
 Restore process is finalized.
 
-## UI Settings
+## Settings
 On Settings tab you can change server settings, interface language and turn on or off data encryption.
 
 After changing values just click __Save__ button. 

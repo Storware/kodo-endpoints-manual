@@ -71,7 +71,7 @@
   * [Components overwiew](client/components.md)
   * [Using KODO for Endpoint client](client/usage.md)
     * [Policy edit](client/policy.md)
-    * [UI](client/ui.md)
+    * [Client Dashboard](client/ui.md)
     * [Right mouse button](client/rmb.md)
 * [Customization](customization/README.md)
   * [Customizing KODO templates](customization/customizing-kodo-templates.md)

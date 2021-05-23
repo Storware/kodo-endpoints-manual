@@ -1,6 +1,6 @@
 # KODO Admin Portal
 
-Logging in with admin creditentials you will log in to KODO Admin Portal.
+Logging in with kodoadmin creditentials you will log in to KODO Admin Portal.
 
 ## As KODO administrator you have 5 menu items:
 
