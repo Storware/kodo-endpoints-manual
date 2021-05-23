@@ -6,6 +6,7 @@ In example "policy1"
 ![](../.gitbook/assets/assignedpol1.PNG)
 
 For quick assigning just click proper document type in "Applications" bar
+
 ![](../.gitbook/assets/clipolicyset1.PNG)
 
 * Select "My Documents" to add "My Documents" folder and subfolders to backup, ie. "C:\Users\user\Documents\...\"
@@ -20,6 +21,7 @@ on every disk on system.
 * To simply add all video files format (avi,flv,h264,hdmov,mkv,mp4,mpe,mpeg,mpeg1,mpeg4,mpg,mpg2,wmv,xvid) just select "Video" icon.
 
 Selected items will change colour to blue.
+
 ![](../.gitbook/assets/clipolicyset2.PNG)
 
 On Advanced tab You have to select retention for every directory added for backup.
@@ -34,9 +36,13 @@ There are retention options to choose: 7Days,14Days,30Days,365Days and Nolimit.
 You can add directory manually to backup by clicking ![](../.gitbook/assets/addinclude.PNG)
 
 and fulfilling _Directory_, _Extension_ and retention _Policy_ fields.
+
 ![](../.gitbook/assets/clipolicyset4.PNG)
 
 For exclude some directories or/and file formats from backup just choose
 
-![](../.gitbook/assets/addexclude.PNG) button.
+![](../.gitbook/assets/addexclude.PNG) button and fill _Directory_ and file _Extensions_ fields to exclude them from backup.
 
+
+For directory recursion just use: "...\" wildcard in directory field. 
+Without this wildcard, KODO client will exclude or include selected folder only, not subfolders.
