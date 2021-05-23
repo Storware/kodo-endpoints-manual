@@ -45,3 +45,8 @@ To restore previous values click __Reset__ button.
 On this tab You can open logs folder for troubleshooting by clicking "_Open Log folder_" on bottom right corner.
 
 ![](../.gitbook/assets/kodosettings.png)
+
+
+{% hint style="info" %}
+Enablement or disablement encryption will delete all previous created backups!
+{% endhint %}
