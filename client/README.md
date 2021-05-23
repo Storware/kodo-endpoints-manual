@@ -11,3 +11,11 @@ KODO for desktop has critical and unique features that correspond to issues tack
 *  Privacy Policy, integration with IBM Spectrum Protect.
 
 
+![](../.gitbook/assets/clientoverwiew.PNG)
+
+On this screen you will see basic information about client settings and backup status.
+
+1. Protection status and last backup time
+2. Assigned Policy
+3. Continuous Data protection status
+4. Amount of backup. 
