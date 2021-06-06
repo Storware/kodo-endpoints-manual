@@ -23,6 +23,7 @@ On this screen you will see basic information about client settings and backup s
 
 
 {% hint style="info" %}
-You can pause KODO client just by clicking "Enabled"
-![](../.gitbook/assets/pauseui.PNG) and selecting wanted option. 
+You can pause KODO client just by clicking "Enabled" and selecting wanted option. 
 {% endhint %}
+
+![](../.gitbook/assets/pauseui.PNG) 

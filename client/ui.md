@@ -1,6 +1,9 @@
 
 ## Backups
 
+{% hint style="info" %}
+Warning, Kodo For Endpoint will not backup zero size files!
+{% endhint %}
 
 ![](../.gitbook/assets/restore1.png)
 
@@ -27,7 +30,7 @@ If there is conflict with existing file, you have to choose an action:
 
 ![](../.gitbook/assets/restoring.png)
 
-You can cancel unfinished operation by clicking __Cancel__ button.
+Operation may be canceled by clicking __Cancel__ button.
 
 After all just click __Done__.
 
