@@ -2,7 +2,8 @@ Download an installation package as described in [__Deployment__](../management/
 
 
 {% hint style="info" %}
-If there was previous installation of KODO for Enpoints, content of C:\ProgramData\Storware\Kodo\ should be removed before installation!
+If there was previous installation of KODO for Enpoints,
+ANY content of C:\ProgramData\Storware\Kodo\ should be removed before installation!
 {% endhint %}
 
 
