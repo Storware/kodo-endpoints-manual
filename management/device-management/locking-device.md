@@ -12,7 +12,7 @@ or
 
 * Click on the arrow to the right of the table on the line with the device whose data you want to display select `Lock` from the `Options` menu.
 
-![](../../.gitbook/assets/deviceoptions%20%281%29.png)
+![](../../.gitbook/assets/deviceoptions%20%282%29%20%281%29.png)
 
 or
 

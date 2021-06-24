@@ -10,7 +10,7 @@ or
 
 * Click the arrow icon from the table \*\*Options menu and select `Details` from the menu.
 
-  ![](../../.gitbook/assets/deviceoptions.png)
+  ![](../../.gitbook/assets/deviceoptions%20%282%29.png)
 
 ## Details
 

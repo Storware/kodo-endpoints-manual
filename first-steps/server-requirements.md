@@ -18,16 +18,16 @@ The following operating systems are supported.
 
 ### **Hardware requirements**
 
-* Four x86 64bit CPU cores, virtual or physical \( six cores recommended \)
-* At least 8 GB RAM \( 16GB recommended \)
+* Four x86 64bit CPU cores, virtual or physical \(six cores recommended \)
+* At least 8 GB RAM \(16GB recommended \)
 * Disk space:
   * At least 20GB in installation directory _\(default /opt\)_ \( 60GB recommended \)
   * At least 1 TB for backup storage recommended
-* At least 1Gbit Ethernet connection \( dedicated 10Gbit port for backup recommended \)
+* At least 1Gbit Ethernet connection \(dedicated 10Gbit port for backup recommended \)
 
 ### Tivoli Storage Manager/Spectrum Protect
 
-Running Tivoli Storage Manager/Spectrum Protect server instance is required for KODO server. Tivoli Storage Manager / Spectrum Protect is used as backup engine. This document doesn't cover installation or configuration of backup engine.
+Running Tivoli Storage Manager/Spectrum Protect server instance is required for KODO server. Tivoli Storage Manager / Spectrum Protect is used as backup engine. This document doesn't cover installation or configuration of the backup engine.
 
 ## KODO Server VA requirements
 
@@ -35,8 +35,6 @@ Running Tivoli Storage Manager/Spectrum Protect server instance is required for 
 
 The following hypervisors are supported.
 
-* ESXi 5.0
-* ESXi 5.1
 * ESXi 5.5
 * ESXi 6.0
 * ESXi 6.5

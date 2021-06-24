@@ -1,14 +1,16 @@
 # Planning & Preparation
 
-KODO is a platform that provides the protection for workstations, laptops. It ensures not only continued protection of key corporate data but also sharing and migrating data to a new device.
+KODO is a platform that provides the protection for desktops and laptops. KODO fights against thefts, malware attacks \(incl. ransomware\), and human errors that can endanger your business continuity. Its robust functionalities are fundamental to both IT admins and users.
 
 Safety and manageability are our biggest priorities. Magic links deployment, LDAP/Active Directory user management and web-based tools are the first steps to help enterprises to manage difficult processes.
 
-In order to ensure 100% safety, data are encrypted and all of your precious files are backed up right after saving them. The software does not wait for a scheduled backup. It occurs automatically in the background as a system service. The administrator or authorized user defines the directories that require protection. The application compares all the gathered data when connecting to IBM Spectrum Protect server and if necessary performs a backup.
+In order to ensure 100% safety, data are encrypted and all of your precious files are backed up right after they are saved. The software does not wait for a scheduled backup. The backup process starts automatically in the background every time any changes to a file or files are made. The administrator or authorized user defines the directories that require protection. The application compares all the gathered data when connecting to IBM Spectrum Protect server and if necessary performs a backup.
 
 Before you install KODO for Endpoints, you must make sure that the environment and machines that you plan to use as a backup infrastructure components meet hardware and software recommendations and system requirements.
 
 * [_Getting started_](getting-started.md)
 * [_Server requirements_](server-requirements.md)
 * [_Administration levels_](administration-levels.md)
+
+
 

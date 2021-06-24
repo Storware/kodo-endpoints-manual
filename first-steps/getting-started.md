@@ -9,11 +9,12 @@ After KODO system is installed or deployed from virtual machine image, complete 
 * Login into the system as KODO administrator \(further KODO Admin Portal\):
   * Set deployment server address
   * Set e-mail server
-  * Set IBM Spectrum Protect \(TSM\) server o Add KODO client deployment packages
+  * Set IBM Spectrum Protect \(TSM\) server 
+  * Add KODO client deployment packages
 * Login into the system as an organization administrator \(further KODO Organization Portal\):
   * Set LDAP server \(optional\)
   * Set default data protection policy
-  * Add local user or synchronize user with LDAP server 
+  * Add a local user or synchronize users with LDAP server 
   * Deploy KODO application \(optional\)
   * Protect desktop and laptop devices \(optional\)
 

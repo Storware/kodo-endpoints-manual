@@ -16,7 +16,7 @@ and then click ![](../../.gitbook/assets/savebuttonsmall.png) to add new account
 
 To change existing administrator account data just click drop-down menu on the right side of administrator user and click _**Edit**_
 
-![](../../.gitbook/assets/editadmin.png)
+![](../../.gitbook/assets/editadmin%20%281%29.png)
 
 In opened window you can change username, name, email and phone number.
 
@@ -28,7 +28,7 @@ After editing an user just click ![](../../.gitbook/assets/savebuttonsmall.png) 
 
 To remove account you have to click drop-down menu on the right side of user in table
 
-![](../../.gitbook/assets/editadmin.png)
+![](../../.gitbook/assets/editadmin%20%281%29.png)
 
 and select _**Delete**_
 
@@ -36,13 +36,13 @@ To confirm selection write username for deletion.
 
 ![](../../.gitbook/assets/deleteadmin.png)
 
-and choose ![](../../.gitbook/assets/continuesmall.png) or ![](../../.gitbook/assets/nosmall.PNG) for cancel.
+and choose ![](../../.gitbook/assets/continuesmall.png) or ![](../../.gitbook/assets/nosmall%20%281%29.PNG) for cancel.
 
 * **Resetting password for organization administrator account**
 
 To reset password for organization administrator just click drop-down menu and choose _**Reset password**_ for manual password set,
 
-![](../../.gitbook/assets/editadmin.png)
+![](../../.gitbook/assets/editadmin%20%281%29.png)
 
 ![](../../.gitbook/assets/resetpass1.png)
 
@@ -52,5 +52,5 @@ Another way to change password is _**Reset and email password**_ for automatic p
 
 ![](../../.gitbook/assets/changepass2.png)
 
-Choose ![](../../.gitbook/assets/yesbuttonsmall.png) or ![](../../.gitbook/assets/nosmall.PNG) for cancel.
+Choose ![](../../.gitbook/assets/yesbuttonsmall.png) or ![](../../.gitbook/assets/nosmall%20%281%29.PNG) for cancel.
 

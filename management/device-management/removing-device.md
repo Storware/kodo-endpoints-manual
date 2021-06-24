@@ -10,7 +10,7 @@ or
 
 * Click the arrow icon from the table Options menu and select `Delete` from the menu.
 
-  ​![](../../.gitbook/assets/deviceoptions%20%282%29.png)​
+  ​![](../../.gitbook/assets/deviceoptions%20%282%29%20%282%29.png)​
 
 Confirm your action with the `Ok` key.
 

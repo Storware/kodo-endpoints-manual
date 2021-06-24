@@ -27,5 +27,7 @@ Logging in to the KODO Organization Portal as an organization administrator will
 
 The basic organization unit named “My organization” is already created in the new system installation.
 
-_TIP: You can change default organization name after logging on to the system as KODO administrator \(Organizations -&gt; click the edit button located in organization name row\)._
+{% hint style="info" %}
+_You can change default organization name after logging on to the system as KODO administrator \(Organizations -&gt; click the edit button located in organization name row\)._
+{% endhint %}
 
