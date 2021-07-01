@@ -6,9 +6,9 @@ To change configuration select `Settings` from the top portal bar.
 
 ### **GENERAL**
 
-This section allows you to configure domain name for URL with deployment package: ![email](../../.gitbook/assets/deploy.png)
+This section allows you to configure the domain name for URL with deployment package: ![email](../../.gitbook/assets/deploy.png)
 
-_Link will be sent in format:_ [https://deployment.server.name/TOKEN](https://deployment.server.name/TOKEN)
+_The link will be sent in the format:_ [https://deployment.server.name/TOKEN](https://deployment.server.name/TOKEN)
 
 You can narrow access for kodoadmin to specific IP addresses.
 
@@ -16,7 +16,7 @@ Confirm the settings with the ![SAVE](../../.gitbook/assets/savebuttonsmall.png)
 
 ### Email
 
-In this section you will configure smtp server settings for KODO for Endpoint.
+In this section you will configure SMTP server settings for KODO for Endpoint.
 
 To set up **e-mail** server:
 
@@ -25,12 +25,12 @@ To set up **e-mail** server:
 3. Provide the necessary information for the e-mail server configuration
 
    * **E-mail address** – address used to sending e-mails from KODO
-   * **Login** – user name used to login to e-mail server \(optional if server needs authentication\)
+   * **Login** – user name used to login to e-mail server \(optional if the server requires authentication\)
    * **Server address** - IP or DNS name of the e-mail server
    * **Port** - port of the e-mail server
-   * **Use SSL** - set to "on" if SSL communication is required
+   * **Use SSL** - set to "**on**" if SSL communication is required
    * **SSL Port** - TCP Port number used by SSL SMTP server
-   * **Require Authentication** - set to “on” if server requires authentication
+   * **Require Authentication** - set to “on” if the server requires authentication
 
    ![mail](../../.gitbook/assets/email.png)
 
@@ -39,21 +39,21 @@ To set up **e-mail** server:
 
    ![mail\_password](../../.gitbook/assets/emailpass.png)
 
-6. Click the “UPDATE PASSWORD” button
+6. Click the “**UPDATE PASSWORD**” button
 
 _TIP: You can test your configuration click **SEND TEST EMAIL** button_
 
-After installation and configuration SSL components for Spectrum Protect Server described in [IBM Spectrum Protect engine](https://github.com/Storware/kodo-endpoints-manual/tree/48a0e77771612de33ae0394056835a6d98a068de/configuration/deployment/ibm-spectrum-protect/README.md) you can configure SSL settings in KODO Admin portal tab.
+After installation and configuration of SSL components for Spectrum Protect Server described in [IBM Spectrum Protect engine](https://github.com/Storware/kodo-endpoints-manual/tree/48a0e77771612de33ae0394056835a6d98a068de/configuration/deployment/ibm-spectrum-protect/README.md) you can configure SSL settings in KODO Admin portal tab.
 
 ## Configuring SSL connection with Spectrum Protect \(TSM\)
 
-To use SSL connection between KODO Server, Desktop clients, and Spectrum Protect \(TSM\) server you need to upload correct SP \(TSM\) certificate. This certificate will be used by server, and also will be distributed to all KODO for Desktop clients and used with SSL connection between client a backup server.
+To use SSL connection between KODO Server, Desktop clients, and Spectrum Protect \(TSM\) server you need to upload the correct SP \(TSM\) certificate. This certificate will be used by the server, and also will be distributed to all KODO for Desktop clients and used with SSL connection between the client a backup server.
 
 If you already have a valid certificate file please follow the steps:
 
-1. Click **Settings** located in top bar, this will move you to KODO configuration page
-2. Click **IBM Spectrum Protect** tab.
-3. Click **Upload certificate** button and select the valid SP \(TSM\) certificate file
+1. Click **Settings** located in the top bar, this will move you to KODO configuration page
+2. Click the **IBM Spectrum Protect** tab.
+3. Click the **Upload certificate** button and select the valid SP \(TSM\) certificate file
 
 ![tsm](../../.gitbook/assets/ssltsmcert.png)
 
@@ -61,7 +61,9 @@ If you already have a valid certificate file please follow the steps:
 
 ### IBM Spectrum Protect \(TSM\) setup
 
-**NOTE: If you are using KODO Virtual Appliance change "Server address" configuration. "Server address" should point to KODO server IP address that will be available for backup clients! For Virtual Appliance no further changes are required.**
+{% hint style="info" %}
+**NOTE:** If you are using KODO virtual appliance, please change the "**Server address**" configuration. the "**Server address**" value should point to KODO server IP address that will be available for backup clients. For virtual appliance no further changes are required.
+{% endhint %}
 
 To set up connection with backup server:
 
