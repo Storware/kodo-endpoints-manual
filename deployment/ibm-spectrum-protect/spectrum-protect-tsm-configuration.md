@@ -9,9 +9,9 @@ description: >-
 
 ## Creating domain, policy and management class
 
-KODO system requires some special Spectrum Protect \(TSM\) configuration. Create a configuration in accordance with guidelines:
+KODO system require some special Spectrum Protect \(TSM\) configuration. Create a configuration in accordance with guidelines:
 
-Log in to the Spectrum Protect server as an administrator with **SYSTEM** level authority.
+Log in to the Spectrum Protect server as administrator with **SYSTEM** level authority.
 
 Define new dedicated domain, policy and management class for KODO.
 
@@ -25,7 +25,7 @@ Define new copy group and assign it as default. Remember to change `destination`
 
 ```text
 SERVER1> define copy kodo kodo kodo destination=POOL_NAME rete=30 reto=30 vere=nol verd=nol 
-SERVER1> assign defmgmt kodo kodo 30days
+SERVER1> assign defmgmt kodo kodo kodo
 SERVER1> activate policy kodo kodo
 ```
 
@@ -33,7 +33,7 @@ _TIP: You can change retention settings, also many management classes can be cre
 
 ## Registering node and administrator
 
-Register new node and update administrator information. Created node and administrator will be used by KODO to manage protected data.
+Register new node and update administrator information. Created node and administrator will by used by KODO to manage protected data.
 
 ### **Spectrum Protect \(TSM\) &lt; 8.1**
 

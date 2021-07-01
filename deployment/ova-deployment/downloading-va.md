@@ -11,7 +11,7 @@ Use the following credentials to access the FTP server:
 **Login:** kodo4endpoints   
 **Password:** vF3gDz86pAnD
 
-If you have successfully downloaded the OVA file, please deploy it in your virtual environment. The network card IP address is assigned automatically by DHCP protocol by default.
+If you successfully downloaded the OVA file, please deploy it in your virtual environment. The network card IP address is assigned automatically by DHCP protocol.
 
 Go to the next chapter to learn how to install KODO for Endpoints server using the OVA image file.
 

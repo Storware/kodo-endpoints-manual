@@ -1,8 +1,8 @@
 # Preparing KODO Server for SSL connection with Spectrum Protect \(TSM\)
 
-Before we start to configure SSL connection with Spectrum Protect \(TSM\), we need to take some steps that will prepare the necessary components.
+Before we start to configure SSL connection with Spectrum Protect \(TSM\), we need to take some steps that will prepare necessary components.
 
-Storware team provides a script that will prepare KODO server to handle SSL connection with Spectrum Protect \(TSM\).
+Storware team provides script that will prepare KODO server to handle SSL connection with Spectrum Protect \(TSM\).
 
 To get access to SSL prepare script please contat with [Storware Professional Services Team](mailto:ps@storware.eu) or one of our local [partners](https://storware.eu/en/partners/).
 

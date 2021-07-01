@@ -1,9 +1,9 @@
 # Deploying VA
 
-KODO for Endpoints server from the OVA file, follow the instructions below:
+The KODO Server Virtual Appliance comes as an OVA \(Open Virtualization Appliance\) file. The OVA image file is a template that contains a functional CentOS 7 operating system. To deploy the KODO server OVA file, follow the instructions:
 
-1. Connect to your vCenter server using vSphere Web Client, or you can connect directly to your ESXi server.
-2. Choose ESX host in the cluster \(and also a resource pool if you are using one\) you would like to deploy the OVA template.
+1. Connect to your vCenter Server using vSphere Web Client, or directly to ESXi server.
+2. Click on a cluster, ESX host in the cluster, or resource pool you would like to deploy the OVA template.
 3.  Right-click and select „**Deploy OVF template**”.
 4.  Select „**Local file**” and browse for the OVA file. Click the „**Next**” button.
 5. Select a name and folder for the virtual machine. Click the „**Next**” button.
@@ -12,9 +12,7 @@ KODO for Endpoints server from the OVA file, follow the instructions below:
 8. Select the storage for the configuration and disk files \(choose preferred disk type. Note: the virtual machine will utilize about 30 GB on the disk after installation if you select „**thick**” virtual disk format\). Click the „**Next**” button.
 9.  Select a destination network. The chosen network should have access to your local AD server. Click the **„Next”** button**.**
 10. Click the **„Finish”** button to start VM creation**.**
-11. When the KODO Server VA is deployed, power it on. 
-
-Go to the next chapter and configure  KODO for Endpoints VA server.
+11. When the KODO Server VA is deployed, power it on. You can now go to the next chapter and configure  KODO for Endpoints server.
 
 
 

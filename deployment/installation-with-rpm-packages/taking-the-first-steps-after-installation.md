@@ -24,9 +24,9 @@ Run following commands to open firewall ports:
 # firewall-cmd --zone=public --reload
 ```
 
-## Configuring api-core component
+## Configuring kodo-for-endpoints component
 
-To configure api-core component run script:
+To configure kodo-for-endpoints component run the following script:
 
 ```text
 # /opt/storware/kodo-server/api-core/bin/kodo-init.sh
@@ -34,16 +34,20 @@ To configure api-core component run script:
 
 Follow the instructions to complete the configuration.
 
+{% hint style="info" %}
 You can use the following parameters with the script:
 
-_-p \| --root-password_  
+**-p \| --root-password**  
 Specify the password for the root database user. If a password is not provided or the root database user password is empty you will be asked to provide it. Default: none
 
-_-k \| --kodo-password_  
+**-k \| --kodo-password**  
 Specify the password for kodo database user. If the password is not provided it will be generated. Default: none
 
-_-h \| --hostname_  
+**-h \| --hostname**  
 Specify database host address. Default: localhost
+{% endhint %}
+
+
 
 #### Example:
 
