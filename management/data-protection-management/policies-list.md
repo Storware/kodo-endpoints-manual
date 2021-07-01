@@ -29,7 +29,7 @@ Default policy will be used for all new users synced from external source, like 
 
 When user belong to group, group policy will be applied. In case when user belongs to many groups, priority will determine which policy will be applied.
 
-The higher priority, the more important the policy is
+The higher priority, the more important the policy is.
 
 To modify policy priorities, go to the list of policies and then click on `Manage Priority`
 

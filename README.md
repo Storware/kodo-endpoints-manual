@@ -24,5 +24,5 @@ Managing IT infrastructure of the company is never easy. Nethertheless KODO coul
 
 The architecture of KODO for Endpoints is shown in the following graphic:
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%287%29.png)
 

@@ -6,41 +6,38 @@ In _**Kodo Organization Administrators**_ tab you can Add/Change/Remove administ
 
 * **Adding new organization administrator account**
 
-Click ![](../../.gitbook/assets/addadministratorsmall.png) and fill all fields with data of new organization admin.
+Click ![](../../.gitbook/assets/addadministratorsmall.png) and fill all fields with the data of the new organization admin.
 
 ![](../../.gitbook/assets/addadminwindow.png)
 
-and then click ![](../../.gitbook/assets/savebuttonsmall.png) to add new account or ![](../../.gitbook/assets/dismissbuttonsmall.png) to cancel.
+and then click ![](../../.gitbook/assets/savebuttonsmall.png) to add the new account or ![](../../.gitbook/assets/dismissbuttonsmall.png) to cancel.
 
 * **Changing existing organization administrator account**
 
-To change existing administrator account data just click drop-down menu on the right side of administrator user and click _**Edit**_
+To change existing administrator account data just click the drop-down menu on the right side of the administrator user and click the **Edit** option.
 
 ![](../../.gitbook/assets/editadmin%20%281%29.png)
 
-In opened window you can change username, name, email and phone number.
+In the opened window you can change the username, name, email and phone number of the administrator.
 
 ![](../../.gitbook/assets/editadminwindow.png)
 
-After editing an user just click ![](../../.gitbook/assets/savebuttonsmall.png) to save changes or ![](../../.gitbook/assets/dismissbuttonsmall.png) to cancel.
+After editing the user just click ![](../../.gitbook/assets/savebuttonsmall.png) to save changes or ![](../../.gitbook/assets/dismissbuttonsmall.png) to cancel.
 
 * **Removing organization administrator account**
 
-To remove account you have to click drop-down menu on the right side of user in table
+To remove an account you have to click the drop-down menu on the right side of the administrator user   
+and select the **Delete** option.
 
 ![](../../.gitbook/assets/editadmin%20%281%29.png)
 
-and select _**Delete**_
+To confirm the deletion by entering the username of the administrator.
 
-To confirm selection write username for deletion.
-
-![](../../.gitbook/assets/deleteadmin.png)
-
-and choose ![](../../.gitbook/assets/continuesmall.png) or ![](../../.gitbook/assets/nosmall%20%281%29.PNG) for cancel.
+![](../../.gitbook/assets/image%20%282%29.png)
 
 * **Resetting password for organization administrator account**
 
-To reset password for organization administrator just click drop-down menu and choose _**Reset password**_ for manual password set,
+To reset the password for the organization administrator just click the drop-down menu and choose _**Reset password**_ for manual password set,
 
 ![](../../.gitbook/assets/editadmin%20%281%29.png)
 
@@ -48,9 +45,9 @@ To reset password for organization administrator just click drop-down menu and c
 
 and choose ![](../../.gitbook/assets/savebuttonsmall.png) or ![](../../.gitbook/assets/dismissbuttonsmall.png) for cancel.
 
-Another way to change password is _**Reset and email password**_ for automatic password generation. Generated password will be sent to email provided for account.
+Another way to change password is _**Reset and email password**_ for automatic password generation. The generated password will be sent to the email provided for the account.
 
 ![](../../.gitbook/assets/changepass2.png)
 
-Choose ![](../../.gitbook/assets/yesbuttonsmall.png) or ![](../../.gitbook/assets/nosmall%20%281%29.PNG) for cancel.
+Choose ![](../../.gitbook/assets/yesbuttonsmall.png) or ![](../../.gitbook/assets/nosmall%20%281%29.PNG) to cancel.
 

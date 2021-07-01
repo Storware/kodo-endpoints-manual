@@ -1,26 +1,18 @@
 # Deploying VA
 
-Before you will start deploying process, make sure that all requirements are met.
+The KODO Server Virtual Appliance comes as an OVA \(Open Virtualization Appliance\) file. The OVA image file is a template that contains a functional CentOS 7 operating system. To deploy the KODO server OVA file, follow the instructions:
 
-Once you finish the deployment you go to the next chapter that will guide you how to configure network connetion.
+1. Connect to your vCenter Server using vSphere Web Client, or directly to ESXi server.
+2. Click on a cluster, ESX host in the cluster, or resource pool you would like to deploy the OVA template.
+3.  Right-click and select „**Deploy OVF template**”.
+4.  Select „**Local file**” and browse for the OVA file. Click the „**Next**” button.
+5. Select a name and folder for the virtual machine. Click the „**Next**” button.
+6. Select a compute resource. Click the **„Next”** button**.**
+7. Verify the template details. Click the **„Next”** button**.**
+8. Select the storage for the configuration and disk files \(choose preferred disk type. Note: the virtual machine will utilize about 30 GB on the disk after installation if you select „**thick**” virtual disk format\). Click the „**Next**” button.
+9.  Select a destination network. The chosen network should have access to your local AD server. Click the **„Next”** button**.**
+10. Click the **„Finish”** button to start VM creation**.**
+11. When the KODO Server VA is deployed, power it on. You can now go to the next chapter and configure  KODO for Endpoints server.
 
-The KODO Server Virtual Appliance comes as an OVA \(Open Virtualization Appliance\) file. The OVA file is a template that contains a functional CentOS 7 operating system. To deploy the KODO Server OVA file, follow the instructions:
 
-1. Connect to your vCenter Server using vSphere Client, or directly to ESXi server.
-2. Click **File &gt; Deploy OVF Template**
-3. Click **Browse**, and navigate to the OVA file that you downloaded and then click **Open**
-4. Click Next in the OVF Template Details window.
-5. Follow the instructions to complete installation and specify the following information:
-   * Name and Location
-   * Host/Cluster
-   * Resource Pool
-   * Storage
-   * Disk Format
-   * Network Mapping
-6. Review virtual machine configuration and click Finish
-7. Virtual machine deployment will start. This process will automatically create a virtual machine with the settings you specify.
-
-   ![Deployment](../../.gitbook/assets/deployment.png)
-
-8. When the KODO Server VA is deployed, power it on. You can now go to the next chapter and configure network connection.
 

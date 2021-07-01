@@ -35,11 +35,11 @@ To set up **e-mail** server:
    ![mail](../../.gitbook/assets/email.png)
 
 4. Click ![SAVE](../../.gitbook/assets/savebuttonsmall.png) button.
-5. If server needs authetication then provide password for e-mail server in **SET EMAIL SERVER PASSWORD** section
+5. If the server needs authentication then provide a password for the e-mail server in the **SET EMAIL SERVER PASSWORD** section.
 
    ![mail\_password](../../.gitbook/assets/emailpass.png)
 
-6. Click “UPDATE PASSWORD” button
+6. Click the “UPDATE PASSWORD” button
 
 _TIP: You can test your configuration click **SEND TEST EMAIL** button_
 
@@ -100,9 +100,9 @@ If you already have a valid license key please follow the steps:
 
 In this tab you can set all parameters for KODO for Endpoints server logs.
 
-1. Click **Settings** located in top bar, this will move you to KODO configuration page
-2. Click **Logs** tab. 
-3. Provide max number of logs files, log level, max size of single file and set retentions period in days.
+1. Click **Settings** located in the top bar, this will move you to KODO configuration page
+2. Click the **Logs** tab. 
+3. Provide max number of log files, log level, max size of a single file and set retentions period in days.
 4. Click ![SAVE](../../.gitbook/assets/savebuttonsmall.png) to apply settings.
 
 ![logs](../../.gitbook/assets/logs.png)
@@ -111,5 +111,5 @@ You can download and view server logs as well.
 
 ### Billing
 
-In this section you can assign client licenses to users and set billing period retention.
+In this section, you can assign client licenses to users and set billing period retention.
 

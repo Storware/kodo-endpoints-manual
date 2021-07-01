@@ -1,2 +1,2 @@
-# Windows ans MacOS protection
+# Windows and MacOS protection
 

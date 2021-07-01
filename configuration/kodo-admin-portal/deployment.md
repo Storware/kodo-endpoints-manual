@@ -7,13 +7,17 @@ description: >-
 
 # Deployment
 
-To upload client packages to your KODO Server follow the steps:
+To upload client packages to your KODO Server follow the steps below:
 
-1. Click **Deployment** located in the left menu, this will move you to KODO deployemnt page
-2. Click **Upload package** button, select client package and click **Open**
-3. After successful upload information will be displayed
+1. Click **Deployment** located in the left menu, this will guide you to KODO deployment page
+2. Click the **Upload package** button, select client package and click **Open**
+3. After the package is successfully uploaded, it will be displayed on the list of available packages
 
-![](../../.gitbook/assets/uploadpkg2.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
-Packages selected as "current" will determine production package version for the server instance.
+Packages selected as "current" will determine the production package version for the server instance. You can set the uploaded as "current" by clicking the "X" icon and confirm the operation. 
+
+![](../../.gitbook/assets/image%20%289%29.png)
+
+
 
