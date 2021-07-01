@@ -1,11 +1,13 @@
 # Logging to the virtual machine
 
-Use credentials listed below to log in to system:
+Use the credentials listed below to log in to the system:
 
 > **Login:** kodo  
 > **Password:** Zt3edWny
 
-## NOTE: FOR SECURITY REASONS PLEASE CHANGE PASSWORD AFTER FIRST LOGIN TO SYSTEM!
+{% hint style="warning" %}
+## NOTE: FOR SECURITY REASONS PLEASE CHANGE YOUR PASSWORD AFTER THE FIRST LOGIN TO THE SYSTEM!
+{% endhint %}
 
 Use `passwd` command to change password:
 

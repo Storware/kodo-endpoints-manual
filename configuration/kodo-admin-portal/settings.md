@@ -47,17 +47,19 @@ After installation and configuration of SSL components for Spectrum Protect Serv
 
 ## Configuring SSL connection with Spectrum Protect \(TSM\)
 
-To use SSL connection between KODO Server, Desktop clients, and Spectrum Protect \(TSM\) server you need to upload the correct SP \(TSM\) certificate. This certificate will be used by the server, and also will be distributed to all KODO for Desktop clients and used with SSL connection between the client a backup server.
+To use SSL connection between KODO Server, desktop clients, and Spectrum Protect \(TSM\) server,  you have to upload the correct SP \(TSM\) certificate. This certificate will be used by the server, and also will be distributed to all KODO for Desktop clients and used with SSL connection between the client a backup server.
 
 If you already have a valid certificate file please follow the steps:
 
-1. Click **Settings** located in the top bar, this will move you to KODO configuration page
+1. Click the **Settings** menu.
 2. Click the **IBM Spectrum Protect** tab.
-3. Click the **Upload certificate** button and select the valid SP \(TSM\) certificate file
+3. Click the **Upload certificate** button and select the valid SP \(TSM\) certificate file.
 
 ![tsm](../../.gitbook/assets/ssltsmcert.png)
 
-1. Set to "on" **Use SSL** switch
+4. Check the **Use SSL** option.
+
+5. Click the "**Save**" button.
 
 ### IBM Spectrum Protect \(TSM\) setup
 
@@ -73,41 +75,39 @@ To set up connection with backup server:
    * **Server address** – IP/DNS name of Spectrum Protect Server
    * **Port** – Spectrum Protect client port
    * **Adminitrative port** – Spectrum Protect Administrative port \(if different from client port\)
-   * **Nodename** – nodname used by KODO \(created in [previous steps](https://github.com/Storware/kodo-endpoints-manual/tree/48a0e77771612de33ae0394056835a6d98a068de/configuration/deployment/spectrum-protect-tsm-configuration.md)\)
+   * **Nodename** – a nodname used by KODO \(created in [previous steps](https://github.com/Storware/kodo-endpoints-manual/tree/48a0e77771612de33ae0394056835a6d98a068de/configuration/deployment/spectrum-protect-tsm-configuration.md)\)
 
      ![tsm](../../.gitbook/assets/ssltsm.PNG)
-4. Click ![SAVE](../../.gitbook/assets/savebuttonsmall.png) button.
-5. Provide password for node in “SET IBM SP PASSWORD” section
+4. Click the "Save" button.
+5. Provide a password for node in “SET IBM SP PASSWORD” section
 
    ![tsm](../../.gitbook/assets/ssltsmpass%20%281%29.PNG)
 
-6. Click **UPDATE PASSWORD** button
+6. Click the "**UPDATE PASSWORD"** button
 
 ### License registration
 
-After installation or Virtual Appliance deployment KODO Server is running in TRIAL mode for 30 days. After that time you need to provide valid license key.
+After installation or virtual appliance deployment, KODO Server is running in TRIAL mode for 30 days. After that time you need to provide a valid license key.
 
-To get a license key please contact with our local [partner](https://storware.eu/en/partners/) or [Storware](mailto:info@storware.eu) team.
+To get a license key please contact our local [partner](https://storware.eu/en/partners/) or Storware team.
 
 If you already have a valid license key please follow the steps:
 
-1. Click **Settings** located in top bar, this will move you to KODO configuration page
-2. Click **License** tab.
-3. Provide your license key in **Update your Kodo license key** field
-4. Click **UPDATE LICENSE** button
-
-![license](../../.gitbook/assets/license.png)
+1. Click the **Settings** menu.
+2. Click the **License** tab.
+3. Click the **Upload license** button.
+4. Select a license file.
+5. Click the "**Open**" button to upload the license.
 
 ### Logs
 
 In this tab you can set all parameters for KODO for Endpoints server logs.
 
-1. Click **Settings** located in the top bar, this will move you to KODO configuration page
-2. Click the **Logs** tab. 
-3. Provide max number of log files, log level, max size of a single file and set retentions period in days.
-4. Click ![SAVE](../../.gitbook/assets/savebuttonsmall.png) to apply settings.
+1. Click the **Settings** menu. 
+2. Provide max number of log files, log level, max size of a single file, and set retention period in days.
+3. Click the "**Save**" to apply settings.
 
-![logs](../../.gitbook/assets/logs.png)
+![](../../.gitbook/assets/logs.png)
 
 You can download and view server logs as well.
 

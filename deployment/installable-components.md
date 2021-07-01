@@ -11,5 +11,5 @@ description: You can install the following components for KODO v3.12 or later.
 | kodo-for-endpoints | Include administrative portal to manage KODO instance |
 | KODO client | KODO client software installed on endpoints |
 
-
+The kodo-for-endpoints component is installed as the RPM package
 

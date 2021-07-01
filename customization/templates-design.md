@@ -33,7 +33,7 @@ Example:
 </html>
 ```
 
-Some placeholders may return NULL string if some informations has not been set up. You can check it using FTL tag `<# variable??> ... </#if>`. If the variable contains NULL, the content between tags will not be displayed.
+Some placeholders may return NULL string if some information has not been set up. You can check it using FTL tag `<# variable??> ... </#if>`. If the variable contains NULL, the content between tags will not be displayed.
 
 Example:
 
@@ -72,7 +72,7 @@ C:\Users\John\Documets
 C:\users\John\Pictures
 ```
 
-KODO will look for **template.ftl** file in following paths:
+KODO will look for **template.ftl** file in the following paths:
 
 * E-mail template for admin access of newly created organization `/opt/StorwareData/templates/adminAccess`
 * E-mail template for user password change `/opt/StorwareData/templates/changePass`

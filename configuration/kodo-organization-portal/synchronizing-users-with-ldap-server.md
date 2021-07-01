@@ -1,22 +1,19 @@
 # Synchronizing users with LDAP server
 
-KODO allows to synchronize your users with LDAP \(e.g. Active Directory\), users then will be using their LDAP login and password to log in to KODO client.
+KODO allows you to synchronize your users with LDAP \(e.g. Active Directory\), users then will be using their LDAP login and password to log in to KODO client.
 
-To synchronize users with LDAP server complete the following steps:
+To synchronize users with the LDAP server complete the following steps:
 
-1. Click **Settings** located in top bar, this will move you to KODO configuration page
-2. Click **LDAP** tab.
+1. Click the **Settings** menu.
+2. Click the **LDAP** tab.
 3. Provide information about your LDAP server:
-   * **Server URL** - the IP address or DNS name of domain server
+   * **Server URL** - the IP address or DNS name of the domain server
    * **Login** - Username used to log in to domain server
-   * **Domain prefix** - domain prefix if different than default
+   * **Domain prefix** - domain prefix if different than the default
    * **Search** and **Group filter** - select the entries to be returned for a search operation.
+4. Click the **Save** button.
+5. Provide a password for LDAP server in the **USERS & GROUPS LDAP PASSWORD** section
+6. Click the “**UPDATE PASSWORD**” button
 
-     ![ldap](../../.gitbook/assets/ldapset.png)
-4. Click **SAVE CHANGES** button.
-5. Provide password for LDAP server in **USERS & GROUPS LDAP PASSWORD** section
-
-   ![ldap\_password](https://github.com/Storware/kodo-endpoints-manual/tree/4aaf7963e8bd360acf364257fa025561f954a699/.gitbook/assets/ldap_password.png)
-
-6. click “UPDATE PASSWORD” button
+![](../../.gitbook/assets/image%20%2813%29.png)
 

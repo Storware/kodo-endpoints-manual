@@ -1,6 +1,6 @@
 # About KODO for Endpoints
 
-Storware KODO is the next generation of enterprise data protection software for Windows-based endpoints.
+Storware KODO for Endpoints is the next generation of enterprise data protection software for Windows-based endpoints.
 
 The robust protection, it provides, is fundamental both to IT admins and business users. KODO fights against thefts, malware attacks \(incl. ransomware\) or human errors.
 
@@ -9,7 +9,7 @@ The robust protection, it provides, is fundamental both to IT admins and busines
 * Continuous data protection
 * Space saver – deduplication
 
-It focuses on employee, systems, devices and data safety. KODO fits in that trend delivering different layers of security, including a variety of administration roles.
+It focuses on employees, systems, devices, and data safety. KODO fits in that trend delivering different layers of security, including a variety of administration roles.
 
 * Data encryption
 * SSL/TLS connection encryption
