@@ -11,7 +11,7 @@
   * [Virtual Appliance \(VMware\)](deployment/ova-deployment/README.md)
     * [Downloading VA](deployment/ova-deployment/downloading-va.md)
     * [Deploying VA](deployment/ova-deployment/deploying-va.md)
-    * [Configuring KODO Server VA](deployment/ova-deployment/configuring-kodo-server-va.md)
+    * [Configuring KODO for Endpoints VA server](deployment/ova-deployment/configuring-kodo-server-va.md)
     * [Logging to the virtual machine](deployment/ova-deployment/loggin-to-virtual-machine.md)
     * [Setting up the network configuration](deployment/ova-deployment/setting-up-network-configuration.md)
   * [RPM packages installation](deployment/installation-with-rpm-packages/README.md)

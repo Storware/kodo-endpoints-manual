@@ -28,7 +28,7 @@ to
 BOOTPROTO=static
 ```
 
-Next uncomment \(delete the `#` character\) the following options:
+Next, uncomment \(delete the `#` character\) the following options:
 
 * IPADDR=YOUR\_IP\_ADDRESS
 * NETMASK=YOUR\_NETMASK
@@ -65,7 +65,7 @@ Save the file pressing the `CTRL+o` and then `Enter` key.
 
 ![nano](../../.gitbook/assets/nano.png)
 
-After the file is saved you can exit the editor pressing `CTRL+x` key combination.
+After the file is saved you can exit the editor by pressing `CTRL+x` key combination.
 
 The final step is to restart the network configuration. To do this use the command:
 
@@ -73,7 +73,7 @@ The final step is to restart the network configuration. To do this use the comma
 # service network restart
 ```
 
-Now you should be able login to your KODO system using a web browser and IP address that you configured in previous steps. Open a  web browser and enter:
+Now you should be able to log in to your KODO system using a web browser and IP address that you configured in previous steps. Open a  web browser and enter:
 
 ```text
 https://ip_address:8181

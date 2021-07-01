@@ -34,6 +34,6 @@ Logging in to the KODO Organization Portal as an organization administrator will
 The default organization is named “**My organization**” which is created during KODO for Endpoint server installation.
 
 {% hint style="info" %}
-You can change the default organization name after logging on to the system as KODO administrator \(Organizations -&gt; click the edit button located in the organization name row\).
+_You can change the default organization name after logging on to the system as KODO administrator \(Organizations -&gt; click the edit button located in organization name row\)._
 {% endhint %}
 

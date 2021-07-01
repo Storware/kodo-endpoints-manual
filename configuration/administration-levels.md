@@ -23,16 +23,20 @@ Password: **k0do@dmin**
 
 ## KODO organization administrator level
 
-KODO for Endpoints system allow your company to create multiple organization under one KODO server. Every organization is a separate entity with separated data, users, policies etc.  
-Logging in to the system as organization administrator will give you access to [KODO organization portal](kodo-organization-portal/) and allow to configure aspects of the system such as:
+KODO for Endpoints system allows your company to create multiple organizations under one KODO server. Every organization is a separate entity with separated data, users, policies etc.  
+Logging in to the system as the organization administrator will give you access to [KODO organization portal](kodo-organization-portal/) and allow you to configure aspects of the system such as:
 
 * Organization administrators
 * Users
 * Data protection policies
 
-The basic organization unit named “My organization” is already created in the new system installation.
+The basic organization named “My organization” is already created during KODO server installation.
 
-_TIP: You can change default organization name after logging on to the system as KODO administrator \(Organizations -&gt; click the edit button located in organization name row\)._
+{% hint style="info" %}
+TIP: You can change the default organization name after logging on to the system as KODO administrator \(Organizations -&gt; click the edit button located in the organization name row\).
+{% endhint %}
+
+\_\_
 
 ### Default credentials
 
