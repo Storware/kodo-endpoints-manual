@@ -1,6 +1,6 @@
 # Configuration
 
-You can configure KODO for Endpoint just from web browser by logging in with proper administration level.
+You can configure KODO for Endpoints just from a web browser by logging in with the proper administration level.
 
 * [_Administration levels_](administration-levels.md)
 * [_KODO Admin Portal_](kodo-admin-portal/)

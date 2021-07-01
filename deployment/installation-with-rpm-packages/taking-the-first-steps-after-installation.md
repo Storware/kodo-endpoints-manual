@@ -5,14 +5,14 @@ description: >-
   instance.
 ---
 
-# Taking the first steps after installation
+# Taking the first steps after the installation
 
 ## Configuring firewall
 
 Default KODO server configuration requires two ports open:
 
 **8181/tcp -** for api-core component  
-**5000/tcp** - for web-admin-ui component
+\#\#\#5000/tcp - for web-admin-ui component
 
 ### Opening firewall ports
 
@@ -20,13 +20,12 @@ Run following commands to open firewall ports:
 
 ```text
 # firewall-cmd --zone=public --add-port=8181/tcp --permanent
-# firewall-cmd --zone=public --add-port=5000/tcp --permanent
-# firewall-cmd --zone=public --reload
+# firewall-cmd --complete-reload
 ```
 
 ## Configuring kodo-for-endpoints component
 
-To configure kodo-for-endpoints component run the following script:
+To configure the `kodo-for-endpoints` component run the following script:
 
 ```text
 # /opt/storware/kodo-server/api-core/bin/kodo-init.sh
@@ -46,8 +45,6 @@ Specify the password for kodo database user. If the password is not provided it 
 **-h \| --hostname**  
 Specify database host address. Default: localhost
 {% endhint %}
-
-
 
 #### Example:
 
@@ -84,7 +81,7 @@ systemctl start kodo-for-endpoints
 It may take few minutes to start service
 {% endhint %}
 
-Once started api-core component will be listening on port 8181\(default\) for HTTPS connections.
+Once started kodo-for-endpoints component will be listening on port 8181\(default\) for HTTPS connections.
 
 **To stop kodo-for-endpoints component run:**
 
