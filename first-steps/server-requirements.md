@@ -13,37 +13,41 @@ description: >-
 
 The following operating systems are supported:
 
-* Linux CentOS 7 
+* Linux CentOS 7
+* Linux CentOS 8
 * Red Hat Enterprise Linux 7 
+* Red Hat Enterprise Linux 8
 
 ### **Hardware requirements**
 
-* Four x86 64bit CPU cores, virtual or physical \(six cores recommended \)
+* Four x86 64bit CPU cores, virtual or physical \(six cores recommended\)
 * At least 8 GB RAM \(16GB recommended \)
 * Disk space:
-  * At least 20GB in installation directory _\(default /opt\)_ \( 60GB recommended \)
+  * At least 20GB in installation directory _\(default /opt\)_ \(60GB recommended\)
   * At least 1 TB for backup storage recommended
-* At least 1Gbit Ethernet connection \(dedicated 10Gbit port for backup recommended \)
+* At least 1Gbit Ethernet connection \(dedicated 10Gbit port for backup is recommended\)
 
 ### Tivoli Storage Manager/Spectrum Protect
 
-IBM Tivoli Storage Manager/Spectrum Protect server instance is required for KODO for Endpoints server to be used the backup engine. This document doesn't cover the installation or configuration of the backup engine.
+IBM Tivoli Storage Manager/Spectrum Protect server instance is required for KODO for Endpoints server to be used as the backup engine. This document doesn't cover the installation and configuration of the IBM Tivoli Storage Manager/Spectrum Protect server.
 
-## KODO Server VA requirements
+## KODO for Endpoints server VA support and requirements
 
 ### **Supported Hypervisors**
 
-The following hypervisors are supported.
+Currently, the following hypervisors are supported:
 
 * ESXi 6.5
 * ESXi 6.7
 
-### **Virtual Appliance hardware requirements**
+### **Virtual Appliance configuration**
+
+ ****Currently the following hypervisors are supported:
 
 #### KODO for Endpoints Gateway:
 
 * 2 virtual CPUs
-* 6 GB RAM
+* At least6 GB of RAM
 * Disk space:
   * HDD1: 16 GB
   * HDD2: 20 GB     
@@ -51,7 +55,7 @@ The following hypervisors are supported.
 #### KODO for Endpoints Bundle:
 
 * 4 virtual CPUs
-* 16 GB RAM
+* 16 GB of RAM
 * Disk space:
   * HDD1: 50 GB
   * HDD2: 20 GB

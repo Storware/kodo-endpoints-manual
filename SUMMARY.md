@@ -65,7 +65,7 @@
     * [Locking and unlocking device](management/device-management/locking-device.md)
     * [Removing device](management/device-management/removing-device.md)
     * [Device logs](management/device-management/device-logs.md)
-* [KODO For Endpoint Client](client/README.md)
+* [KODO for Endpoints client](client/README.md)
   * [Hardware and system requirements](client/requirements.md)
   * [Installation](client/installation.md)
   * [Components overwiew](client/components.md)

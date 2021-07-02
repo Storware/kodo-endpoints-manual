@@ -3,51 +3,51 @@
 ## Backups
 
 {% hint style="info" %}
-Warning, Kodo For Endpoint will not backup zero size files!
+Warning, Kodo For Endpoints client will not backup zero-size files!
 {% endhint %}
 
 ![](../../.gitbook/assets/restore1.png)
 
-On this tab you can perform restore of files from previous backups.
+On this tab you can perform a restore of files from previous backups.
 
-To restore file or files, just select day and time of backup on upper left corner
+To restore files or files, just select the day and time of backup on the upper left corner
 
 ![](../../.gitbook/assets/callendarclient.png)
 
-and then select directory and/or file\(s\) to restore. You can restore whole directories instead of individual files too by checking up directories. After selection just click **Restore** button and choose destination of restore.
+and then select a directory and/or file\(s\) to restore. You can restore whole directories instead of individual files too by checking up directories. After selection just click the **Restore** button and choose a restore location.
 
 ![](../../.gitbook/assets/restoredestination.png)
 
-After all click one more time **Restore** button.
+After all click one more time the **Restore** button.
 
-If there is conflict with existing file, you have to choose an action:
+If there is a conflict with an existing file, you can choose a restoring action:
 
 ![](../../.gitbook/assets/actionrestore.png)
 
-* _Overwrite_ - to overwrite all existing files that conflict with restore
-* _Skip_ - to skip restore of all conflicting files
-* _Decide for each file_ - decide what to do on every restored file
-* _Cancel_ - for cancel operation.
+* _**Overwrite**_ - to overwrite all existing files that conflict with restore
+* _**Skip**_ ****- to skip restore of all conflicting files
+* _**Decide for each file**_ - decide what to do on every restored file
+* _**Cancel**_ - for cancel operation.
 
 ![](../../.gitbook/assets/restoring.png)
 
-Operation may be canceled by clicking **Cancel** button.
+The operation may be canceled by clicking the **Cancel** button.
 
-After all just click **Done**.
+Click the **Done** button to finish.
 
 ![](../../.gitbook/assets/done.png)
 
-Restore process is finalized.
+The restore process is finalized.
 
 ## Settings
 
-On Settings tab you can change server settings, interface language and turn on or off data encryption.
+On the Settings tab you can change server settings, interface language and turn on or off data encryption.
 
-After changing values just click **Save** button.
+After changing values just click the **Save** button.
 
-To restore previous values click **Reset** button.
+To restore previous values click the **Reset** button.
 
-On this tab You can open logs folder for troubleshooting by clicking "_Open Log folder_" on bottom right corner.
+On this tab you can open thelogs folder for troubleshooting by clicking "_Open Log folder_" on bottom right corner.
 
 ![](../../.gitbook/assets/kodosettings.png)
 

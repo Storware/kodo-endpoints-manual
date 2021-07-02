@@ -2,7 +2,7 @@
 
 This tutorial will introduce you to view of what FreeMarker templates are and how you can use it to customize your KODO server.
 
-[FreeMarker](http://www.freemarker.org) is a simple yet powerful template engine that KODO uses whenever administrator is allowed to customize part of KODO portal. In particular, it’s used to allow customization of e-mails that are send by KODO and myKODO download page.
+[FreeMarker](http://www.freemarker.org) is a simple yet powerful template engine that KODO uses whenever administrator is allowed to customize part of KODO portal. In particular, it’s used to allow customization of e-mails that are sent by KODO and myKODO download page.
 
 In FreeMarker you define templates, which are text files that contain the desired output \(html in case of KODO\), except that they contain placeholders like `${username}`, and even some logic like conditionals. KODO will supply the actual values for these placeholders and the final output is generated based on this input.
 
