@@ -1,4 +1,4 @@
-# Configuration
+# Administration
 
 You can configure KODO for Endpoints just from a web browser by logging in with the proper administration level.
 

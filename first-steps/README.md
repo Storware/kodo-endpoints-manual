@@ -1,7 +1,5 @@
 # Overview
 
-KODO for Endpoints is a platform that provides protection for desktops and laptops. KODO can mitigate the effects of theft, malware attacks \(including ransomware\) and human error that can threaten business continuity. Its robust features are fundamental for both IT administrators and users.
-
 Safety and manageability are our biggest priorities. "Magic link" deployment, LDAP/Active Directory user management, and web-based user interface are the first steps to help enterprises to manage difficult processes.
 
 In order to ensure 100% safety, data are encrypted and all of your valueble files are backed up right after they are saved. The software does not wait for a scheduled backup. The backup process starts automatically in the background every time any changes to a file or files are made. The administrator or authorized user defines the directories that require protection. The application compares all the gathered data when connecting to the IBM Spectrum Protect server and if necessary performs a backup.
