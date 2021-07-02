@@ -51,10 +51,10 @@ On this tab You can open logs folder for troubleshooting by clicking "_Open Log 
 
 ![](../../.gitbook/assets/kodosettings.png)
 
-* To enable data encryption just check box and confirm warning message.
+* To enable data encryption just check the box and confirm the warning message.
 
 {% hint style="info" %}
-Enablement or disablement of encryption will erase all previous created backups!
+Enabling or disabling of encryption will erase all previously created backups!
 {% endhint %}
 
 ![](../../.gitbook/assets/encrwarning.PNG)
@@ -65,7 +65,7 @@ And set encryption password.
 
 After that backup will be encrypted.
 
-* To disable encryption just unselect checkbox, confirm warning message and provide previously set password.
+* To disable encryption just unselect the checkbox, confirm the warning message and provide a previously set password.
 
 ![](../../.gitbook/assets/decryptwarn.PNG)
 

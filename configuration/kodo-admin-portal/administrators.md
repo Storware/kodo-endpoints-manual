@@ -1,26 +1,8 @@
 # Administrators
 
-There are two tabs in Administrator section. _**Kodo Organization Administrators**_ and _**Kodo Portal Administrators**_
+There are two tabs in the **Administrators** section:  _**Kodo Organization Administrators**_ and _**Kodo Portal Administrators**_
 
 In _**Kodo Organization Administrators**_ tab you can Add/Change/Remove administrator accounts for Your organization.
-
-* **Adding new organization administrator account**
-
-Click ![](../../.gitbook/assets/addadministratorsmall.png) and fill all fields with the data of the new organization admin.
-
-![](../../.gitbook/assets/addadminwindow.png)
-
-and then click ![](../../.gitbook/assets/savebuttonsmall.png) to add the new account or ![](../../.gitbook/assets/dismissbuttonsmall.png) to cancel.
-
-* **Changing existing organization administrator account**
-
-To change existing administrator account data just click the drop-down menu on the right side of the administrator user and click the **Edit** option.
-
-![](../../.gitbook/assets/editadmin%20%281%29.png)
-
-In the opened window you can change the username, name, email and phone number of the administrator.
-
-![](../../.gitbook/assets/editadminwindow.png)
 
 After editing the user just click ![](../../.gitbook/assets/savebuttonsmall.png) to save changes or ![](../../.gitbook/assets/dismissbuttonsmall.png) to cancel.
 

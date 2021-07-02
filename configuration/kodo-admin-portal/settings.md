@@ -20,7 +20,7 @@ In this section you will configure SMTP server settings for KODO for Endpoint.
 
 To set up **e-mail** server:
 
-1. Click **Settings** located in top bar, this will move you to KODO configuration page
+1. Click the **Settings** located in top bar, this will move you to KODO configuration page
 2. Click **General** tab.
 3. Provide the necessary information for the e-mail server configuration
 

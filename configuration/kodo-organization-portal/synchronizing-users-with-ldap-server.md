@@ -12,7 +12,7 @@ To synchronize users with the LDAP server complete the following steps:
    * **Domain prefix** - domain prefix if different than the default
    * **Search** and **Group filter** - select the entries to be returned for a search operation.
 4. Click the **Save** button.
-5. Provide a password for LDAP server in the **USERS & GROUPS LDAP PASSWORD** section
+5. Provide a password for the LDAP server in the **USERS & GROUPS LDAP PASSWORD** section
 6. Click the “**UPDATE PASSWORD**” button
 
 ![](../../.gitbook/assets/image%20%2813%29.png)
