@@ -3,7 +3,7 @@
 ## Backups
 
 {% hint style="info" %}
-Warning, Kodo For Endpoints client will not backup zero-size files!
+KODO For Endpoints client will not backup zero-size files!
 {% endhint %}
 
 ![](../../.gitbook/assets/restore1.png)

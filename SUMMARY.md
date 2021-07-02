@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About KODO for Endpoints](README.md)
-* [Planning & Preparation](first-steps/README.md)
+* [Overview](first-steps/README.md)
   * [Getting started](first-steps/getting-started.md)
   * [KODO server configurations](first-steps/kodo-server-configurations.md)
   * [Server requirements](first-steps/server-requirements.md)

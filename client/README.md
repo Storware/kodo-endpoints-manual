@@ -1,29 +1,36 @@
 # KODO for Endpoints client
 
-KODO for Endpoints client is a next-generation solution, using Continuous Data Protection \(CDP\) for endpoint users with MS Windows and MacOS \(technical preview currently\). KODO is a comprehensive protection of any information and is able to provide the most optimal and secure access to corporate/private data. Endpoint Protection has become an essential element not only for employees but also for those managing the enterprise in order to protect sensitive and critical data of the organization. 
+KODO for Endpoints client is an application dedicated to backup and restore data from client devices \(laptop/desktops\) running Windows and macOS operating systems.
 
-KODO for desktop has critical and unique features that correspond to issues tackled in any organization:
+{% hint style="info" %}
+MacOS client is currently available in technical preview mode.
+{% endhint %}
+
+KODO for Endpoints client is an application for backup and recovery data from , using Continuous Data Protection \(CDP\) for endpoint users with MS Windows and macOS \(technical preview currently\). KODO is a comprehensive protection of any information and is able to provide the most optimal and secure access to corporate/private data. Endpoint Protection has become an essential element not only for employees but also for those managing the enterprise in order to protect sensitive and critical data of the organization. 
+
+The KODO for Endpoints client has exceptional and unique features that address the issues that exist in every organization:
 
 * Continuous data protection \(CDP\) 
 * Incremental backup
-* Versioning protected objects
-* Self-Restore - intuitive data restore
-* Data availability anywhere/anytime
-* Ability to recover data from a particular point in time
-* Privacy Policy, integration with IBM Spectrum Protect.
+* File versioning 
+* Deduplication and compression on the source \(endpoint\)
+* "Right-click" approach restore for files
+* "Point-in-time" restore
+* Privacy policy, integration with IBM Spectrum Protect.
+* User data encryption 
 
 ![](../.gitbook/assets/clientoverwiew.PNG)
 
-On this screen you will see basic information about client settings and backup status.
+At the **Overview** view, the basic information about client settings and backup status is displayed:
 
-1. Protection status and last backup time
-2. Assigned Policy
-3. Continuous Data protection status
-4. Amount of backup. 
+1. Protection status and last backup \(synchronization\) time.
+2. Assigned policy.
+3. Continuous Data protection status.
+4. Size of the backup data protected so far. 
 
 {% hint style="info" %}
-You can pause KODO client just by clicking "Enabled" and selecting a wanted option.
+You can pause KODO for Endpoints client just by clicking "**Enabled**" and select one from the available options \(15 minutes, 1 hour, 4 hours, or until the next restart.
 {% endhint %}
 
-![](https://github.com/Storware/kodo-endpoints-manual/tree/12f418f84ad7fff738f4b44257d43d48ec2c86d9/.gitbook/assets/pauseui.PNG)
+
 
