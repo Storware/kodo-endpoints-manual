@@ -18,3 +18,5 @@ The metadata about protected files are sent directly to KODO server, and data di
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
+Go to the [Licensing ](licensing.md)chapter to learn about KODO licensing model.
+

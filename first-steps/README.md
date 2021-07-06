@@ -10,7 +10,7 @@ In the next chapters you will learn more about how to get started KODO ,
 
 Go to the next chapters 
 
-* [_Getting started_](getting-started.md)
+* [_Getting started_](../deployment/getting-started.md)
 * * [_Server requirements_](server-requirements.md)
 * [_Administration levels_](administration-levels.md)
 

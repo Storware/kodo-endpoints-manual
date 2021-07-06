@@ -20,5 +20,5 @@ Currently, there's only one support level with the following SLA:
 
 For more information please go to [https://storware.eu/faq/](https://storware.eu/faq/) web site.
 
-Go to the [Deployment](https://storware.gitbook.io/kodo-for-cloud-office365/deployment) chapter to learn how to deploy KODO for Endpoints server.
+Go to the [Main features ](main-features.md)chapter to learn how to deploy KODO for Endpoints server.
 
