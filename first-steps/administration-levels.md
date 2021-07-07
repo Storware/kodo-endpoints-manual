@@ -1,39 +1,54 @@
 # Administration levels
 
-KODO system consists of two administration levels:
+KODO for Endpoints server was designed in a multi-tenancy architecture. It means that you can define multiple tenants. In each tenant instance, you can backup a separate set of endpoints. KODO system consists of two administration levels:
 
-* KODO administration level - accessed through KODO Admin Portal
-* KODO organization administration level - accessed through KODO organization portal
+* **KODO administration level** - accessed through KODO Admin Portal
+* **KODO organization administration level** - accessed through KODO organization portal
 
 ## KODO administrator level
 
-KODO administration level is the highest level of authorization. Logging in to the system with this level of authorization you will log in to KODO Admin Portal. KODO Admin Portal allows you to configure fundamental aspects of the system such as:
+KODO administration level is the highest level of authorization. By default, you can log in to the portal as `kodoadmin` .  As the `kodoadmin` you can configure fundamental aspects of the system such as:
 
-* Installer packages
-* Administrators
-* KODO organizations
-* General system settings
-* E-mail server settings
-* IBM Spectrum Protect server settings
-* Licensing information
-* Billing settings
-* DB backup configuration
+* Download or upload installer packages
+* Manage administrators
+* Manage KODO organizations
+* Configure system settings:
+  * E-mail server settings
+  * IBM Spectrum Protect server settings
+  * Licensing information
+  * Billing settings
+  * DB backup configuration
 
 ## KODO organization administrator level
 
-KODO system allows your company to create multiple organizations under one KODO server. Every organization is a separate entity with separated data, users, policies, etc.  
-Logging in to the KODO Organization Portal as an organization administrator will allow configuring aspects of the system such as:
+KODO system allows your company to create multiple organizations under one KODO server. Every organization is a separate entity with separated data, users, policies, etc. As an organization administrator you can configure the following system assets:
 
 * Users
 * Devices
 * Policies
 * Deployment
 * Organization administrators
-* Data protection policies
+* LDAP connection
+* Users synchronization
+* Notifications
+* Usage and activity report
 
 The default organization is named “**My organization**” which is created during KODO for Endpoint server installation.
 
 {% hint style="info" %}
-You can change the default organization name after logging on to the system as KODO administrator \(Organizations -&gt; click the edit button located in the organization name row\).
+You can change the default organization name after logging on to the system as KODO administrator. Go to the Organizations menu and click the edit button located in the organization name row.
 {% endhint %}
+
+### Default login credentials
+
+{% hint style="info" %}
+Here are credentials for two predefined administrator accounts:
+
+* default global admin: `kodoadmin`with password `k0do@dmin` 
+* default organization admin: `admin`with password`k0do@dmin`
+{% endhint %}
+
+First, you have to log in to the server as `kodoadmin` user and add KODO license to enable full functionality of the server.
+
+
 

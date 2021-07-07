@@ -1,6 +1,6 @@
 # Getting started
 
-Before you can use KODO to manage your backups, you must take a few configuration steps.
+You can install KODO for Endpoints Before you can use KODO to manage your backups, you must take a few configuration steps.
 
 After KODO system is installed or deployed from a virtual machine image, complete the following steps:
 
