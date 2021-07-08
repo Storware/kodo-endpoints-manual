@@ -2,8 +2,8 @@
 
 KODO for Endpoints server can be installed and configured in two options:
 
-* KODO for Endpoints Gateway \(without IBM Spectrum Protect server\)
-* KODO for Endpoints Bundle \(IBM Spectrum Protect server included\)
+* KODO for Endpoints Gateway \(KODO server without IBM Spectrum Protect server\)
+* KODO for Endpoints Bundle \(KODO server with IBM Spectrum Protect server included\)
 
 Both options can be deployed as a VMware virtual appliance to the VMware environment, but they can be also configured on a dedicated physical or virtual server.
 

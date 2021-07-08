@@ -15,7 +15,7 @@ The following operating systems are supported:
 
 * Linux CentOS 7.x
 * Linux CentOS 8.x Stream
-* Red Hat Enterprise Linux 7**.x** 
+* Red Hat Enterprise Linux 7**.**x
 * Red Hat Enterprise Linux 8.x
 
 ### **Hardware requirements**
@@ -42,6 +42,7 @@ Currently, the following hypervisors are supported:
 * VMware 6.7
 * ESXi 6.5
 * ESXi 6.7
+* VMware 7
 
 ### **Virtual Appliance configuration**
 
@@ -75,7 +76,7 @@ All disks can be configured as thin-provisioned_._ This hardware configuration i
 ## Network Requirements
 
 * Internet connection is not required generally, but during the installation `yum` needs to fetch packages from the repositories, so you need at least access to your internal repositories.
-* KODO for Endpoints server needs access to AD/LDAP server \(if is used\)
+* KODO for Endpoints server needs access to AD/LDAP server \(if used\)
 
 
 
