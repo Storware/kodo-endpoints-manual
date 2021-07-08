@@ -12,7 +12,7 @@ KODO for Endpoints has the following features implemented:
 * **„Cross-device” recovery** –recover data from one user's device to another
 * **Backup encryption**–encryption option available for a user from user's console 
 * **Bandwidth savings**– data deduplication and compression on the source 
-* **Off-line protection**–data is backed up offline, data auto-sync when online 
+* **Off-line protection**–data is backed up off-line, data auto-sync when online 
 * **MS Outlook/IBM Notes backup** – protection of email archives
 * **Multi-tenancy mode for hybrid organizations or MSPs** \(billing API included\)
 * **Instant restore to local PC or to the original location**
