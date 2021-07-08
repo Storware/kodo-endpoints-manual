@@ -14,7 +14,7 @@ KODO for Endpoints server from the OVA file, follow the instructions below:
 10. Click the **„Finish”** button to start VM creation**.**
 11. When the KODO Server VA is deployed, power it on. 
 
-Go to the next chapter and configure  KODO for Endpoints VA server.
+Go to the [Configure KODO for Endpoints VA server](configuring-kodo-server-va.md) chapter and learn how to set up and configure deployed server.
 
 
 

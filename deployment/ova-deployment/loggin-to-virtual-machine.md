@@ -1,5 +1,7 @@
 # Logging to the virtual machine
 
+There is a dedicated user `kodo` to log to KODO server operating system. Logging as the `root` user is not allowed. 
+
 Use the credentials listed below to log in to the system:
 
 > **Login:** kodo  
@@ -23,4 +25,6 @@ Old Password:
 New Password:
 Retype New Password:
 ```
+
+Go to the [Setting up the network configuration](setting-up-network-configuration.md) chapter and learn how to set up KODO server network.
 

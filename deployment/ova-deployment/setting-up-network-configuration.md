@@ -1,14 +1,14 @@
 # Setting up the network configuration
 
-The next step is to configure the network connection. To do this you will need to edit the network configuration file. The default configuration will try to assign an IP address from local DHCP if exits.
+The next step is to configure the network connection. To do this you will need to edit the network configuration file. The default configuration will try to assign an IP address from local DHCP if it exits.
 
-Use `sudo` command to run a shell with root privileges:
+Use `sudo` command to run a shell with `root` privileges:
 
 ```text
 $ sudo -s
 ```
 
-When asked for a password use password for kodo user.
+When asked for a password use password for `kodo` user.
 
 Edit network configuration file:
 
@@ -73,7 +73,7 @@ The final step is to restart the network configuration. To do this use the comma
 # service network restart
 ```
 
-Now you should be able to log in to your KODO system using a web browser and IP address that you configured in previous steps. Open a  web browser and enter:
+Now you should be able to log in to your KODO system using a web browser and IP address that you configured in previous steps. Open a  web browser and enter the address:
 
 ```text
 https://ip_address:8181
@@ -83,7 +83,7 @@ KODO login page should be opened.
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
-KODO server is ready to be configured. Go to the [Configuration](../../configuration/) chapter to start server setup or go to the next chapter. 
+If there are no errors on the website, KODO server is ready to be configured. Go to the [RPM packages installation](../installation-with-rpm-packages/) chapter to start the server setup or go to the [Administration](../../configuration/) chapter to start KODO server configuration. 
 
 {% hint style="warning" %}
 KODO for Endpoints server has no license uploaded. Please contact [Storware sales team](mailto:sales@storware.eu) to get a trial license.  
