@@ -6,7 +6,7 @@ In the [Support Matrix ](kodo-support-matrix.md)section, you can check supported
 
 [Platform Requirements](platform-requirements.md) section presents hardware and software requirements needed to run KODO for Endpoints components.
 
-In [Sizing Guide](sizing-guide.md) section we present key information that you need to collect before installing KODO for Endpoints server.
+In [Sizing Guide](sizing-guide/) section we present key information that you need to collect before installing KODO for Endpoints server.
 
 
 

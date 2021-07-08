@@ -11,12 +11,14 @@ description: >-
 
 ### **Supported Operating Systems**
 
-The following operating systems are supported:
+KODO for Endpoints server can be deployed on the following operating systems:
 
 * Linux CentOS 7.x
 * Linux CentOS 8.x Stream
 * Red Hat Enterprise Linux 7**.**x
 * Red Hat Enterprise Linux 8.x
+
+
 
 ### **Hardware requirements**
 
