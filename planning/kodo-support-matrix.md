@@ -1,6 +1,6 @@
 # KODO for Endpoints client application Support Matrix
 
-KODO for Endpoint client application can be installed on the following operating systems:
+KODO for Endpoints client application can be installed on the following operating systems:
 
 * Microsoft Windows 7 32-bit
 * Microsoft Windows 7 64-bit
