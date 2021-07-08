@@ -10,7 +10,7 @@ In the next chapters you will learn more about how to get started KODO ,
 
 Go to the next chapters 
 
-* [_Getting started_](../deployment/getting-started.md)
+* [_Getting started_](../deployment/ibm-spectrum-protect/getting-started.md)
 * * [_Server requirements_](../planning/server-requirements.md)
 * [_Administration levels_](administration-levels.md)
 

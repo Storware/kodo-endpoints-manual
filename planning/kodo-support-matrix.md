@@ -23,9 +23,5 @@ The additional packages are required to be installed on the endpoints:
 KODO client for macOS system endpoints is available, but it is released as a technical preview. Please contact [Storware support team](mailto:ps@storware.eu) for more information. 
 {% endhint %}
 
-  
-
-
-
-
+Go to the[ Sizing Guide](sizing-guide/) chapter to learn what endpoint's operating systems the application can be installed.
 

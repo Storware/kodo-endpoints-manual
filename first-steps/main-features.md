@@ -1,5 +1,7 @@
 # Main features
 
+KODO for Endpoints from the very beginning was designed to protect user's data in a very easy and efficient way. It is a "user-centric" solution, which means, that the user can restore his data on his own, without involving the backup system administrator.    
+
 KODO for Endpoints has the following features implemented: 
 
 * **Continuous Data Protection \(CDP\)** – "non-stop" data protection 

@@ -13,10 +13,20 @@ description: >-
 
 KODO for Endpoints server can be deployed on the following operating systems:
 
-* Linux CentOS 7.x
-* Linux CentOS 8.x Stream
-* Red Hat Enterprise Linux 7**.**x
-* Red Hat Enterprise Linux 8.x
+* Linux CentOS 7.x \(Core\)
+* Linux CentOS 8.x Stream \(Core\)
+* Red Hat Enterprise Linux 7**.**x \(Core\)
+* Red Hat Enterprise Linux 8.x \(Core\)
+
+{% hint style="warning" %}
+Before KODO for Endpoints installation, please make sure your OS is up-to-date. Use **dnf update** \(or **yum update**\) command if needed. It's recommended to reboot your OS afterward. 
+{% endhint %}
+
+{% hint style="warning" %}
+It is recommended to have an active Red Hat subscription when KODO software is installed REHL8. Use **yum repolist** command to check your subscription status
+
+The [active Red Hat subscription](https://access.redhat.com/management/products) is required for registering the [RHEL 8](https://www.itzgeek.com/tag/rhel-8) systems. You can also [sign up for 30 days trial](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) which will allow you to download Red Hat Enterprise Linux 8 as well as register your RHEL 8 system with Red Hat for receiving packages and updates. 
+{% endhint %}
 
 ### **Hardware requirements**
 
@@ -73,4 +83,6 @@ All disks can be configured as thin-provisioned_._ This hardware configuration i
 
 * Internet connection is not required generally, but during the installation`yum` needs to fetch packages from the repositories, so you need at least access to your internal repositories.
 * KODO for Endpoints server needs access to AD/LDAP server \(if used\)
+
+Go to the [KODO for Endpoints client application Support Matrix](kodo-support-matrix.md) chapter to learn on what endpoint's operating systems the application can be installed.[NextKODO for Endpoints client application Support Matrix](https://app.gitbook.com/@storware/s/kodo-for-endpoints/~/drafts/-Me5GobEr05ivewGUjM5/planning/kodo-support-matrix)
 

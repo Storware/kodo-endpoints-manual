@@ -14,7 +14,7 @@ For a medium organization \(up to 1000 endpoints\) the following system configur
         <ul>
           <li>at least 6 cores</li>
           <li>at least 24 GB RAM</li>
-          <li>at least 50 GB free disk space for operating system binaries, MySQL database
+          <li>at least 50 GB free disk space for operating system binaries, MySQL database,
             and KODO server binaries</li>
         </ul>
       </td>

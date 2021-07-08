@@ -1,15 +1,15 @@
 # Deployment
 
-You can deploy KODO for Endpoints server by choosing one of the following installation options:
+You can deploy KODO for Endpoints server by choosing one of the following installation scenarios:
 
- 
+* KODO for Endpoints Gateway \(an external IBM Spectrum Protect server is required\)
+* KODO for Endpoints Bundle \(IBM Spectrum Protect server is included and preconfigured\)
 
-* KODO for Endpoints 
+Both, KOOD for Endpoints Gateway and KODO for Endpoints Bundle are available to download as virtual appliances. Go to the [Virtual Appliance \(VMware\)](ova-deployment/) chapter to learn how to download and deploy KODO appliances.
 
-To start working with KODO for Endpoints, you must configure a backup server by installing all KODO for Endpoints components on a machine that meets the [system requirements](https://github.com/Storware/kodo-endpoints-manual/tree/4aaf7963e8bd360acf364257fa025561f954a699/first-step/server-requirements.md).
+If you'd like to install KODO for Endpoints server on any dedicated server, go to the [RPM packages installation](installation-with-rpm-packages/) chapter to get to know how to configure KODO server in that configuration.
 
-* [_KODO for Endpoint components_](installable-components.md)
-* [_Virtual Appliance_](ova-deployment/)
-* [_RPM packages installation_](installation-with-rpm-packages/)
-* [_IBM Spectrum Protect engine_](ibm-spectrum-protect/)
+Go to the [Deployment](./) chapter to choose your KODO for Endpoints server installation type.
+
+
 
