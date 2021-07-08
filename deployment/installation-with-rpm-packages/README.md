@@ -8,7 +8,7 @@ description: The RPM packages are suitable for installation on Red Hat and CentO
 The commands described below need to be executed with root user privileges.
 {% endhint %}
 
-## Preparation
+Prior to KODO server installation, you have to add some packages repositories have to be added. Follow the tasks described below to add some required repositories. 
 
 ### Add Storware repository
 
@@ -22,7 +22,7 @@ When asked for a password use password for `kodo`user.
 
 Create a new repository file: `touch /etc/yum.repos.d/kodo-endpoints.repo`
 
-Copy and paste this into the kodo-endpoints.repo file:
+Copy and paste the following entry into the kodo-endpoints.repo file:
 
 ```text
 [kodo-endpoints]
@@ -36,7 +36,7 @@ gpgcheck=0
 
 Create a new repository file: `touch /etc/yum.repos.d/MariaDB.repo`
 
-Copy and paste this into a MariaDB.repo file:
+Copy and paste the following entry into the MariaDB.repo file:
 
 ```text
 # MariaDB 10.5 CentOS repository list - created 2021-07-01 13:34 UTC
@@ -48,18 +48,20 @@ gpgkey=https://yum.mariadb.org/RPM-GPG-KEY-MariaDB
 gpgcheck=1
 ```
 
+Go to the next step to start KODO for Endpoint server installation.
+
 ## Installation
 
-To install KODO for Endpoints you need to install  `kodo-for-endpoints` component. Follow the steps below to start the installation process: 
+To install KODO for Endpoints server you need to install  `kodo-for-endpoints` component. Follow the steps below to start the installation process: 
 
 1. Log in as the root user.
-2. Use the command below to install kodo-for-endpoints component
+2. Use the command below to install `kodo-for-endpoints` package.
 
 ```text
 # yum install kodo-for-endpoints        
 ```
 
-The installation process starts. Select "y" when asking about GPG key:
+The installation process starts. Select "y" when asking about the GPG key:
 
 ```text
 Retrieving key from 
@@ -75,5 +77,5 @@ The installation process should take a few minutes.
 
 The installation should be finished with the "**Complete**!" message.
 
-Go to the next chapter to learn what are the first steps after the installation. 
+Go to the Taking the first steps the installation chapter to learn what steps are required to configure KODO for Endpoints server. 
 
