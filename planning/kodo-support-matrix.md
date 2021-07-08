@@ -20,7 +20,7 @@ The additional packages are required to be installed on the endpoints:
 * .NET Framework 4.8  
 
 {% hint style="info" %}
-KODO client for macOS system endpoints is available, but it is released as a technical preview. Please contact [Storware support team](mailto:ps@storware.eu) for more information . 
+KODO client for macOS system endpoints is available, but it is released as a technical preview. Please contact [Storware support team](mailto:ps@storware.eu) for more information. 
 {% endhint %}
 
   

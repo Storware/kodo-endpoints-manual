@@ -11,8 +11,8 @@ description: >-
 
 Default KODO server configuration requires two ports open:
 
-**8181/tcp -** for api-core component  
-\#\#\#5000/tcp - for web-admin-ui component
+**8181/tcp -** for kodo-for endpoints component  
+
 
 ### Opening firewall ports
 
@@ -70,6 +70,12 @@ Start KODO server with: systemctl start kodo-server-api-core
 ```
 
 ### Starting and stopping kodo-for-endpoints component
+
+There are three dedicated scripts to do some basic tasks on KODO server. Using them you can stop, start the server, and also check its status.
+
+To use the scripts, you have to be logged in as the `kodo` user. Go to the directory  `/opt/storware/kodo-server/api-core/bin`   and execute 
+
+
 
 **To start the kodo-for-endpoints component run:**
 

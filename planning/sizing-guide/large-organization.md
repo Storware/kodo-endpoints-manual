@@ -13,11 +13,9 @@ For a small  organization \(up to 2000 endpoints\) the following system configur
       <td style="text-align:left">
         <ul>
           <li>at least 8 cores</li>
-          <li>at least 64 GB RAM</li>
-          <li>at least 20 GB free space for operating system binaries system</li>
-          <li>at least 15 GB free space for database (<b>/var/lib/mysql</b> directory)</li>
-          <li>at least 10 GB free space for KODO software (<b>/opt/storware</b> directory)</li>
-          <li>storage space for backup</li>
+          <li>at least 32 GB RAM</li>
+          <li>at least 60 GB free disk space for operating system binaries, MySQL database
+            and KODO server binaries</li>
         </ul>
       </td>
     </tr>

@@ -1,8 +1,8 @@
 ---
 description: >-
-  The following chapter provide an information about operating system and
+  The following chapter provides information about the operating system and
   hardware requirements for KODO Server and KODO Server VA (Virtual Appliance).
-  Please review requirements carefully.
+  Please review the requirements carefully.
 ---
 
 # Server requirements
@@ -18,17 +18,9 @@ KODO for Endpoints server can be deployed on the following operating systems:
 * Red Hat Enterprise Linux 7**.**x
 * Red Hat Enterprise Linux 8.x
 
-
-
 ### **Hardware requirements**
 
-* Four x86 64bit CPU cores, virtual or physical \(six cores recommended\)
-* At least 8 GB RAM \(16 GB recommended \)
-* Disk space:
-  * At least 30 GB  free space for operating system binaries
-  * At least 20 GB free space for installation directory _\(default /opt\)_ \(60GB recommended\)
-  * At least 1 TB for backup storage recommended
-* At least 1Gbit Ethernet connection \(dedicated 10Gbit port for backup is recommended\)
+The server hardware requirements will be depending on the size of the organization you are going to protect. Go to the [Sizing guide](sizing-guide/) chapter to learn about recommended server parameters.
 
 ### IBM Spectrum Protect
 
@@ -48,9 +40,11 @@ Currently, the following hypervisors are supported:
 
 ### **Virtual Appliance configuration**
 
-KODO for Endpoints server can be deployed in the following two options:  
+KODO for Endpoints server can be deployed in the following two configuration options:  
 
 #### KODO for Endpoints Gateway:
+
+The VA is configured with the following server parameters:
 
 * 4 virtual CPUs
 * 16 GB of RAM
@@ -59,6 +53,8 @@ KODO for Endpoints server can be deployed in the following two options:
   * HDD2: 30 GB     
 
 #### KODO for Endpoints Bundle:
+
+The VA is configured with the following server parameters:
 
 * 4 virtual CPUs
 * 16 GB of RAM
@@ -70,19 +66,11 @@ KODO for Endpoints server can be deployed in the following two options:
   * HDD5: 1024 GB 
 
 {% hint style="info" %}
-All disks can be configured as thin-provisioned_._ This hardware configuration is the minimum recommended configuration for a small/demo/lab environment. Please contact [Storware Support](mailto:support@storware.eu) for recommendations for your production environment.
+All disks can be configured as thin-provisioned_._ This hardware configuration is the minimum recommended configuration for a small/demo/lab environment. Please review the [Sizing guide chapter](sizing-guide/) for recommendations for your production environment.
 {% endhint %}
-
-\*\*\*\*
 
 ## Network Requirements
 
-* Internet connection is not required generally, but during the installation `yum` needs to fetch packages from the repositories, so you need at least access to your internal repositories.
+* Internet connection is not required generally, but during the installation`yum` needs to fetch packages from the repositories, so you need at least access to your internal repositories.
 * KODO for Endpoints server needs access to AD/LDAP server \(if used\)
-
-
-
-
-
-
 
