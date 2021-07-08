@@ -12,9 +12,17 @@ The commands described below need to be executed with root user privileges.
 
 ### Add Storware repository
 
+Log in to the server as the `kodo`user and switch to the `root`user.
+
+```text
+$ sudo -s
+```
+
+When asked for a password use password for `kodo`user.
+
 Create a new repository file: `touch /etc/yum.repos.d/kodo-endpoints.repo`
 
-Copy and paste this into a kodo-endpoints.repo file:
+Copy and paste this into the kodo-endpoints.repo file:
 
 ```text
 [kodo-endpoints]
