@@ -14,6 +14,7 @@
     * [Small organization](planning/sizing-guide/small-organization.md)
     * [Medium organization](planning/sizing-guide/medium.md)
     * [Large organization](planning/sizing-guide/large-organization.md)
+    * [Very large organization](planning/sizing-guide/very-large-organization.md)
 * [Deployment](deployment/README.md)
   * [Installation overview](deployment/installation-overview.md)
   * [KODO Components](deployment/installable-components.md)

@@ -3,7 +3,7 @@
 Download an installation package as described in the [**Deployment**](../management/client-deployment/) section.
 
 {% hint style="info" %}
-If there was a previous installation of KODO for Endpoints, the total content of **C:\ProgramData\Storware\Kodo** should be removed before the installation!
+If there was a previous installation of KODO for Endpoints, the total content of **C:\ProgramData\Storware\Kodo** should be removed before installation!
 {% endhint %}
 
 **Domain user**

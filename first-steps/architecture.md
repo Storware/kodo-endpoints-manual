@@ -2,9 +2,7 @@
 
 KODO for Endpoints can be installed basically in two configurations: as the gateway and as the bundle. The differences between both configurations are described below. 
 
-**KODO Gateway** is a server installed on CentoOS 7 operation system platform with preinstalled KODO binaries. An external IBM Spectrum Protect server is needed in that configuration to store user data. The administrator has to configure the IBM Spectrum Protect server as the backup engine and connect it to KODO server. The server is available to download from the Storware FTP server as the OVA image file. 
-
-For mor  
+**KODO Gateway** is a server installed on CentoOS 7 operation system platform with preinstalled KODO binaries. In that configuration, an administrator has to add an external IBM Spectrum Protect server and configure it as the backup engine. The server is available to download from the Storware FTP server as the OVA image file.  
 
 **KODO Bundle** is a server with KODO binaries installed and preconfigured IBM Spectrum Protect Server. The IBM Spectrum Protect Server was configured with some default retention policies. 
 
