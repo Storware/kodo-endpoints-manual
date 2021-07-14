@@ -22,5 +22,5 @@ For a medium organization \(up to 1000 endpoints\) the following system configur
   </tbody>
 </table>
 
-Now you can to the [Deployment](../../deployment/) chapter to choose KODO for Endpoints server installation type or go to the [Medium organization ](large-organization.md)chapter.
+Now you can to the [Deployment](../../deployment/) chapter to choose KODO for Endpoints server installation type or go to the [Large organization](large-organization.md) chapter.
 

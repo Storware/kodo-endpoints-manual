@@ -4,7 +4,7 @@ description: The RPM packages are suitable for installation on Red Hat and CentO
 
 # RPM packages installation
 
-This type of installation requires usage of external IBM Spectrum Protect server.
+This type of installation requires the usage of an external IBM Spectrum Protect server.
 
 {% hint style="info" %}
 The commands described below need to be executed with root user privileges.
