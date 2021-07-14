@@ -27,7 +27,6 @@
     * [Taking the first steps after the installation](deployment/installation-with-rpm-packages/taking-the-first-steps-after-installation.md)
   * [IBM Spectrum Protect engine](deployment/ibm-spectrum-protect/README.md)
     * [Getting started](deployment/ibm-spectrum-protect/getting-started.md)
-    * [Preparing KODO Server for SSL connection with Spectrum Protect \(TSM\)](deployment/ibm-spectrum-protect/preparing-kodo-server-for-ssl-connection-with-spectrum-protect-tsm.md)
     * [Spectrum Protect \(TSM\) configuration + policy](deployment/ibm-spectrum-protect/spectrum-protect-tsm-configuration.md)
 * [Administration](configuration/README.md)
   * [Administration levels](configuration/administration-levels.md)
