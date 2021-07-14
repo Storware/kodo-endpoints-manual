@@ -6,5 +6,5 @@ The following guideline provides information about the virtual environment and v
 * [_Deploying VA_](deploying-va.md)
 * [_Configuring KODO Server VA_](configuring-kodo-server-va.md)
 * \_\_[_Logging to the virtual machine_](loggin-to-virtual-machine.md)\_\_
-* [_Setting up h network configuration_](setting-up-network-configuration.md)
+* [_Setting up the network configuration_](setting-up-network-configuration.md)
 

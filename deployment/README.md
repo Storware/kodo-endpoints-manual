@@ -9,7 +9,7 @@ Both, KOOD for Endpoints Gateway and KODO for Endpoints Bundle are available to 
 
 If you'd like to install KODO for Endpoints server on any dedicated server, go to the [RPM packages installation](installation-with-rpm-packages/) chapter to get to know how to configure KODO server in that configuration.
 
-Go to the [Deployment](./) chapter to choose your KODO for Endpoints server installation type.
+Go to the [Installation overview](installation-overview.md) chapter to choose your KODO for Endpoints server installation type.
 
 
 
