@@ -22,7 +22,5 @@ Managing IT infrastructure of the company is never easy. Nethertheless KODO coul
 * Easy restore with "right-click" approach and user's console
 * Ready for a ticket system integration using RESTful API
 
-The architecture of KODO for Endpoints is shown in the following graphic:
-
-![](.gitbook/assets/image%20%287%29.png)
+Go to the [Overview ](first-steps/)chapter to get to know the architecture, licensing, main features and more about KODO for Endpoints server.
 
