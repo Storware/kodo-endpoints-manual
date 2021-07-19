@@ -26,5 +26,5 @@ New Password:
 Retype New Password:
 ```
 
-Go to the [Setting up the network configuration](setting-up-network-configuration.md) chapter and learn how to set up KODO server network.
+Go to the [Setting up the network configuration](setting-up-network-configuration.md) chapter and learn how to set up network on KODO server.
 

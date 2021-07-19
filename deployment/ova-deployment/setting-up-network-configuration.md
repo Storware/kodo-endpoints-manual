@@ -1,6 +1,6 @@
 # Setting up the network configuration
 
-The next step is to configure the network connection. To do this you will need to edit the network configuration file. The default configuration will try to assign an IP address from local DHCP if it exits.
+The next step is to configure the network connection. To do this you will need to edit the network configuration file. The default configuration will try to assign an IP address from local DHCP server if it exits in your network.
 
 Use `sudo` command to run a shell with `root` privileges:
 
@@ -10,10 +10,10 @@ $ sudo -s
 
 When asked for a password use password for `kodo` user.
 
-Edit network configuration file:
+Edit network configuration file e.g. using `vi` editor:
 
 ```text
-# nano /etc/sysconfig/netork-scripts/ifcfg-ens160
+# vi /etc/sysconfig/network-scripts/ifcfg-ens160vi 
 ```
 
 To set up static IP address change:
@@ -28,7 +28,7 @@ to
 BOOTPROTO=static
 ```
 
-Next, uncomment \(delete the `#` character\) the following options:
+Next, add the following options to the file:
 
 * IPADDR=YOUR\_IP\_ADDRESS
 * NETMASK=YOUR\_NETMASK
@@ -37,8 +37,8 @@ Next, uncomment \(delete the `#` character\) the following options:
 and change them accordingly to your requirements.
 
 **IPADDR** - IP address of the KODO Server  
-**NETMASK** - netmask value of your network  
-**GATEWAY** - gateway value of your network
+**NETMASK** - the netmask value of your network  
+**GATEWAY** - the gateway value of your network
 
 Sample configuration file:
 
@@ -62,8 +62,6 @@ ONBOOT=yes
 ```
 
 Save the file pressing the `CTRL+o` and then `Enter` key.
-
-![nano](../../.gitbook/assets/nano.png)
 
 After the file is saved you can exit the editor by pressing `CTRL+x` key combination.
 
