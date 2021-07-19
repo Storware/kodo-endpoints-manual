@@ -25,7 +25,7 @@ KODO administration level is the highest level of authorization. If you log in t
 
 ## KODO organization administrator level
 
-KODO system allows your company to create multiple organizations under one KODO server. Every organization is a separate entity with separated data, users, policies, etc. As an organization administrator you can configure the following system assets:
+KODO system allows your company to create multiple organizations under one KODO server. Every organization is a separate entity with separated data, settings, users, policies, etc. As the organization administrator you can configure the following system assets:
 
 * Users
 * Devices
@@ -37,7 +37,7 @@ KODO system allows your company to create multiple organizations under one KODO 
 * Notifications
 * Usage and activity report
 
-The default organization is named “**My organization**” which is created during KODO for Endpoint server installation.
+The default organization is named “**My organization**” which is created during KODO for Endpoint server deployment.
 
 {% hint style="info" %}
 You can change the default organization name after logging on to the system as KODO administrator. Go to the Organizations menu and click the edit button located in the organization name row.
