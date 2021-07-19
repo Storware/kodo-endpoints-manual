@@ -5,7 +5,7 @@ description: >-
   Please review the requirements carefully.
 ---
 
-# Server requirements
+# KODO server requirements
 
 ## KODO Server requirements
 

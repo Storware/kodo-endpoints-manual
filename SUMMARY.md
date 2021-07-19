@@ -9,7 +9,7 @@
   * [Administration levels](first-steps/administration-levels.md)
 * [Planning](planning/README.md)
   * [KODO Components](planning/installable-components.md)
-  * [Server requirements](planning/server-requirements.md)
+  * [KODO server requirements](planning/server-requirements.md)
   * [KODO for Endpoints client application Support Matrix](planning/kodo-support-matrix.md)
   * [Sizing guide](planning/sizing-guide/README.md)
     * [Small organization](planning/sizing-guide/small-organization.md)
