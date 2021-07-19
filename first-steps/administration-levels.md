@@ -11,7 +11,7 @@ Please find description for each administration level below.
 
 ## KODO administrator level
 
-KODO administration level is the highest level of authorization. If you log in to the portal as `kodoadmin` user,  you can configure system settings ad other system assets as follow:
+KODO administration level is the highest level of authorization. If you log in to the portal as `kodoadmin` user,  you can configure system settings and other system assets as follow:
 
 * Download or upload installer packages
 * Manage administrators

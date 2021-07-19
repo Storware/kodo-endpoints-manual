@@ -4,8 +4,6 @@ KODO for Endpoints can be installed basically at two configurations: as the gate
 
 **KODO Gateway** is a server installed on supported operating system platform with preinstalled KODO binaries. An external IBM Spectrum Protect server is required in that configuration to store user data. The administrator has to configure the IBM Spectrum Protect server as the backup engine and connect it to KODO server. The server is available to download from the Storware FTP server as the OVA image file. 
 
-
-
 **KODO Bundle** is a server  installed on supported operating system platformwith preinstalled KODO binaries and preconfigured IBM Spectrum Protect Server. The IBM Spectrum Protect Server was configured with some default retention policies. The server is also available to download from the Storware FTP server as the OVA image file. 
 
 For information how to dowload OVA image file go to the  [Deployment ](../deployment/)chapter. 
@@ -20,5 +18,5 @@ The data itself and information about protected files are sent directly to the I
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
-Go to the [Licensing ](licensing.md)chapter to learn about KODO licensing model.
+Go to the [Licensing ](licensing.md)chapter to learn more about KODO licensing model.
 
