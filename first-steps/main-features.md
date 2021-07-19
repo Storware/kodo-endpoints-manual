@@ -21,5 +21,5 @@ KODO for Endpoints has the following features implemented:
 
 
 
-Go to the [KODO server configuration options ](main-features.md)chapter to learn in what options the server can be configured.
+Go to the [KODO server configuration options ](main-features.md)chapter to find out what options you can use to configure the KODO server.
 

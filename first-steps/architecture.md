@@ -10,7 +10,7 @@ For information how to dowload OVA image file go to the  [Deployment ](../deploy
 
 Both configurations can be installed on any physical or virtual server that meets server requirements. Go to the [KODO server requirements](kodo-server-configurations.md) chapter to learn more about server configuration required to deploy KODO server.
 
-To protect data, a KODO client application must be deployed on each protected Windows-based endpoint. It searches for all files that meet the protection policy and sends them directly to the IBM Spectrum Protect server. This application also listens to the file system when a new file or directory is created, and all changes are tracked and the data is also sent directly to the IBM Spectrum Protect Server.
+To protect data, a KODO client application must be deployed on each protected Windows-based endpoint. It continously searches for all files that meet the protection policy and sends them directly to the IBM Spectrum Protect server. This application also listens to the file system when a new file or directory is created, and all changes are tracked and the data is also sent directly to the IBM Spectrum Protect Server.
 
 The architecture of KODO for Endpoints is shown in the following graphic. The core element of the architecture is the KODO server. It's the central point of management. It provides administrative web UI, APIs and is also a central repository of metadata. The metadata is stored in the MySQL database.  
 
