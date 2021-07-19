@@ -15,8 +15,6 @@ The gateway consists of an operating system platform and KODO server binaries. A
 
 KODO for Endpoints Bundle consists of operating system platform, KODO server binaries, and preconfigured IBM Spectrum Protect server with some predefined retention policies. 
 
-
-
 Go to the [Server requirements](../planning/server-requirements.md) chapter to learn about server requirements.
 
 

@@ -1,18 +1,14 @@
 # Overview
 
-Safety and manageability are our biggest priorities. "Magic link" deployment, LDAP/Active Directory user management, and web-based user interface are the first steps to help enterprises to manage difficult processes.
+Before you start to install KODO for Endpoints server, go to the [Architecture](architecture.md) chapter to learn more about its architecture and how the data and metadata flow look like. Then you can go to the [Licensing](licensing.md) chapter to get to know how our solution is licensed.
 
-In order to ensure 100% safety, data are encrypted and all of your valueble files are backed up right after they are saved. The software does not wait for a scheduled backup. The backup process starts automatically in the background every time any changes to a file or files are made. The administrator or authorized user defines the directories that require protection. The application compares all the gathered data when connecting to the IBM Spectrum Protect server and if necessary performs a backup.
+In the [Main features](main-features.md) chapter you will find information about KODO features and properties, that enable users to protect and recover their data in a very efficient, convenient and fast way. 
 
-Before you install KODO for Endpoints server, make sure that the environment and machines that you plan to use as backup infrastructure components meet hardware and software recommendations and system requirements.
+In the he [KODO server configuration options](kodo-server-configurations.md) chapter are located possible server configurationa in which the server can be installed and configured.
 
-In the next chapters you will learn more about how to get started KODO , 
+Let's start the journey. 
 
-Go to the next chapters 
-
-* [_Getting started_](../deployment/ibm-spectrum-protect/getting-started.md)
-* * [_Server requirements_](../planning/server-requirements.md)
-* [_Administration levels_](administration-levels.md)
+Go to the [Architecture ](architecture.md)chapter to learn about KODO for Endpoints server architecture.
 
 
 

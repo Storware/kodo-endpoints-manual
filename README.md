@@ -1,15 +1,19 @@
 # About KODO for Endpoints
 
-KODO for Endpoints is a platform that provides protection for desktops and laptops. KODO can mitigate the effects of theft, malware attacks \(including ransomware\) and human error that can threaten business continuity. Its robust features are fundamental for both IT administrators and users.
+KODO for Endpoints is a innovative, next genaration protection platform for desktops and laptops. KODO can mitigate the effects of theft, malware attacks \(including ransomware\) and human error that can threaten business continuity. Its robust features are fundamental for both IT administrators and users.
 
-It provides robust protection, that is fundamental both to IT admins and business users. KODO for Endpoints 
+Safety and manageability are our biggest priorities. "Magic link" deployment, LDAP/Active Directory user management, and web-based user interface are the first steps to help enterprises to manage difficult processes.
 
+In order to ensure 100% safety, data are encrypted and all of your valuable files are backed up right after they are saved. The software does not wait for a scheduled backup. The backup process starts automatically in the background every time any changes to a file or files are made. The administrator or authorized user defines the directories that require protection. The client application compares all the gathered data when connecting to the IBM Spectrum Protect server and if necessary performs a backup.
+
+KODO for Endpoints server provides robust protection, that is fundamental both to IT admins and business users. Here you can find  some fundamental advanatages KODO for Endpoints has implemented in:  
+
+* Continuous data protection \(CDP\)
 * Enterprise engine \(+10000 users\)
 * File versioning
-* Continuous data protection \(CDP\)
-* Space saver – deduplication
+* Data deduplication and compression on a source \(endpoint\)
 
-It focuses on employees, systems, devices, and data safety. KODO fits in that trend delivering different layers of security, including a variety of administration roles.
+KODO for Endpoints focuses on employees, systems, devices, and data safety. KODO fits in that trend delivering different layers of security, including a variety of administration roles.
 
 * Data encryption
 * SSL/TLS connection encryption
