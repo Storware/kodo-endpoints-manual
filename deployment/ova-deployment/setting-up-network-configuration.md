@@ -28,7 +28,7 @@ to
 BOOTPROTO=static
 ```
 
-Next, add the following options to the file:
+In the next step, add the following entries to the file:
 
 * IPADDR=YOUR\_IP\_ADDRESS
 * NETMASK=YOUR\_NETMASK
