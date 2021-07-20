@@ -5,17 +5,18 @@ description: >-
   instance.
 ---
 
-# Firewall ports opening and KODO server initialization
+# Taking the first steps after the installation
 
 ## Configuring firewall
 
 Default KODO server configuration requires two ports open:
 
-**8181/tcp -** for kodo-for endpoints component
+**8181/tcp -** for kodo-for endpoints component  
+
 
 ### Opening firewall ports
 
-Log in to the console as the root user. Run following commands to open firewall ports:
+Run following commands to open firewall ports:
 
 ```text
 # firewall-cmd --zone=public --add-port=8181/tcp --permanent
@@ -72,33 +73,27 @@ Start KODO server with: systemctl start kodo-server-api-core
 
 There are three dedicated scripts to do some basic tasks on KODO server. Using them you can stop, start the server, and also check its status.
 
-To use the scripts, you have to be logged in as the `kodo` user. Go to the directory  `/opt/storware/kodo-server/api-core/bin`   and execute the scripts:
+To use the scripts, you have to be logged in as the `kodo` user. Go to the directory  `/opt/storware/kodo-server/api-core/bin`   and execute 
 
-* **stop.sh** - to stop KODO for Endpoints server
-* **start.sh** - to start KODO for Endpoints server
-* **status.sh** - to check KODO for Endpoints server status
 
-The KODO server can be also started and stopped the **kodo-for-endpoints** service from the root account.
 
- ****To start the kodo-for-endpoints component, a the `root` user  run:
+**To start the kodo-for-endpoints component run:**
 
 ```text
-# systemctl start kodo-for-endpoints
+systemctl start kodo-for-endpoints
 ```
 
 {% hint style="info" %}
-It may take a few minutes to start service
+It may take few minutes to start service
 {% endhint %}
 
-Once started kodo-for-endpoints component will be listening on the port 8181\(default\) for HTTPS connections.
+Once started kodo-for-endpoints component will be listening on port 8181\(default\) for HTTPS connections.
 
-To stop kodo-for-endpoints component run**:**
+**To stop kodo-for-endpoints component run:**
 
 ```text
-# systemctl stop kodo-for-endpoints
+systemctl stop kodo-for-endpoints
 ```
-
-
 
 
 
