@@ -15,3 +15,9 @@ In the **SET IBM SPECTRUM PROTECT PASSWORD** copy and paste the password generat
 
 ![](../../.gitbook/assets/image%20%2814%29.png)
 
+If you've obtained a trial license from Storware sales team or purchased it, go to the License tab and upload it.
+
+If the license is uploaded, 
+
+Go to the 
+

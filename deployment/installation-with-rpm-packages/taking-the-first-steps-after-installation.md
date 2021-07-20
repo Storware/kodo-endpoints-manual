@@ -5,7 +5,7 @@ description: >-
   instance.
 ---
 
-# Taking the first steps after the installation
+# Firewall ports opening and KODO server initialization
 
 ## Configuring firewall
 
