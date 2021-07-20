@@ -61,9 +61,7 @@ DEVICE=ens192
 ONBOOT=yes
 ```
 
-Save the file pressing the `CTRL+o` and then `Enter` key.
-
-After the file is saved you can exit the editor by pressing `CTRL+x` key combination.
+Save the file and exit it by pressing the `ESC`, then `:x!` and then `Enter` key.
 
 The final step is to restart the network configuration. To do this use the command:
 
