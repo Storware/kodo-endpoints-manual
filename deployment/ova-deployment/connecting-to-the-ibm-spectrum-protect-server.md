@@ -6,8 +6,8 @@ In the first step, log in to  the KODO Portal as the `kodoadmin` user and go to 
 
 Next, switch to the IBM Spectrum Protect tab. Check, if the proper port numbers are set:
 
-* **Port** - it should be number 15 set
-* **Administrative Port** - it should be number 15 set
+* **Port** - it should be number 1502 set
+* **Administrative Port** - it should be number 1503 set
 
 Do not change the Nodename name. Click the **Save** button
 
