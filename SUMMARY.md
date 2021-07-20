@@ -23,6 +23,8 @@
     * [Configuring KODO for Endpoints VA server](deployment/ova-deployment/configuring-kodo-server-va.md)
     * [Logging to the virtual machine](deployment/ova-deployment/loggin-to-virtual-machine.md)
     * [Setting up the network configuration](deployment/ova-deployment/setting-up-network-configuration.md)
+    * [Time synchronization and password changing](deployment/ova-deployment/time-synchronization-and-password-changing.md)
+    * [Connecting to the IBM Spectrum  Protect server](deployment/ova-deployment/connecting-to-the-ibm-spectrum-protect-server.md)
   * [RPM packages installation](deployment/installation-with-rpm-packages/README.md)
     * [Taking the first steps after the installation](deployment/installation-with-rpm-packages/taking-the-first-steps-after-installation.md)
   * [IBM Spectrum Protect engine](deployment/ibm-spectrum-protect/README.md)

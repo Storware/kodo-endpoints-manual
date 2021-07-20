@@ -13,7 +13,7 @@ When asked for a password use password for `kodo` user.
 Edit network configuration file e.g. using `vi` editor:
 
 ```text
-# vi /etc/sysconfig/network-scripts/ifcfg-ens160vi 
+# vi /etc/sysconfig/network-scripts/ifcfg-ens160
 ```
 
 To set up static IP address change:
@@ -69,7 +69,7 @@ The final step is to restart the network configuration. To do this use the comma
 # service network restart
 ```
 
-Now you should be able to log in to your KODO system using a web browser and IP address that you configured in previous steps. Open a  web browser and enter the address:
+Now you should be able to log in to your KODO system using a web browser and IP address that you configured in the previous steps. Open a  web browser and enter the address:
 
 ```text
 https://ip_address:8181
