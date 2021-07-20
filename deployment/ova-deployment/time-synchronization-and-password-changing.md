@@ -1,6 +1,6 @@
-# Time synchronization and password change
+# Time synchronization and password changing
 
-If the OVA image file has not been used for some time from the moment it was prepared and uploaded to the FTP server, the difference between internal OS time and IBM Spectrum Protect server may appear. In such a case the connection between both servers can be problematic. Additionally, we recommend changing the default password for the IBM Spectrum Protect server user \(the default administration user name is `kodo.va`  to some randomly generated\).
+If the OVA image file has not being used for some time from the moment it was prepared and uploaded to the ftp server, the difference between internal OS time and IBM Spectrum Protect server may appear. In such a case the connection between both servar can be problematic. Additionally, we recommend to change the default password for the IBM Spectrum Protect server user \(the default administation user name is `kodo.va`  to some randomly genarated\).
 
 
 
@@ -11,7 +11,7 @@ $ cd /home/kodo/scripts
 $./kfe_ova_init.sh
 ```
 
-The output should be like the one below:
+Tteh output shoud be like the one below:
 
 ```text
 $ ANR0894I Current system has been accepted as valid.
@@ -22,11 +22,11 @@ $ New password generated! Check /opt/storware/kodo-server/api-core/logs/tsm_pass
 
 ```
 
-The new password is needed to connect the IBM Spectrum Protect server to the KODO for Endpoints server.
+The new password is needed to connect IBM Spectrum Protect server to the KODO for Endpoints server.
 
 {% hint style="warning" %}
-Please make a copy of that file or write down the new password and keep it in a safe place.
+Please make a copy of that file or write down the new password and keep it in some save place.
 {% endhint %}
 
-Go to the [Connecting to the IBM Spectrum Protect server ](connecting-to-the-ibm-spectrum-protect-server.md)chapter to get to know how to configure the KODO for Endpoints server to get access to the IBM server.
+ 
 
