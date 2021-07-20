@@ -1,11 +1,13 @@
 ---
 description: >-
-  KODO is using the enterprise Spectrum Protect (TSM) engine as the backup
-  provider. We require a special Spectrum Protect (TSM) configuration. Create a
-  configuration in accordance with guidelines.
+  KODO is using enterprise Spectrum Protect (TSM) engine as backup provider. We
+  require special Spectrum Protect (TSM) configuration. Create a configuration
+  in accordance with guidelines.
 ---
 
-# Spectrum Protect \(TSM\) configuration + policy
+# IBM Spectrum Protect \(TSM\) configuration + policy
+
+KODO is using the enterprise IBM Spectrum Protect \(TSM\) engine as the backup provider. We require a special IBM Spectrum Protect \(TSM\) configuration. Create a configuration in accordance with this guideline.
 
 ## Creating domain, policy and management class
 
@@ -29,15 +31,13 @@ SERVER1> assign defmgmt kodo kodo 30days
 SERVER1> activate policy kodo kodo
 ```
 
-_TIP: You can change retention settings, also many management classes can be created._
-
 {% hint style="info" %}
 TIP: You can change retention settings, also many management classes can be created.
 {% endhint %}
 
-## Registering node and administrator
+## Registering a new node and administrator account
 
-Register new node and update administrator information. Created node and administrator will be used by KODO to manage protected data.
+Register a new node and update administrator information. Created node and administrator will be used by KODO to manage protected data.
 
 ### **Spectrum Protect \(TSM\) &lt; 8.1**
 
@@ -59,4 +59,6 @@ SERVER1> register admin kodo.COMPANY_NAME client_password
 SERVER1> update admin kodo.COMPANY_NAME passexp=0
 SERVER1> grant authority kodo.COMPANY_NAME cl=sys
 ```
+
+
 
