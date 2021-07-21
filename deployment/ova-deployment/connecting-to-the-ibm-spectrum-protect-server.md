@@ -19,5 +19,5 @@ If you've obtained a trial license from the Storware sales team or purchased it,
 
 If the license is uploaded, go to the [Administration](../../configuration/) chapter to learn how to start KODO for Endpoint server configuration. 
 
-Go to the RPM packages installation chapter to find out how to install KODO for Endpoint server using RPM package 
+Go to the RPM packages installation chapter to find out how to install KODO for Endpoints server using the RPM packages
 
