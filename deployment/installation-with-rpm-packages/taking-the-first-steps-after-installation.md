@@ -95,7 +95,7 @@ To stop the kodo-for-endpoints component, run the following command**:**
 # systemctl stop kodo-for-endpoints
 ```
 
-Go to the [IBM Spectrum Protect Engine]() chapter to find out how to configure it to be able to use it with KODO server. 
+Go to the [IBM Spectrum Protect server configuration](../spectrum-protect-tsm-configuration.md) chapter to find out how to configure it to be able to use it with KODO server. 
 
 
 

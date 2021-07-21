@@ -30,7 +30,7 @@ Use the `kodo`user if asked for it.
 
 Create a new repository file: `touch /etc/yum.repos.d/kodo-endpoints.repo`
 
-Copy and paste the following entry into the kodo-endpoints.repo file:
+Copy and paste the following entry into the `kodo-endpoints.repo` file:
 
 ```text
 [kodo-endpoints]
