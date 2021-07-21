@@ -23,33 +23,48 @@ To set up an **e-mail** server:
 1. Click the **Settings** located in the top bar, this will move you to the KODO configuration page
 2. Click the **General** tab.
    1. Provide the necessary information for the e-mail server configuration
-
       * **E-mail address** – address used to sending e-mails from KODO
       * **Login** – user name used to login to e-mail server \(optional if the server requires authentication\)
       * **Server address** - IP or DNS name of the e-mail server
       * **Port** - port of the e-mail server
-      * **Use SSL** - set to "**on**" if SSL communication is required
+      * **Use SSL** - check it  "**on**" if SSL communication is required
       * **SSL Port** - TCP Port number used by the SSL SMTP server
       * **Require Authentication** - set to “on” if the server requires authentication
-3. 4. 5. 6. 7. 8. Click the **Save** button.
-9. 10. ```text
+
+        * 
+        sd
+
+      * 
+3. asd
+
+   1. s
+
+   ![](../../.gitbook/assets/arbuz.jpg) 
+
+4. 5. 6. 7. 8. ....
+9. 10. 11. 12. Click the **Save** button.
+13. ```text
 
     ```
-11. If the server needs authentication then provide a password for the e-mail server in the **SET EMAIL SERVER PASSWORD** section.
+14. If the server needs authentication then provide a password for the e-mail server in the **SET EMAIL SERVER PASSWORD** section.
 
     ![mail\_password](../../.gitbook/assets/emailpass.png)
 
-12. Click the “**UPDATE PASSWORD**” button
+15. Click the “**UPDATE PASSWORD**” button
+
+![](../../.gitbook/assets/image%20%2818%29.png)
+
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 ![](../../.gitbook/assets/image%20%2816%29.png)
 
-![](../../.gitbook/assets/image%20%2827%29.png)
-
-![](../../.gitbook/assets/image%20%2832%29.png)
-
 ![](../../.gitbook/assets/image%20%2829%29.png)
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
+
+![](../../.gitbook/assets/image%20%2831%29.png)
+
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 _TIP: You can test your configuration click **SEND TEST EMAIL** button_
 

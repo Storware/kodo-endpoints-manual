@@ -14,7 +14,7 @@ In the _**Kodo Portal Administrators**_ tab you have the following options avail
 
 To add a new administrator, click **Add Administrator** button and fill in required fields
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 Click the **Save** button to finish or the Cancel to dismiss.
 
