@@ -39,6 +39,7 @@
     * [Audit log](configuration/kodo-admin-portal/auditlog.md)
     * [Settings](configuration/kodo-admin-portal/settings.md)
   * [KODO Organization Portal](configuration/kodo-organization-portal/README.md)
+    * [Dashboard](configuration/kodo-organization-portal/dashboard.md)
     * [Adding users or synchronizing them with LDAP server](configuration/kodo-organization-portal/adding-users-or-synchronizing-them-with-ldap-server.md)
     * [Log in to system as organization administrators](configuration/kodo-organization-portal/log-in-to-system-as-organization-administrators.md)
     * [Synchronizing users with LDAP server](configuration/kodo-organization-portal/synchronizing-users-with-ldap-server.md)

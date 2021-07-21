@@ -1,15 +1,19 @@
 ---
 description: >-
-  As an administrator of server instance your task is to upload a package with
-  KODO clients. Those packages will be available for organizations to download
-  and use.
+  As a server instance administrator, your frequent task is to upload packages
+  with KODO clients. These packages will be available for the organization to
+  download and use.
 ---
 
 # Deployment
 
-To upload client packages to your KODO Server follow the steps below:
+{% hint style="info" %}
+You can download the current KODO client package from the site http:/repo.storware.eu/kodo-endpoints/current/
+{% endhint %}
 
-1. Click **Deployment** located in the left menu, this will guide you to KODO deployment page
+To upload the KODO client package to your KODO server, follow the steps below:
+
+1. Click **Deployment** located in the left menu, this will guide you to the KODO deployment page
 2. Click the **Upload package** button, select client package, and click **Open**
 3. After the package is successfully uploaded, it will be displayed on the list of available packages
 
