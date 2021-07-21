@@ -2,16 +2,16 @@
 
 KODO for Endpoints server was designed in a multi-tenancy architecture. It means that you can define multiple organizations \(tenants\) within one instance of KODO for Endpoints server. In each organization instance, you can backup a separate set of endpoints you defined. 
 
-To be able to administer the server using different levels of access, KODO server was designed to leverage  two administration levels:
+To be able to administer the server using different levels of access, KODO server was designed to leverage two administration levels:
 
 * **KODO administration level** - accessed through KODO Admin Portal
-* **KODO organization administration level** - accessed through KODO organization portal
+* **KODO organization administration level** - accessed through KODO Organization portal
 
 Please find the description for each administration level below.
 
 ## KODO administrator level
 
-KODO administration level is the highest level of authorization. If you log in to the portal as `kodoadmin` user,  you can configure system settings and other system assets as follow:
+KODO administration level is the highest level of authorization. If you log in to the portal as `kodoadmin` user,  you can configure global system settings and other assets as follow:
 
 * Download or upload installer packages
 * Manage administrators
