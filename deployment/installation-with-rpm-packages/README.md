@@ -1,13 +1,17 @@
 ---
-description: The RPM packages are suitable for installation on Red Hat and CentOS.
+description: >-
+  The RPM packages are suitable for installation on Red Hat and CentOS operating
+  systems.
 ---
 
 # RPM packages installation
 
+{% hint style="warning" %}
 This type of installation requires the usage of an external IBM Spectrum Protect server.
+{% endhint %}
 
 {% hint style="info" %}
-The commands described below need to be executed with root user privileges.
+The commands described below need to be executed with the `root` user privileges.
 {% endhint %}
 
 Prior to KODO server installation, you have to add some packages repositories have to be added. Follow the tasks described below to add some required repositories. 
@@ -54,7 +58,7 @@ Go to the next step to start KODO for Endpoint server installation.
 
 ## Installation
 
-To install KODO for Endpoints server you need to install  `kodo-for-endpoints` component. Follow the steps below to start the installation process: 
+To install KODO for Endpoints server you need to install `kodo-for-endpoints` component. Follow the steps below to start the installation process: 
 
 1. Log in as the root user.
 2. Use the command below to install `kodo-for-endpoints` package.

@@ -1,11 +1,8 @@
 ---
-description: >-
-  After you install KODO components, prepare for the configuration. Using the
-  configuration scripts is the preferred method of configuring the KODO server
-  instance.
+description: 'After you install KODO components, you have to do some configuration steps.'
 ---
 
-# Firewall ports opening and KODO server initialization
+# Firewall configuration and KODO server initialization
 
 ## Configuring firewall
 
@@ -24,7 +21,7 @@ Log in to the console as the root user. Run following commands to open firewall 
 
 ## Configuring kodo-for-endpoints component
 
-To configure the `kodo-for-endpoints` component run the following script:
+To configure the `kodo-for-endpoints` component,  run the following script to initialize KODO server:
 
 ```text
 # /opt/storware/kodo-server/api-core/bin/kodo-init.sh
@@ -39,7 +36,7 @@ You can use the following parameters with the script:
 Specify the password for the root database user. If a password is not provided or the root database user password is empty you will be asked to provide it. Default: none
 
 **-k \| --kodo-password**  
-Specify the password for kodo database user. If the password is not provided it will be generated. Default: none
+Specify the password for the kodo database user. If the password is not provided it will be generated. Default: none
 
 **-h \| --hostname**  
 Specify database host address. Default: localhost
@@ -90,15 +87,15 @@ The KODO server can be also started and stopped the **kodo-for-endpoints** servi
 It may take a few minutes to start service
 {% endhint %}
 
-Once started kodo-for-endpoints component will be listening on the port 8181\(default\) for HTTPS connections.
+Once started kodo-for-endpoints component will be listening on port 8181\(default\) for HTTPS connections.
 
-To stop kodo-for-endpoints component run**:**
+To stop the kodo-for-endpoints component, run the following command**:**
 
 ```text
 # systemctl stop kodo-for-endpoints
 ```
 
-
+Go to the [IBM Spectrum Protect Engine]() chapter to find out how to configure it to be able to use it with KODO server. 
 
 
 
