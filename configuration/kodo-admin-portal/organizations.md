@@ -2,9 +2,11 @@
 
 This menu allows you to manage KODO organizations on KODO for Endpoints server.
 
+## **Add Organization**
+
 To add a new organization just click **Add Organization** and fill in all required fields: 
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 After you entered the required information, click the **Save** button to add the organization or the **Cancel** button to dismiss.
 
@@ -26,9 +28,7 @@ In the General Settings section you can enable/disable direct connection from th
 
 * **SECURITY SETTINGS**
 
-\*\*\*\*
-
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 * **SERVICE PROVIDER SETTINGS**
 
@@ -37,4 +37,10 @@ In the General Settings section you can enable/disable direct connection from th
 After modification of any of the previous fields just click ![](../../.gitbook/assets/savebuttongreen.png) or ![](../../.gitbook/assets/backbutton.png) for discard any changes.
 
 ## Delete Organization
+
+To delete an organization just choose the **Delete** from the Options menu and confirm the operation: 
+
+![](../../.gitbook/assets/image%20%2817%29.png)
+
+Click the **Continue** button to remove the organization from the KODO for Endpoints server.
 

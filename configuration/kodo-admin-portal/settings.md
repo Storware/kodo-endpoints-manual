@@ -2,7 +2,7 @@
 
 ## Settings
 
-To change configuration select `Settings` from the top portal bar.
+To change configuration select the **Settings** menu from the left pane.
 
 ### **GENERAL**
 
@@ -16,12 +16,12 @@ Confirm the settings with the ![SAVE](../../.gitbook/assets/savebuttonsmall.png)
 
 ### Email
 
-In this section you will configure SMTP server settings for KODO for Endpoint.
+In this section, you will configure SMTP server settings for KODO for Endpoint.
 
-To set up **e-mail** server:
+To set up an **e-mail** server:
 
-1. Click the **Settings** located in top bar, this will move you to KODO configuration page
-2. Click **General** tab.
+1. Click the **Settings** located in the top bar, this will move you to the KODO configuration page
+2. Click the **General** tab.
 3. Provide the necessary information for the e-mail server configuration
 
    * **E-mail address** – address used to sending e-mails from KODO
@@ -29,12 +29,12 @@ To set up **e-mail** server:
    * **Server address** - IP or DNS name of the e-mail server
    * **Port** - port of the e-mail server
    * **Use SSL** - set to "**on**" if SSL communication is required
-   * **SSL Port** - TCP Port number used by SSL SMTP server
+   * **SSL Port** - TCP Port number used by the SSL SMTP server
    * **Require Authentication** - set to “on” if the server requires authentication
 
    ![mail](../../.gitbook/assets/email.png)
 
-4. Click ![SAVE](../../.gitbook/assets/savebuttonsmall.png) button.
+4. Click the **Save** button.
 5. If the server needs authentication then provide a password for the e-mail server in the **SET EMAIL SERVER PASSWORD** section.
 
    ![mail\_password](../../.gitbook/assets/emailpass.png)
