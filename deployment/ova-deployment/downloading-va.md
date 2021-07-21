@@ -21,12 +21,10 @@ Note: Validate the downloaded file by the MD5 hash using the information in the 
 {% endhint %}
 
 {% hint style="warning" %}
-If you've downloaded the "kodo.for.endpoints-gateway-va-4.ova" image file, after the deployment you have to go to the  "IBM Spectrum Protect engine" chapter to get to know how to connect the backup engine to KODO for Enpoints server.
+If you've downloaded the "kodo.for.endpoints-gateway-va-4.ova" image file, after the deployment you have to go to the  [IBM Spectrum Protect engine](../spectrum-protect-tsm-configuration.md) chapter to get to know how to connect the backup engine to KODO for Enpoints server.
 {% endhint %}
 
-If you have successfully downloaded the OVA file, please deploy it in your virtual environment. The network card IP address is assigned automatically by DHCP protocol by default.
+If you have successfully downloaded the OVA file, deploy it in a virtual environment. Note that the IP address of the network adapter is automatically assigned by default by the DHCP protocol.
 
-Go to the [Deploy VA](deploying-va.md) chapter to learn how to install KODO for Endpoints server using the OVA image file.
-
-
+Go to the [Deploy VA](deploying-va.md) chapter to learn how to install KODO for Endpoints server using downloaded the OVA image file.
 

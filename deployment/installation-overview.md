@@ -11,3 +11,5 @@ Go to the [Virtual Appliance \(VMware\)](ova-deployment/) chapter to find out ho
 
 Optionally, If you are familiar with the IBM Spectrum Protect server and you have one to use it as a data repositiry, you can to install KODO for Endpoints server on any dedicated server. In that case,  go to the [RPM packages installation](installation-with-rpm-packages/) chapter to get to know how to configure KODO server using gateway configuration option. 
 
+Go to the [Virtual Appliance \(VMware\) ](ova-deployment/)tofind out how to download, install and configure KODO for Endpoints server as a virtual appliance.
+

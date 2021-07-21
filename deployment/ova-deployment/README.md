@@ -1,10 +1,14 @@
 # Virtual Appliance \(VMware\)
 
-The following guideline provides information about the virtual environment and virtual machine requirements. Please carefully review all [KODO Server VA requirements](https://github.com/Storware/kodo-endpoints-manual/tree/4aaf7963e8bd360acf364257fa025561f954a699/deployment/first-steps/server-requirements.md).
+The the next supchapters you will find information how to download OVA image files and deploy and configure KODO for Endpoint server as a virtual appliance. Please read the following subchapters:
 
 * [_Downloading VA_](downloading-va.md)
 * [_Deploying VA_](deploying-va.md)
 * [_Configuring KODO Server VA_](configuring-kodo-server-va.md)
 * \_\_[_Logging to the virtual machine_](loggin-to-virtual-machine.md)\_\_
 * [_Setting up the network configuration_](setting-up-network-configuration.md)
+
+
+
+Go to the [Downloading VA](downloading-va.md) to learn how to download OVA image files from Storware FTP server.
 
