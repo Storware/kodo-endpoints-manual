@@ -6,13 +6,13 @@ To change configuration select the **Settings** menu from the left pane.
 
 ### **GENERAL**
 
-This section allows you to configure the domain name for URL with deployment package: ![email](../../.gitbook/assets/deploy.png)
+This section allows you to configure the domain name for URL with the deployment package: ![email](../../.gitbook/assets/deploy.png)
 
 _The link will be sent in the format:_ [https://deployment.server.name/TOKEN](https://deployment.server.name/TOKEN)
 
 You can narrow access for kodoadmin to specific IP addresses.
 
-Confirm the settings with the ![SAVE](../../.gitbook/assets/savebuttonsmall.png) button
+Confirm the settings with the **Save** button
 
 ### Email
 
@@ -22,24 +22,34 @@ To set up an **e-mail** server:
 
 1. Click the **Settings** located in the top bar, this will move you to the KODO configuration page
 2. Click the **General** tab.
-3. Provide the necessary information for the e-mail server configuration
+   1. Provide the necessary information for the e-mail server configuration
 
-   * **E-mail address** – address used to sending e-mails from KODO
-   * **Login** – user name used to login to e-mail server \(optional if the server requires authentication\)
-   * **Server address** - IP or DNS name of the e-mail server
-   * **Port** - port of the e-mail server
-   * **Use SSL** - set to "**on**" if SSL communication is required
-   * **SSL Port** - TCP Port number used by the SSL SMTP server
-   * **Require Authentication** - set to “on” if the server requires authentication
+      * **E-mail address** – address used to sending e-mails from KODO
+      * **Login** – user name used to login to e-mail server \(optional if the server requires authentication\)
+      * **Server address** - IP or DNS name of the e-mail server
+      * **Port** - port of the e-mail server
+      * **Use SSL** - set to "**on**" if SSL communication is required
+      * **SSL Port** - TCP Port number used by the SSL SMTP server
+      * **Require Authentication** - set to “on” if the server requires authentication
+3. 4. 5. 6. 7. 8. Click the **Save** button.
+9. 10. ```text
 
-   ![mail](../../.gitbook/assets/email.png)
+    ```
+11. If the server needs authentication then provide a password for the e-mail server in the **SET EMAIL SERVER PASSWORD** section.
 
-4. Click the **Save** button.
-5. If the server needs authentication then provide a password for the e-mail server in the **SET EMAIL SERVER PASSWORD** section.
+    ![mail\_password](../../.gitbook/assets/emailpass.png)
 
-   ![mail\_password](../../.gitbook/assets/emailpass.png)
+12. Click the “**UPDATE PASSWORD**” button
 
-6. Click the “**UPDATE PASSWORD**” button
+![](../../.gitbook/assets/image%20%2816%29.png)
+
+![](../../.gitbook/assets/image%20%2827%29.png)
+
+![](../../.gitbook/assets/image%20%2832%29.png)
+
+![](../../.gitbook/assets/image%20%2829%29.png)
+
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 _TIP: You can test your configuration click **SEND TEST EMAIL** button_
 
