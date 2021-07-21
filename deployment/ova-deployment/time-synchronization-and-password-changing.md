@@ -22,11 +22,11 @@ $ New password generated! Check /opt/storware/kodo-server/api-core/logs/tsm_pass
 
 ```
 
-The new password is needed to connect the IBM Spectrum Protect server to the KODO for Endpoints server.
+The new password is saved in the  `/opt/storware/kodo-server/api-core/logs/tsm_password.txt`  and is needed to connect the IBM Spectrum Protect server to the KODO for Endpoints server.
 
 {% hint style="warning" %}
 Please make a copy of that file or write down the new password and keep it in a safe place.
 {% endhint %}
 
-Go to the [Connecting to the IBM Spectrum Protect server ](connecting-to-the-ibm-spectrum-protect-server.md)chapter to get to know how to configure the KODO for Endpoints server to get access to the IBM server.
+Go to the [Connecting to the IBM Spectrum Protect server ](connecting-to-the-ibm-spectrum-protect-server.md)chapter to get to know how to configure the KODO for Endpoints server to be able to access the IBM server.
 
