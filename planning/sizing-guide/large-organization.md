@@ -22,5 +22,5 @@ For a small  organization \(up to 2000 endpoints\) the following system configur
   </tbody>
 </table>
 
-Go to the [Very large organization](very-large-organization.md) chapter to choose your KODO for Endpoints server installation type.
+Now you can go over to the [Deployment](../../deployment/) chapter to choose KODO for Endpoints server installation type or go to the [Very large organization](very-large-organization.md) chapter.
 

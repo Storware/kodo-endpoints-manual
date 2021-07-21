@@ -22,5 +22,5 @@ For a small  organization \(up to 200 endpoints\) the following system configura
   </tbody>
 </table>
 
-Now you can to the [Deployment](../../deployment/) chapter to choose KODO for Endpoints server installation type or go to the [Medium organization ](medium.md)chapter.
+Now you can go over to the [Deployment](../../deployment/) chapter to choose KODO for Endpoints server installation type or go to the [Medium organization ](medium.md)chapter.
 

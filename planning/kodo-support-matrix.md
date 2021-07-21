@@ -9,6 +9,7 @@ KODO for Endpoints client application can be installed on the following operatin
 * Microsoft Windows 8.1 64-bit
 * Microsoft Windows 8.1 64-bit
 * Microsoft Windows 10 32-bit
+* Microsoft Windows 10 64-bit
 
 The additional packages are required to be installed on the endpoints:
 

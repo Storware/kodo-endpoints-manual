@@ -9,7 +9,7 @@ description: >-
 
 ## KODO Server requirements
 
-### **Supported Operating Systems**
+### **Supported operating systems**
 
 KODO for Endpoints server can be deployed on the following operating systems:
 
@@ -82,7 +82,7 @@ All disks can be configured as thin-provisioned_._ This hardware configuration i
 ## Network Requirements
 
 * Internet connection is not required generally, but during the installation`yum` needs to fetch packages from the repositories, so you need at least access to your internal repositories.
-* KODO for Endpoints server needs access to AD/LDAP server \(if used\)
+* KODO for Endpoints server needs access to AD/LDAP server \(if used\).
 
 Go to the [KODO for Endpoints client application Support Matrix](kodo-support-matrix.md) chapter to learn on what endpoint's operating systems the application can be installed.
 
