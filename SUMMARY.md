@@ -31,7 +31,6 @@
   * [IBM Spectrum Protect server configuration](deployment/spectrum-protect-tsm-configuration.md)
   * [Initial configuration](deployment/initial-configuration.md)
 * [Administration](configuration/README.md)
-  * [Administration levels](configuration/administration-levels.md)
   * [KODO Admin Portal](configuration/kodo-admin-portal/README.md)
     * [Dashboard](configuration/kodo-admin-portal/dashboard.md)
     * [Deployment](configuration/kodo-admin-portal/deployment.md)

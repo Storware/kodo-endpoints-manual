@@ -1,11 +1,13 @@
 # Administration
 
-To start KODO for Endpoints configuration, in the first step you have to log in to the KODO Admin Portal and configure 
+You can administer KODO for Endpoints just from a web browser by logging in to the proper administration level. It can be either KODO administration level or Organization level.
 
-You can configure KODO for Endpoints just from a web browser by logging in with the proper administration level.
+In the next chapters, you'll find information about each of the level portals e.i:
 
-* [_Administration levels_](administration-levels.md)
 * [_KODO Admin Portal_](kodo-admin-portal/)
 * [_KODO Organization Portal_](kodo-organization-portal/)
-* [_Common problems_](common-problems.md)
+
+Go to the [KODO Admin Portal](kodo-admin-portal/) chapter to learn more about it.
+
+
 
