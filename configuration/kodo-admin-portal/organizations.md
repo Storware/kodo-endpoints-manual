@@ -1,12 +1,14 @@
 # Organizations
 
-This menu item allows you to add/edit/remove organizations in KODO for Endpoints.
+This menu allows you to manage KODO organizations on KODO for Endpoints server.
 
-## **Add Organization**
+## \*\*\*\*
 
-To add a new organization just click ![](../../.gitbook/assets/addorgbuttonsmall.png) and fill all fields: ![](../../.gitbook/assets/neworg.PNG)
+To add a new organization just click **Add Organization** and fill in all required fields: 
 
-After you entered all required information, click ![](../../.gitbook/assets/savebuttonsmall.png) to add the organization or ![](../../.gitbook/assets/dismissbuttonsmall.png) to cancel.
+![](../../.gitbook/assets/image%20%2816%29.png)
+
+After you entered the required information, click the **Save** button to add the organization or the **Cancel** button to dismiss.
 
 ## **Edit Organization**
 

@@ -1,12 +1,24 @@
 # Administrators
 
-There are two tabs in the **Administrators** section:  _**Kodo Organization Administrators**_ and _**Kodo Portal Administrators**_
+There are two tabs in the **Administrators** section:  _**Kodo Portal Administrators**_ and _**Kodo Organization Administrators.**_
 
-In _**Kodo Organization Administrators**_ tab you can Add/Change/Remove administrator accounts for Your organization.
+In the _**Kodo Portal Administrators**_ tab you have the following options available:
 
-After editing the user just click ![](../../.gitbook/assets/savebuttonsmall.png) to save changes or ![](../../.gitbook/assets/dismissbuttonsmall.png) to cancel.
+* Add Administrator 
+* Reset password 
+* Reset and email password
+* Edit
+* Delete
 
-* **Removing organization administrator account**
+**Add administrator**
+
+To add a new administrator, click **Add Administrator** button and fill in required fields
+
+![](../../.gitbook/assets/image%20%2815%29.png)
+
+Click the **Save** button to finish or the Cancel to dismiss.
+
+**Removing organization administrator account**
 
 To remove an account you have to click the drop-down menu on the right side of the administrator user   
 and select the **Delete** option.
@@ -17,19 +29,21 @@ To confirm the deletion by entering the username of the administrator.
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-* **Resetting password for organization administrator account**
+**Resetting password for the organization administrator account**
 
-To reset the password for the organization administrator just click the drop-down menu and choose _**Reset password**_ for manual password set,
+To reset the password for the organization administrator just click the drop-down menu and choose **Reset password** for manual password set,
 
 ![](../../.gitbook/assets/editadmin%20%281%29.png)
 
 ![](../../.gitbook/assets/resetpass1.png)
 
-and choose ![](../../.gitbook/assets/savebuttonsmall.png) or ![](../../.gitbook/assets/dismissbuttonsmall.png) for cancel.
+Click the **Save** button to finish or the Cancel to dismiss.
 
-Another way to change password is _**Reset and email password**_ for automatic password generation. The generated password will be sent to the email provided for the account.
+Another way to change the password is **Reset and email password** for automatic password generation. The generated password will be sent to the email provided for the account.
 
 ![](../../.gitbook/assets/changepass2.png)
 
-Choose ![](../../.gitbook/assets/yesbuttonsmall.png) or ![](../../.gitbook/assets/nosmall%20%281%29.PNG) to cancel.
+Click **Yes** to reset or **No** to cancel the operation.
+
+Go to the [Organization](organizations.md) chapter to learn more about KODO organizations.
 
