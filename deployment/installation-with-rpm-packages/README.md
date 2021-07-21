@@ -14,7 +14,9 @@ This type of installation requires the usage of an external IBM Spectrum Protect
 The commands described below need to be executed with the `root` user privileges.
 {% endhint %}
 
-Prior to KODO server installation, you have to add some packages repositories have to be added. Follow the tasks described below to add some required repositories. 
+If you've prepared a virtual or physical machine to install KODO for Endpoints server, you have to configure some software repositories before you install KODO main component. 
+
+Follow the tasks described below to add some required repositories. 
 
 ### Add Storware repository
 
@@ -24,7 +26,7 @@ Log in to the server as the `kodo`user and switch to the `root`user.
 $ sudo -s
 ```
 
-When asked for a password use password for `kodo`user.
+Use the `kodo`user if asked for it.
 
 Create a new repository file: `touch /etc/yum.repos.d/kodo-endpoints.repo`
 
