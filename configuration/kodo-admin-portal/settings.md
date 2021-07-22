@@ -34,18 +34,40 @@ To set up an **e-mail** server:
 
    ![](../../.gitbook/assets/wert.png) 
 
-3. Click the **Save** button.
+3. Click the **Save** button to apply changes.
 4. If the server requires authentication then provide a password in the **SET EMAIL SERVER PASSWORD** section.
 
    ![mail\_password](../../.gitbook/assets/emailpass.png)
 
-5. Click the “**UPDATE PASSWORD**” button to save the password.
+5. Click the **UPDATE PASSWORD** button to save the password.
 
 {% hint style="info" %}
 _TIP: You can test your configuration click **SEND TEST EMAIL** button_
 {% endhint %}
 
-## Configuring the SSL connection with IBM Spectrum Protect
+### IBM Spectrum Protect tab
+
+{% hint style="info" %}
+**NOTE:** If you are using KODO virtual appliance, please change the **Server address** configuration. the **Server address** value should point to the KODO server IP address that will be available for backup clients. For a virtual appliance, no further changes are required.
+{% endhint %}
+
+To set up a connection with the backup server:
+
+1. Go to the **Settings** menu.
+2. Click the **IBM** **Spectrum Protect** tab.
+3. Enter all required **IBM** Spectrum Protect server settings:
+   * **Server address** – IP/DNS name of Spectrum Protect Server
+   * **Port** – Spectrum Protect client port
+   * **Administrative port** – Spectrum Protect Administrative port \(if different from client port\)
+   * **Nodename** – a nodname used by KODO.
+
+     ![tsm](../../.gitbook/assets/ssltsm.PNG)
+4. Click the **Save** button.
+5. Provide a password for node in **SET IBM SP PASSWORD** section
+
+   ![tsm](../../.gitbook/assets/ssltsmpass%20%281%29.PNG)
+
+6. Click the **UPDATE PASSWORD** button
 
 To use the SSL connection between KODO Server, desktop clients, and IBM Spectrum Protect server,  you have to upload the correct SP certificate. This certificate will be used by the server, and also will be distributed to all KODO for Endpoints clients and used with the SSL connection between the client and the backup server.
 
@@ -58,59 +80,35 @@ If you already have a valid certificate file please follow the steps:
    ![](../../.gitbook/assets/ssl.png) 
 
 4. Check the **Use SSL** option.
-5. Click the "**Save**" button.
+5. Click the **Save** button to apply changes.
 
-### IBM Spectrum Protect setup
-
-{% hint style="info" %}
-**NOTE:** If you are using KODO virtual appliance, please change the "**Server address**" configuration. the "**Server address**" value should point to KODO server IP address that will be available for backup clients. For a virtual appliance, no further changes are required.
-{% endhint %}
-
-To set up a connection with the backup server:
-
-1. Go to the **Settings** menu.
-2. Click the **IBM** **Spectrum Protect** tab.
-3. Enter all required **IBM** Spectrum Protect server settings:
-   * **Server address** – IP/DNS name of Spectrum Protect Server
-   * **Port** – Spectrum Protect client port
-   * **Adminitrative port** – Spectrum Protect Administrative port \(if different from client port\)
-   * **Nodename** – a nodname used by KODO.
-
-     ![tsm](../../.gitbook/assets/ssltsm.PNG)
-4. Click the "Save" button.
-5. Provide a password for node in “SET IBM SP PASSWORD” section
-
-   ![tsm](../../.gitbook/assets/ssltsmpass%20%281%29.PNG)
-
-6. Click the "**UPDATE PASSWORD"** button
-
-### License registration
+### License tab
 
 After installation or virtual appliance deployment, KODO Server is running in TRIAL mode for 30 days. After that time you need to provide a valid license key.
 
-To get a license key please contact our local [partner](https://storware.eu/en/partners/) or Storware team.
+To get a license key please contact our [Storware sales team](mailto:globalsales@storware.eu).
 
 If you already have a valid license key please follow the steps:
 
-1. Click the **Settings** menu.
+1. Go to the **Settings** menu.
 2. Click the **License** tab.
 3. Click the **Upload license** button.
 4. Select a license file.
-5. Click the "**Open**" button to upload the license.
+5. Click the **Open** button to upload the license.
 
-### Logs
+### Logs tab
 
-In this tab you can set all parameters for KODO for Endpoints server logs.
+In this tab, you can set all parameters for KODO for Endpoints server logs.
 
 1. Click the **Settings** menu. 
 2. Provide max number of log files, log level, max size of a single file, and set retention period in days.
-3. Click the "**Save**" to apply settings.
+3. Click the  **Save** to apply changes.
 
 ![](../../.gitbook/assets/logs.png)
 
 You can download and view server logs as well.
 
-### Billing
+### Billing tab
 
-In this section, you can assign client licenses to users and set billing period retention.
+In this section, you can assign client licenses to users and set billing period retention. This information is used by kodoadmin to charge all defined organizations in KODO for Endpoints server separately.
 
