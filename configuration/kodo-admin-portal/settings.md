@@ -8,7 +8,7 @@ To change configuration settings select the **Settings** menu from the left pane
 
 This section allows you to configure the deployment server name and also enter the IP addresses allowed to connect to the server. 
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 _The deployment link will be sent in the format:_ [https://deployment.server.name/TOKEN](https://deployment.server.name/TOKEN)
 
