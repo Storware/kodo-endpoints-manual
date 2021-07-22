@@ -22,6 +22,7 @@ To set up an **e-mail** server:
 
 1. Click the **Settings** located in the top bar, this will move you to the KODO configuration page
 2. Click the **General** tab.
+
    1. Provide the necessary information for the e-mail server configuration
       * **E-mail address** – address used to sending e-mails from KODO
       * **Login** – user name used to login to e-mail server \(optional if the server requires authentication\)
@@ -31,42 +32,18 @@ To set up an **e-mail** server:
       * **SSL Port** - TCP Port number used by the SSL SMTP server
       * **Require Authentication** - set to “on” if the server requires authentication
 
-        * 
-        sd
+   ![](../../.gitbook/assets/wert.png) 
 
-      * 
-3. asd
+3. Click the **Save** buttony
+4. If the server needs authentication then provide a password for the e-mail server in the **SET EMAIL SERVER PASSWORD** section.
 
-   1. s
+   ![mail\_password](../../.gitbook/assets/emailpass.png)
 
-   ![](../../.gitbook/assets/arbuz.jpg) 
+5. Click the “**UPDATE PASSWORD**” button
 
-4. 5. 6. 7. 8. ....
-9. 10. 11. 12. Click the **Save** button.
-13. ```text
-
-    ```
-14. If the server needs authentication then provide a password for the e-mail server in the **SET EMAIL SERVER PASSWORD** section.
-
-    ![mail\_password](../../.gitbook/assets/emailpass.png)
-
-15. Click the “**UPDATE PASSWORD**” button
-
-![](../../.gitbook/assets/image%20%2818%29.png)
-
-![](../../.gitbook/assets/image%20%2834%29.png)
-
-![](../../.gitbook/assets/image%20%2816%29.png)
-
-![](../../.gitbook/assets/image%20%2829%29.png)
-
-![](../../.gitbook/assets/image%20%2835%29.png)
-
-![](../../.gitbook/assets/image%20%2831%29.png)
-
-![](../../.gitbook/assets/image%20%2819%29.png)
-
+{% hint style="info" %}
 _TIP: You can test your configuration click **SEND TEST EMAIL** button_
+{% endhint %}
 
 After installation and configuration of SSL components for Spectrum Protect Server described in [IBM Spectrum Protect engine](https://github.com/Storware/kodo-endpoints-manual/tree/48a0e77771612de33ae0394056835a6d98a068de/configuration/deployment/ibm-spectrum-protect/README.md) you can configure SSL settings in KODO Admin portal tab.
 
