@@ -2,7 +2,7 @@
 
 ## Settings
 
-To change configuration select the **Settings** menu from the left pane.
+To change configuration settings select the **Settings** menu from the left pane and switch to the apropriate tabs.
 
 ### **GENERAL**
 
