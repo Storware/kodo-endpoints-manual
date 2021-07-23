@@ -47,7 +47,6 @@
     * [Deployments](configuration/kodo-organization-portal/deployments.md)
     * [Audit Log](configuration/kodo-organization-portal/audit-log.md)
     * [Settings](configuration/kodo-organization-portal/settings.md)
-    * [Untitled](configuration/kodo-organization-portal/untitled.md)
     * [Adding users or synchronizing them with LDAP server](configuration/kodo-organization-portal/adding-users-or-synchronizing-them-with-ldap-server.md)
     * [Log in to system as organization administrators](configuration/kodo-organization-portal/log-in-to-system-as-organization-administrators.md)
     * [Synchronizing users with LDAP server](configuration/kodo-organization-portal/synchronizing-users-with-ldap-server.md)
@@ -104,5 +103,10 @@
   * [WWW page for downloading file from password protected link](customization/www-page-for-downloading-file-from-password-protected-link.md)
   * [Portal branding](customization/portal-branding.md)
 * [Troubleshooting](troubleshooting/README.md)
+  * [Untitled](troubleshooting/untitled-3.md)
+  * [Untitled](troubleshooting/untitled-2.md)
+  * [Untitled](troubleshooting/untitled-1.md)
+  * [Untitled](troubleshooting/untitled.md)
   * [Getting started](troubleshooting/getting-started.md)
+* [Common tasks](common-tasks.md)
 

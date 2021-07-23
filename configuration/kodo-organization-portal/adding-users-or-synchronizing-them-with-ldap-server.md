@@ -9,7 +9,7 @@
 ## LOCAL USERS:
 
 1. Click **ADD LOCAL USER** button
-2. Provide all necessary information to create new KODO user
+2. Provide all necessary information to create a new KODO user
    * **Username \(e-mail\)** - e-mail address used to log in to KODO client
    * **First name**
    * **Last name**
@@ -17,9 +17,9 @@
    * **Phone number** \(optional\)
    * **Policy** - default data protection policy for user
    * **Group** \(optional\)
-   * **Password** - password used by user to log in to KODO client
-   * **Verify password** - password used by user to log in to KODO client
+   * **Password** - password used by the user to log in to KODO client
+   * **Verify password** - password used by the user to log in to KODO client
 
      ![user\_add](../../.gitbook/assets/user_add.png)
-3. Click **SAVE CHANGES** button.
+3. Click the **SAVE CHANGES** button.
 
