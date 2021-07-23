@@ -1,11 +1,13 @@
 ---
 description: >-
-  As a server instance administrator, your frequent task is to upload packages
-  with KODO clients. These packages will be available for the organization to
-  download and use.
+  As an administrator of server instance your task is to upload package with
+  KODO clients. Those packages will be available for organizations to download
+  and use.
 ---
 
 # Deployment
+
+As a server instance administrator, your frequent task is to upload packages with KODO clients. These packages will be available for the organization to download and use.
 
 {% hint style="info" %}
 You can download the current KODO client package from the site http:/repo.storware.eu/kodo-endpoints/current/
