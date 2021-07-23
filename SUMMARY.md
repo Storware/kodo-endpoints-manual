@@ -83,7 +83,6 @@
     * [Removing device](management/device-management/removing-device.md)
     * [Device logs](management/device-management/device-logs.md)
 * [KODO for Endpoints client](client/README.md)
-  * [Hardware and system requirements](client/requirements.md)
   * [Installation](client/installation.md)
   * [Components overwiew](client/components.md)
   * [Using KODO for Endpoint client](client/usage/README.md)

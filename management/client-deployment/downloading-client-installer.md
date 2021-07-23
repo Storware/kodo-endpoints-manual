@@ -4,5 +4,7 @@ To download the KODO client installation, select `Deployments` from the main men
 
 From the menu that appears, download the appropriate installation version of the client.
 
-![](../../.gitbook/assets/installerdownload.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
+
+
 

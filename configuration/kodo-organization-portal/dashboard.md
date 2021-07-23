@@ -1,6 +1,6 @@
 # Dashboard
 
-This dashboard allows checking statistics for a particular KODO organization.
+This dashboard allows you to check the statistics for a specific KODO organization.
 
 ![](../../.gitbook/assets/image%20%2845%29.png)
 
