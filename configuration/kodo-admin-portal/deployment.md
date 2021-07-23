@@ -1,13 +1,11 @@
 ---
 description: >-
-  As an administrator of server instance your task is to upload package with
-  KODO clients. Those packages will be available for organizations to download
-  and use.
+  As a server instance administrator, your frequent task is to upload packages
+  with KODO clients. These packages will be available for the organization to
+  download and use.
 ---
 
 # Deployment
-
-As a server instance administrator, your frequent task is to upload packages with KODO clients. These packages will be available for the organization to download and use.
 
 {% hint style="info" %}
 You can download the current KODO client package from the site http:/repo.storware.eu/kodo-endpoints/current/
@@ -15,13 +13,13 @@ You can download the current KODO client package from the site http:/repo.storwa
 
 To upload the KODO client package to your KODO server, follow the steps below:
 
-1. Go to the  **Deployment** view, located in the left menu, this will guide you to the KODO deployment page
-2. Click the **Upload package** button, select client package, and click the **Open** button.
+1. Click **Deployment** located in the left menu, this will guide you to the KODO deployment page
+2. Click the **Upload package** button, select client package, and click **Open**
 3. After the package is successfully uploaded, it will be displayed on the list of available packages
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
-The packages selected as "**Current**" will determine the production package version for the KODO client. You can set the uploaded package as "current" by clicking the "X" icon and confirm the operation. 
+Packages selected as "**current**" will determine the production package version for the server instance. You can set the uploaded as "current" by clicking the "X" icon and confirm the operation. 
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
