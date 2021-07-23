@@ -2,7 +2,7 @@
 description: You can install the following components for KODO v3.12 or later.
 ---
 
-# KODO Components
+# KODO components
 
  KODO for Endpoints solution consists of the following components:
 
