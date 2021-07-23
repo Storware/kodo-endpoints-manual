@@ -24,13 +24,13 @@ There is the **Search** field at the top-right. You can use it to search for sys
 * Devices
 * Policies
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 Click any resource to be redirected to it.
 
 You can also use the icons beside the **Search** button to be redirected to the product website, support website or product documentation at the Gitbook website.
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 Go to the [Users ](users.md)chapter to learn more about the menu option.
 
