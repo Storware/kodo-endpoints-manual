@@ -1,6 +1,6 @@
 # Management
 
-After you deploy and configure Kodo for Endpoints you can get familiar with Kodo for Endpoint management possibility:
+After you deploy and configure Kodo for Endpoints you can get familiar with Kodo for Endpoint management possibilities: :
 
 * [Client deployment](client-deployment/)
 * [Data protection management](data-protection-management/)

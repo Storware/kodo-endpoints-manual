@@ -2,8 +2,6 @@
 
 ## Server communication error
 
-TCheck status of api-core component
-
 Check if components is working.
 
 You can check status using this command:  

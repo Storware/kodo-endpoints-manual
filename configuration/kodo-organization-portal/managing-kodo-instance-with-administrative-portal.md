@@ -9,21 +9,21 @@ description: >-
 
 ## Access to the administrative portal <a id="access-to-the-administrative-portal"></a>
 
-Management portal is web based and you can get access to it using web browser. Type in the web browser the following address, where _portal\_address_ represents the IP address or domain name of the KODO server.
+The management portal is web-based and you can get access to it using a web browser. Type in the web browser the following address, where _portal\_address_ represents the IP address or domain name of the KODO server.
 
 ```text
-https://portal_address:5000
+https://portal_address:8181
 ```
 
-By default administrative portal is listening on port 5000
+By default administrative portal is listening on port 8181
 
-_KODO administrative portal use Secure Socket Layer to encrypt connection, so the HTTPS prefix is mandatory._
+_KODO administrative portal use Secure Socket Layer to encrypt the connection, so the HTTPS prefix is mandatory._
 
 ## Supported web browsers <a id="supported-web-browsers"></a>
 
 | ​ | **Google Chrome \(latest version\)** | **Mozilla Firefox \(latest version\)** | **Microsoft Edge** | **Apple Safari** |
 | :--- | :--- | :--- | :--- | :--- |
-| MacOS | Supported | Supported | N/A | Supported |
+| macOS | Supported | Supported | N/A | Supported |
 | Linux | Supported | Supported | N/A | N/A |
 | Windows | Supported | Supported | Supported | N/A |
 
