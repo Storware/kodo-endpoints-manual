@@ -1,6 +1,6 @@
 # Administrators
 
-There are two tabs available in the **Administrators** section:  _**Kodo Portal Administrators**_ and _**Kodo Organization Administrators.**_
+There are two tabs in the **Administrators** section:  _**Kodo Portal Administrators**_ and _**Kodo Organization Administrators.**_
 
 In the _**Kodo Portal Administrators**_ tab you have the following options available:
 
@@ -12,7 +12,7 @@ In the _**Kodo Portal Administrators**_ tab you have the following options avail
 
 **Add administrator**
 
-To add a new administrator, click **Add Administrator** button and fill in the required fields
+To add a new administrator, click **Add Administrator** button and fill in required fields
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
 
