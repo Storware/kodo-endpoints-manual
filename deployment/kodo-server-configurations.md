@@ -1,4 +1,4 @@
-# KODO server configuration options
+# KODO server deployment options
 
 KODO for Endpoints server can be installed and configured in two options:
 
@@ -9,9 +9,9 @@ Both options can be deployed as a VMware virtual appliance to the VMware environ
 
 ## KODO for Endpoints Gateway 
 
-The gateway consists of an operating system platform and KODO server binaries. After server deployment, the administrator has to configure access to the external IBM Spectrum Protect server.
+KODO foe Endpoints Gateway consists of an operating system platform and KODO server binaries. After server deployment, the administrator has to configure access to the external IBM Spectrum Protect server.
 
-## KODO for Endpoints-Bundle
+## KODO for Endpoints Bundle
 
 KODO for Endpoints Bundle consists of operating system platform, KODO server binaries, and preconfigured IBM Spectrum Protect server with some predefined retention policies. 
 
