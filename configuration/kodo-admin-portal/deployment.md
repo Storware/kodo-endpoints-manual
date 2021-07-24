@@ -21,9 +21,13 @@ To upload the KODO client package to your KODO server, follow the steps below:
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
-The packages selected as "**Current**" will determine the production package version for the KODO client. You can set the uploaded package as "current" by clicking the "X" icon and confirm the operation. 
+The packages selected as "**Current**" will determine the production package version for the KODO client. You can set the uploaded package as "**Current**" by clicking the "**X**" icon and confirm the operation. 
 
 ![](../../.gitbook/assets/image%20%289%29.png)
+
+{% hint style="info" %}
+TIP: If you are using KODO Server VA, the latest client packages should be already available.
+{% endhint %}
 
 Go to the [Administrators ](administrators.md)chapter to learn more about KODO administrators.
 

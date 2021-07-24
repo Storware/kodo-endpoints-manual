@@ -1,6 +1,6 @@
-# KODO for Endpoints client application Support Matrix
+# KODO for Endpoints Support Matrix
 
-KODO for Endpoints client application can be installed on the following operating systems:
+KODO for Endpoints is able to protect data from the following operating systems:
 
 * Microsoft Windows 7 32-bit
 * Microsoft Windows 7 64-bit
@@ -24,5 +24,5 @@ The additional packages are required to be installed on the endpoints:
 KODO client for macOS system endpoints is available, but it is released as a technical preview. Please contact [Storware support team](mailto:ps@storware.eu) for more information. 
 {% endhint %}
 
-Go to the[ Sizing Guide](sizing-guide/) chapter to learn what endpoint's operating systems the application can be installed.
+Go to the[ Sizing Guide](sizing-guide/) chapter to learn how to size the server platform depending on the quantity of protected endpoints.
 

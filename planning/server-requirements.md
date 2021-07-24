@@ -1,13 +1,15 @@
 ---
 description: >-
-  The following chapter provides information about the operating system and
-  hardware requirements for KODO Server and KODO Server VA (Virtual Appliance).
-  Please review the requirements carefully.
+  The following chapter provide an information about operating system and
+  hardware requirements for KODO Server and KODO Server VA. Please carefully
+  review requirements.
 ---
 
-# KODO server requirements
+# Platform requirements
 
 ## KODO Server requirements
+
+The following chapter provides information about the operating system and hardware requirements for KODO Server and KODO Server VA \(Virtual Appliance\). Please review the requirements carefully.
 
 ### **Supported operating systems**
 

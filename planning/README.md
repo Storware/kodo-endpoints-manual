@@ -8,7 +8,7 @@ In the [KODO for Endpoints client application Support Matrix](kodo-support-matri
 
 In the [Sizing Guide](sizing-guide/) section we present key information that you need to collect before installing KODO for Endpoints server.
 
-Go to the [KODO components](installable-components.md) chapter to learn which components KODO for Endpoint consists of.
+Go to the [KODO components](../deployment/installable-components.md) chapter to learn which components KODO for Endpoint consists of.
 
 
 
