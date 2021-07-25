@@ -69,7 +69,7 @@ Click the **Save** button to create the group.
 
 
 
-Go to the [Devices ](../devices.md)chapter to learn how to manage users' devices.
+Go to the [Devices ](../devices/)chapter to learn how to manage users' devices.
 
 
 

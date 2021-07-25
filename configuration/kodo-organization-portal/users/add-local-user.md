@@ -1,11 +1,6 @@
-# Local users
+# Add local user
 
-## Register new user account
 
-1. Select `Users` from main menu
-2. Click the ![](../../.gitbook/assets/addlocaluserbuttonsmall.png) button, located at the top of user list
-
-![](../../.gitbook/assets/addlocaluser.png)
 
 Provide user account information:
 
@@ -19,7 +14,7 @@ Provide user account information:
 8. **Password** - required
 9. **Confirm password** - required
 
-Confirm user registration by clicking the ![](../../.gitbook/assets/savebuttonsmall.png) button.
+Confirm user registration by clicking the ![](../../../.gitbook/assets/savebuttonsmall.png) button.
 
 {% hint style="warning" %}
 Password must meet the requirements specified in the policy selected for the user
