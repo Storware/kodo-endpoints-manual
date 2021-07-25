@@ -36,9 +36,7 @@ At the **Overview** view, the basic information about client settings and backup
 You can pause KODO for Endpoints client just by clicking "**Enabled**" and select one from the available options \(15 minutes, 1 hour, 4 hours, or until the next restart\).
 {% endhint %}
 
-If in a policy settings \(at the **General** tab\) the "**Allow user to modify policy**" option is set  "on"
-
-![](../../.gitbook/assets/image%20%2858%29.png)
+If in  policy settings \(at the **General** tab\) the "**Allow user to modify policy**" option is set  "on", then a user can choose the applications to be protected \(the extentions for Office, Photos, Music, Video files are included\) and the locations \(My Documents and Desktop\)
 
 
 
