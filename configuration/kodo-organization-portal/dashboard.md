@@ -32,5 +32,5 @@ You can also use the icons beside the **Search** button to be redirected to the 
 
 ![](../../.gitbook/assets/image%20%2852%29.png)
 
-Go to the [Users ](users.md)chapter to learn more about the menu option.
+Go to the [Users ](users/)chapter to learn more about the menu option.
 

@@ -10,7 +10,7 @@ In the _**Kodo Portal Administrators**_ tab you have the following options avail
 * Edit
 * Delete
 
-**Add administrator**
+## **Add administrator**
 
 To add a new administrator, click **Add Administrator** button and fill in the required fields
 
@@ -18,7 +18,7 @@ To add a new administrator, click **Add Administrator** button and fill in the r
 
 Click the **Save** button to finish or the Cancel to dismiss.
 
-**Removing organization administrator account**
+## **Removing organization administrator account**
 
 To remove an account you have to click the drop-down menu on the right side of the administrator user   
 and select the **Delete** option.
@@ -29,7 +29,7 @@ To confirm the deletion by entering the username of the administrator.
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-**Resetting password for the organization administrator account**
+## **Resetting password for the organization administrator account**
 
 To reset the password for the organization administrator just click the drop-down menu and choose **Reset password** for manual password set,
 

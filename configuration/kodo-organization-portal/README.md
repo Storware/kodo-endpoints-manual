@@ -5,7 +5,7 @@ Logging in with organization admin credentials \( the `admin` user is the predef
 If you log in as the `admin` the following pane menu is available :
 
 * [_**Dashboard**_](../kodo-admin-portal/dashboard.md) - allows checking overall KODO server statistics.
-* _\*\*\*\*_[_**Users**_](users.md)- allows to check, upload, set, and delete deployment packages for clients.
+* _\*\*\*\*_[_**Users**_](users/)- allows to check, upload, set, and delete deployment packages for clients.
 * _\*\*\*\*_[_**Devices**_ ](devices.md)- allows to manage Kodo administrators and display organization administrators 
 * _\*\*\*\*_[_**Restore Jobs**_](restore-jobs.md) - allows to manage \(add, remove, change\) organizations within the KODO server.
 * _\*\*\*\*_[_**Policies**_](policies.md)_\*\*\*\*_
