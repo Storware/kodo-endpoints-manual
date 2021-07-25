@@ -1,6 +1,0 @@
-# KODO for Endpoints client
-
-
-
-
-

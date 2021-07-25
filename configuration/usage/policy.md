@@ -10,7 +10,7 @@ For quick assigning just click appropriate document type in "Applications" tab.
 
 * Select "My Documents" to add "My Documents" folder and subfolders to backup, ie. "C:\Users\user\Documents...\"
 * Selecting "Office" will add all office type documents\(\*.doc, \*.docm, \*.docx, \*.dot, \*.pot, \*.potm, \*.potx,  \*.ppam, \*.pps, \*.ppsm, \*.ppsx, \*.ppt, \*.pptm, \*.pptx, \*.sldm, \*.sldx, \*.xla, \*.xlam, \*.xlm, \*.xls, \*.xlsb, \*.xlsm, \*.xlsx, \*.xlt, \*.xltx, \*.xlw\) on every disk on system.
-* Select "**Desktop**" to add desktop folder and all subfolders on it to backup.
+* Select "**Desktop**" to add the desktop folder and all subfolders on it to backup.
 * Select "**Email**" to add and schedule mailbox files for backup. **MS Outlook** and **IBM Notes** are only supported.
 * By selecting "**Photos**" you will add all graphic files \(\*.bmp, \*.gif, \*.jpeg, \*.jpg, \*.png, \*.psd, \*.raw, \*.tga\) on all disks to backup.
 * By selecting "**Music**" will add most common audio format files \(\*.flac, \*.m4a, \*.m4p, \*.mp3, \*.wav, \*.wma\) on all disks to backup.
@@ -26,17 +26,17 @@ On Advanced tab you have to select retention for every directory added for backu
 
 ![](../../.gitbook/assets/clipolicyset5.PNG)
 
-There are following preconfigured retenctions to choose: 7Days, 14Days, 30Days, 365Days and Nolimit.
+There are the following preconfigured retentions to choose: 7Days, 14Days, 30Days, 365Days and Nolimit.
 
 ![](../../.gitbook/assets/clipolicyset3.PNG)
 
-You can add directory manually to backup by clicking ![](../../.gitbook/assets/addinclude.PNG)and fulfilling _Directory_, _Extension_ and retention _Policy_ fields.
+You can add a directory manually to backup by clicking ![](../../.gitbook/assets/addinclude.PNG)and fulfilling _Directory_, _Extension,_ and retention _Policy_ fields.
 
 ![](../../.gitbook/assets/clipolicyset4.PNG)
 
 To exclude some directories or/and file formats from the backup just choose 
 
-![](../../.gitbook/assets/addexclude.PNG) button and fill _Directory_ and file _Extensions_ fields to exclude them from backup.
+![](../../.gitbook/assets/addexclude.PNG) button and fill the _Directory_ and file _Extensions_ fields to exclude them from backup.
 
-For directory recursion just use: "...\" wildcard in directory field. Without this wildcard, KODO client will exclude or include selected folder only, not subfolders.
+For directory recursion just use: "...\" wildcard in the directory field. Without this wildcard, the KODO client will exclude or include selected folders only, not subfolders.
 

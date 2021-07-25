@@ -1,38 +1,38 @@
 # Right mouse button
 
-Right mouse button is very useful tool using with KODO client.
+The Right mouse button is a very useful tool using with KODO client.
 
-You can restore file after deletion, restore file after every change and pause KODO client.
+You can restore a file after deletion, restore file after every change and pause KODO client.
 
 ## Point in time restore
 
-Because of Continuous Data Protection every file in selected directory will be backed up just after any change. This allows You to restore file before every change made within retention period. To do this just click right mouse button on selected file and choose backup from selected time:
+Because of Continuous Data Protection, every file in the selected directory will be backed up just after any change. This allows You to restore the file before every change is made within the retention period. To do this just click the right mouse button on the selected file and choose a file version to restore:
 
 ![](../../.gitbook/assets/rmbrestore1.PNG)
 
 ## Restore previously deleted file
 
-You can restore deleted file just by clicking right mouse button in directory that file was located
+You can restore deleted file just by clicking the right mouse button in the directory that file was located.
 
 ![](../../.gitbook/assets/rmbrestore2.PNG)
 
-and choose _Restore_ option. This will open GUI when You can restore deleted file from previous backup by checking box **Show deleted files**
+and choose the _Restore_ option. This will open GUI where you can restore deleted file from the previous backup by checking the box **Show deleted files.**
 
 ![](../../.gitbook/assets/rmbrestore3.PNG)
 
-All deleted files are displayed in red colour. You can choose proper file and restore it as in [**UI usage**](ui.md) section.
+All deleted files are displayed in red colour. You can choose the proper file and restore it as in [**UI usage**](ui.md) section.
 
-## Pause KODO client.
+## Pause KODO client
 
-You can pause client, ie. when on mobile connection. To do this You have to find KODO icon in notification area on Windows toolbar and click right mouse button on it:
+You can pause the client, e.g. when you're using a mobile connection. To do this you have to find the KODO icon in the notification area on the Windows toolbar and click the right mouse button on it:
 
 ![](../../.gitbook/assets/rbmpause1.PNG)
 
-Then click Pause button ![](../../.gitbook/assets/rbmpause2.PNG) and select proper value from menu. You can pause client for 15 mins, 1 hour, 4 hours or till next system restart.
+Then click the **Pause button** ![](../../.gitbook/assets/rbmpause2.PNG) and select the pause time from the menu. You can pause the client for 15 minutes, 1 hour, 4 hours or till the next system restart.
 
 ![](../../.gitbook/assets/rbmpause3.PNG)
 
-You can always start back by clicking right mouse button on KODO icon in notification area and selecting ![](../../.gitbook/assets/rbmpause4.PNG) button and then _Start Now_
+You can always start back by clicking right mouse button on KODO icon in the notification area and selecting ![](../../.gitbook/assets/rbmpause4.PNG) button and then _Start Now_
 
 ![](../../.gitbook/assets/rbmpause5.PNG)
 

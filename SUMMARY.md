@@ -87,7 +87,6 @@
     * [Locking and unlocking device](configuration/device-management/locking-device.md)
     * [Removing device](configuration/device-management/removing-device.md)
     * [Device logs](configuration/device-management/device-logs.md)
-* [KODO for Endpoints client](client.md)
 * [Customization](customization/README.md)
   * [Customizing KODO templates](customization/customizing-kodo-templates.md)
   * [Templates design](customization/templates-design.md)

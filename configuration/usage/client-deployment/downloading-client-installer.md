@@ -1,8 +1,8 @@
 # Downloading client installer
 
-To download the KODO client installation, select `Deployments` from the main menu of `KODO Organization Portal` and then click`DOWNLOAD GLOBAL INSTALLER`.
+To download the KODO client installer, go to the **Deployments** view and then click the **Download global installer**.
 
-From the menu that appears, download the appropriate installation version of the client.
+From the **Download package** window, choose the appropriate installation version of the client installer you want to install. The package will be downloaded locally.
 
 ![](../../../.gitbook/assets/image%20%2854%29.png)
 
