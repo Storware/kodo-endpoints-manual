@@ -1,4 +1,4 @@
-# Installation
+# Logging to KODO client
 
 Download an installation package as described in the [**Deployment**](client-deployment.md) section.
 

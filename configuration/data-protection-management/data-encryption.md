@@ -1,6 +1,6 @@
 # Data encryption
 
-In the policy configuration, you can turn on the option that will allow a user to encrypt data before sending i tto the server, encryption and key need to be configured on KODO client itself.
+In the policy configuration, you can turn on the option that will allow a user to encrypt data before sending it to the server, encryption and key need to be configured on KODO client itself.
 
 To encrypt protected data KODO is using the AES-256 algorithm.
 

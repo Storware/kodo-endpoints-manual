@@ -1,6 +1,6 @@
 # Data protection management
 
-In this section you will learn how to setup backup retention and data protection polices.
+In this section, you will learn how to set up backup retention and data protection policies.
 
 * [Data encryption](data-encryption.md)
 * [Policies overview](policies-overview.md)
