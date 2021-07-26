@@ -1,8 +1,25 @@
 # Deployment
 
-In the next chapter you will find information how to deploy KODO server using preconfigured OVA images files and also how to install it using RPM packages.
+KODO for Endpoints server can be installed and configured in two options:
 
-Go to the[ Installation overview](installation-overview.md) to choose your installation option for KODO for Endpoints server deployment.
+* KODO for Endpoints Gateway \(KODO server without IBM Spectrum Protect server\)
+* KODO for Endpoints Bundle \(KODO server with IBM Spectrum Protect server included\)
+
+Both options can be deployed as a VMware virtual appliance to the VMware environment, but they can be also configured on a dedicated physical or virtual server.
+
+In this section, you will find information about installing and configuring KODO for Endpoints server.
+
+We recommend that you start with the [Installation Overview ](installation-overview.md)to see what general steps are required to install KODO for Endpoints server.
+
+Take a look and choose the method that best suits your needs and experiences.
+
+_What's next_
+
+[Installation Overview](installation-overview.md)
+
+[Installation with RPMs](installation-with-rpm-packages/)
+
+[Initial configuration](initial-configuration.md)
 
 
 

@@ -1,4 +1,4 @@
-# KODO Organization Portal
+# Organization Portal
 
 Logging in with organization admin credentials \( the `admin` user is the predefined user to log in\) you will log in to KODO Organization Portal. This is a place, where you can configure KODO organization settings, add new organization administrators, add new users, deploy KODO client packages and more.
 

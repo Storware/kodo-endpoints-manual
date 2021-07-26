@@ -1,4 +1,4 @@
-# KODO Admin Portal
+# Admin Portal
 
 Logging in with `kodoadmin` credentials you will log in to KODO Admin Portal. This is a place, where you can configure global server settings, add new administrators and KODO organizations but also manage KODO client deployment packages.
 

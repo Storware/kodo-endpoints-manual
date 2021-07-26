@@ -1,4 +1,4 @@
-# KODO client deployment
+# Client deployment
 
 In this section, you will learn about Kodo for Endpoint components,  deployment and installation possibilities.
 
