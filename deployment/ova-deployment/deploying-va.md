@@ -1,6 +1,6 @@
 # Deploying VA
 
-To deploy KODO for Endpoints server from the OVA file on you virtual environment, follow the instructions below:
+To deploy KODO for Endpoints server from the OVA file at your virtual environment, follow the instructions below:
 
 1. Connect to your vCenter server using vSphere Web Client, or you can connect directly to your ESXi server.
 2. Choose ESX host in the cluster \(and also a resource pool if you are using one\) you would like to deploy the OVA template.
@@ -14,7 +14,7 @@ To deploy KODO for Endpoints server from the OVA file on you virtual environment
 10. Click the **Finish** button to start VM creation**.**
 11. When the KODO Server VA is deployed, power it on. 
 
-Go to the [Configure KODO for Endpoints VA server](configuring-kodo-server-va.md) chapter and learn how to set up and configure deployed server.
+Go to the [Configure KODO for Endpoints VA server](configuring-kodo-server-va/) chapter and learn how to set up and configure deployed server.
 
 
 

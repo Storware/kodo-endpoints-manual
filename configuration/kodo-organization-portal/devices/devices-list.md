@@ -40,7 +40,7 @@ Devices list table view consist of the following columns:
 | Protection | Device protection status \(see table below\) |
 | Options | Quick action menu |
 
-![](../../../.gitbook/assets/image%20%2859%29.png)
+![](../../../.gitbook/assets/image%20%2860%29.png)
 
 ##  <a id="device-statuses"></a>
 

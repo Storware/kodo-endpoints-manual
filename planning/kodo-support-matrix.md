@@ -1,4 +1,4 @@
-# KODO for Endpoints Support Matrix
+# Support Matrix
 
 KODO for Endpoints is able to protect data from the following operating systems:
 

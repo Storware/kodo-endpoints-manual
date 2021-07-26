@@ -2,10 +2,12 @@
 
 To use the KODO client you first need to upload KODO client packages.
 
-To get access to KODO client packages please contact with [Storware Professional Services Team](mailto:ps@storware.eu).
+{% hint style="info" %}
+You can download the current KODO client package from the site http:/repo.storware.eu/kodo-endpoints/current/
+{% endhint %}
 
 {% hint style="info" %}
-TIP: If you are using KODO Server VA, client packages should be already available.
+If you are using KODO Server VA, client packages should be already available.
 {% endhint %}
 
 To upload client packages to your KODO Server follow the steps:
