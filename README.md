@@ -1,6 +1,6 @@
 # About KODO for Endpoints
 
-KODO for Endpoints is a innovative, next genaration protection platform for desktops and laptops. KODO can mitigate the effects of theft, malware attacks \(including ransomware\) and human error that can threaten business continuity. Its robust features are fundamental for both IT administrators and users.
+KODO for Endpoints is an innovative, next genaration protection platform for desktops and laptops. KODO can mitigate the effects of theft, malware attacks \(including ransomware\) and human error that can threaten business continuity. Its robust features are fundamental for both IT administrators and users.
 
 Safety and manageability are our biggest priorities. "Magic link" deployment, LDAP/Active Directory user management, and web-based user interface are the first steps to help enterprises to manage difficult processes.
 

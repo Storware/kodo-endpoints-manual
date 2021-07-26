@@ -1,5 +1,7 @@
 # Support Matrix
 
+
+
 KODO for Endpoints is able to protect data from the following operating systems:
 
 * Microsoft Windows 7 32-bit

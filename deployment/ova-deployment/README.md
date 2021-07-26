@@ -1,6 +1,12 @@
 # Virtual Appliance \(VMware\)
 
-In the next subchapters you will find information on how to download OVA image files and deploy and configure KODO for Endpoints server as a virtual appliance. Please read the following subchapters:
+In the next sections you will find information on how to download OVA image files and deploy and configure KODO for Endpoints server as a virtual appliance. Please read the following sections:
+
+Installation overview
+
+{% embed url="https://1.we" %}
+
+2,.
 
 * [_Downloading VA_](downloading-va.md)
 * [_Deploying VA_](deploying-va.md)

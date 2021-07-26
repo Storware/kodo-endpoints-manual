@@ -1,4 +1,4 @@
-# Components overwiew
+# Components overview
 
 ## KODO for Endpoints client components
 

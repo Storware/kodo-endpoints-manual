@@ -4,7 +4,7 @@ description: >-
   systems.
 ---
 
-# RPM packages installation
+# Installation with RPMs
 
 {% hint style="warning" %}
 This type of installation requires the usage of an external IBM Spectrum Protect server.

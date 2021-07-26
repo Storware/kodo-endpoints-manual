@@ -15,5 +15,5 @@ To synchronize users with the LDAP server complete the following steps:
 5. Provide a password for the LDAP server in the **USERS & GROUPS LDAP PASSWORD** section
 6. Click the “**UPDATE PASSWORD**” button
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 

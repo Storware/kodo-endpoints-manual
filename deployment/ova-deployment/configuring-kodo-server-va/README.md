@@ -1,6 +1,6 @@
 # Configuring VA
 
-After the KODO for Endpoits server is deployed and powered on, you can log in to the system and set up network configuration.
+After the KODO for Endpoints server is deployed and powered on, you can log in to the system and set up network configuration.
 
 _**NOTE: DO NOT CHANGE HOSTNAME OF THE KODO SERVER VIRTUAL MACHINE, CHANGING HOSTNAME MAY LEAD TO SYSTEM DAMAGE. IF YOU NEED TO CHANGE HOSTNAME PLEASE CONTACT**_ [_**STORWARE SUPPORT**_](mailto:support@storware.eu)_**.**_
 
