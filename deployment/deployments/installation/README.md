@@ -1,6 +1,6 @@
 # Logging to KODO client
 
-Download an installation package as described in the [**Deployment**]() section.
+Download an installation package as described in the Downloading client installesection.
 
 {% hint style="info" %}
 If there was a previous installation of KODO for Endpoints, the total content of **C:\ProgramData\Storware\Kodo** should be removed before the installation!
