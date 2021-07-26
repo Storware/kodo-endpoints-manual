@@ -19,8 +19,6 @@ KODO for Endpoints has the following features implemented:
 * **Centralized deployment and version management** 
 * **Ready for ticket system integration \(RESTful API\)**
 
-
-
 Go to the [Planning](main-features.md) chapter to find out how to plan KODO server deployment.
 
 
