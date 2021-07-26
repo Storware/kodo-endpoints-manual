@@ -1,12 +1,14 @@
 # Licensing
 
-KODO for Endpoints server is licensed per number of protected devices. You can buy a perpetual license \(e.g. 1 Year Subscription and Support\) or choose the monthly subscription.
+KODO for Endpoints server is licensed per number of protected devices. You can buy a perpetual license \(e.g. 1 Year Subscription and Support\) or choose the monthly subscription \(the minimum number of months is 12\)
 
 There is an option to buy additional years of support and subscription by contacting our sales team at: [globalsales@storware.eu](mailto:globalsales@storware.eu).
 
 ## **Licensing models - choose the one you want to pay for to achieve the best ROI:** <a id="licensing-models-choose-the-one-you-want-to-pay-for-to-achieve-the-best-roi"></a>
 
- The minimum number of subscription months you have to purchase in the license is **12**
+**Monthly subscription** 
+
+The minimum number of subscription months you have to purchase in the license is **12.**
 
 **Perpetual license**
 

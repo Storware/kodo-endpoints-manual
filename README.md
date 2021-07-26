@@ -19,7 +19,7 @@ KODO for Endpoints focuses on employees, systems, devices, and data safety. KODO
 * SSL/TLS connection encryption
 * Audit logs
 
-Managing IT infrastructure of the company is never easy. Nethertheless KODO could be the IT department’s best friend. The system simplifies the implementation, user and data management as well as processes such as restoring the crucial data. KODO and its open API allow integration with asset management or helpdesk ticketing systems.
+Managing the IT infrastructure of the company is never easy. Nevertheless, KODO could be the IT department’s best friend. The system simplifies the implementation, user and data management as well as processes such as restoring the crucial data. KODO and its open API allow integration with asset management or helpdesk ticketing systems.
 
 * LDAP/Active Directory integration
 * “User transparent” or magic link deployment

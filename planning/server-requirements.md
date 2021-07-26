@@ -49,11 +49,11 @@ Currently, the following hypervisors are supported:
 * ESXi 6.7
 * VMware 7
 
-### **Virtual Appliance configuration**
+### **Virtual Appliance configurations**
 
 KODO for Endpoints server can be deployed in the following two configuration options:  
 
-#### KODO for Endpoints Gateway:
+#### KODO for Endpoints Gateway:Pla
 
 The virtual appliance is configured with the following hardware parameters:
 

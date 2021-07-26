@@ -9,7 +9,7 @@ Installation overview
 2,.
 
 * [_Downloading VA_](downloading-va.md)
-* [_Deploying VA_](deploying-va.md)
+* [_Deploying VA_]()
 * [_Configuring KODO Server VA_](configuring-kodo-server-va/)
 * \_\_[_Logging to the virtual machine_](configuring-kodo-server-va/loggin-to-virtual-machine.md)\_\_
 * [_Setting up the network configuration_](configuring-kodo-server-va/setting-up-network-configuration.md)
