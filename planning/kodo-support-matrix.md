@@ -2,6 +2,14 @@
 
 
 
+| Operating system | Backup | Restore | Deduplication | Compression | "Right-click" restore |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Windows 7 \(32-bit, 64- bit\) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Windows 8 \(synthetic, XFS\) | ✅ | ✅ | ✅  | ✅ | ✅ |
+| PowerProtect DD | ✅ | ✅ | ✅ | ✅ | ✅ |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
 KODO for Endpoints is able to protect data from the following operating systems:
 
 * Microsoft Windows 7 32-bit

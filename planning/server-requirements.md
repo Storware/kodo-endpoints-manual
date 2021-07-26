@@ -81,10 +81,21 @@ The VA is configured with the following server parameters:
 All disks can be configured as thin-provisioned_._ This hardware configuration is the minimum recommended configuration for a small/demo/lab environment. Please review the [Sizing guide chapter](sizing-guide/) for recommendations for your production environment.
 {% endhint %}
 
+## KODO for Endpoints client requirements
+
+KODO for Endpoints client can be installed on the following operating systems:
+
+* Microsoft Windows 7 32-bit
+* Microsoft Windows 7 64-bit
+* Microsoft Windows 8 32-bit
+* Microsoft Windows 8 64-bit
+* Microsoft Windows 8.1 64-bit
+* Microsoft Windows 8.1 64-bit
+* Microsoft Windows 10 32-bit
+* Microsoft Windows 10 64-bit
+
 ## Network Requirements
 
 * Internet connection is not required generally, but during the installation`yum` needs to fetch packages from the repositories, so you need at least access to your internal repositories.
 * KODO for Endpoints server needs access to AD/LDAP server \(if used\).
-
-Go to the [KODO for Endpoints client application Support Matrix](kodo-support-matrix.md) chapter to learn on what endpoint's operating systems the application can be installed.
 
