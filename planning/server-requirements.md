@@ -16,7 +16,8 @@ The following chapter provides information about the operating system and hardwa
 KODO for Endpoints server can be deployed on the following operating systems:
 
 * Linux CentOS 7.x \(Core\)
-* Linux CentOS 8.x Stream \(Core\)
+* Linux CentOS 8.x \(Core\)
+* Linux CentOS Stream \(Core\)
 * Red Hat Enterprise Linux 7**.**x \(Core\)
 * Red Hat Enterprise Linux 8.x \(Core\)
 
@@ -78,7 +79,7 @@ The VA is configured with the following server parameters:
   * HDD5: 1024 GB 
 
 {% hint style="info" %}
-All disks can be configured as thin-provisioned_._ This hardware configuration is the minimum recommended configuration for a small/demo/lab environment. Please review the [Sizing guide chapter](sizing-guide/) for recommendations for your production environment.
+All disks can be configured as thin-provisioned_._ This hardware configuration is the minimum recommended configuration for a small/demo/lab environment. Please review the [Sizing guide ](sizing-guide/) for recommendations for your production environment.
 {% endhint %}
 
 ## KODO for Endpoints client requirements

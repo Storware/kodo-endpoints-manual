@@ -5,6 +5,8 @@ You can deploy KODO for Endpoints server by choosing one of the following instal
 * KODO for Endpoints Gateway \(an external IBM Spectrum Protect server is required\)
 * KODO for Endpoints Bundle \(IBM Spectrum Protect server is included and preconfigured\)
 
+
+
 Both, KOOD for Endpoints Gateway and KODO for Endpoints Bundle are available to download as virtual appliances. 
 
 Go to the [Virtual Appliance \(VMware\)](ova-deployment/) chapter to find out how to download OVA image files and deploy KODO appliances.

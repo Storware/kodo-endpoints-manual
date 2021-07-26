@@ -17,7 +17,17 @@ KODO for Endpoints Bundle consists of operating system platform, KODO server bin
 
 Go to the [Planning](../planning/) chapter to learn about KODO server components, server requirements, client application Support Matrix and sizing guide.
 
+KODO for Endpoints solution consists of the following components:
 
+* KODO for Endpoints server
+* KODO for Endpoints client application
+
+KODO for Endpoints server can be deployed in the following options:
+
+* KODO for Endpoints Gateway \(as a virtual or physical server, an external IBM Spectrum Protect server is required\)
+* KODO for Endpoints Bundle \(as a virtual or physical server, the IBM Spectrum Protect server is included and preconfigured\)
+
+Go to the [KODO server requirements](../planning/server-requirements.md) to find out what server specification have to me meet to deploy KODO server successfly .
 
   
 

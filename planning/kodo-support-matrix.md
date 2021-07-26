@@ -2,24 +2,12 @@
 
 
 
-| Operating system | Backup | Restore | Deduplication | Compression | "Right-click" restore |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Windows 7 \(32-bit, 64- bit\) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Windows 8 \(synthetic, XFS\) | ✅ | ✅ | ✅  | ✅ | ✅ |
-| PowerProtect DD | ✅ | ✅ | ✅ | ✅ | ✅ |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
-KODO for Endpoints is able to protect data from the following operating systems:
-
-* Microsoft Windows 7 32-bit
-* Microsoft Windows 7 64-bit
-* Microsoft Windows 8 32-bit
-* Microsoft Windows 8 64-bit
-* Microsoft Windows 8.1 64-bit
-* Microsoft Windows 8.1 64-bit
-* Microsoft Windows 10 32-bit
-* Microsoft Windows 10 64-bit
+| Operating system | Backup | Restore | Deduplication | Compression | "Right-click" restore | Data encryption |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Windows 7 \(32-bit, 64- bit\) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Windows 8 \(32-bit, 64- bit\) | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ |
+| Windows 8.1 \(32-bit, 64- bit\) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Windows 10 \(32-bit, 64- bit\) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 The additional packages are required to be installed on the endpoints:
 
@@ -34,5 +22,5 @@ The additional packages are required to be installed on the endpoints:
 KODO client for macOS system endpoints is available, but it is released as a technical preview. Please contact [Storware support team](mailto:ps@storware.eu) for more information. 
 {% endhint %}
 
-Go to the[ Sizing Guide](sizing-guide/) chapter to learn how to size the server platform depending on the quantity of protected endpoints.
+Go to the[ Sizing Guide](sizing-guide/) chapter to learn how to size the server platform depending on the number of protected endpoints.
 

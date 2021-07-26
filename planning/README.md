@@ -8,7 +8,7 @@ The [Server requirements](server-requirements.md) section presents hardware and 
 
 In the [Sizing Guide](sizing-guide/) section we present key information that you need to collect before installing KODO for Endpoints server.
 
-Go to the [KODO components](../deployment/installable-components.md) chapter to learn which components KODO for Endpoint consists of.
+Go to the [KODO components]() chapter to learn which components KODO for Endpoint consists of.
 
 
 

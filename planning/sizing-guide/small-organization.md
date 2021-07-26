@@ -16,6 +16,7 @@ For a small  organization \(up to 200 endpoints\) the following system configura
           <li>at least 16 GB RAM</li>
           <li>at least 45 GB free disk space for operating system binaries, MySQL database
             and KODO server binaries</li>
+          <li>Network: minimum 1Gb/s</li>
         </ul>
       </td>
     </tr>

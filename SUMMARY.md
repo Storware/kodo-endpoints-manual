@@ -15,7 +15,6 @@
     * [Very large organization](planning/sizing-guide/very-large-organization.md)
 * [Deployment](deployment/README.md)
   * [Installation overview](deployment/installation-overview.md)
-  * [KODO components](deployment/installable-components.md)
   * [KODO server deployment options](deployment/kodo-server-configurations.md)
   * [Virtual Appliance \(VMware\)](deployment/ova-deployment/README.md)
     * [Downloading VA](deployment/ova-deployment/downloading-va.md)
