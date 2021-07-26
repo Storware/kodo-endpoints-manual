@@ -18,10 +18,10 @@
 
 ### KODO Server:
 
-* `${url}` - \(string\) KODO url address
+* `${url}` - \(string\) KODO URL address
 * `${organization.name}` - \(string\) Name of KODO organization
 * `${organization.guid}` - \(string\) GUID of KODO organization
-* `${organization.expireDate}` - \(date\) Date of KODO trial expiration. This parameter will be NULL if organization is not created in trial mode.
+* `${organization.expireDate}` - \(date\) Date of KODO trial expiration. This parameter will be NULL if the organization is not created in trial mode.
 
 ## **Default template:**
 

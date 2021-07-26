@@ -1,5 +1,17 @@
 # Devices list
 
+In this view, you will find a list of all authorized devices on the KODO server. When a user will log in to the system for the first time using his username and password or will use the "magic link" and the KODO server will authorize him properly, the user device will appear on the devices list.
+
+![](../../../.gitbook/assets/image%20%2847%29.png)
+
+## Lock option
+
+## Unlock option
+
+## Upgrade option
+
+## Options menu
+
 ## List registered devices <a id="list-registered-devices"></a>
 
 A list of devices is a collection of all registered and protected devices in the system.
@@ -30,11 +42,5 @@ Devices list table view consist of the following columns:
 
 ![](../../../.gitbook/assets/image%20%2859%29.png)
 
-## Protection statuses <a id="device-statuses"></a>
-
-| **Status** | **Description** |
-| :--- | :--- |
-| Protected ![](../../../.gitbook/assets/protected.png) | The device is protected according to the assigned policy |
-| Not protected ![](../../../.gitbook/assets/unprotected.png) | The device didn't connect with the server within the last "X" days. The number of days is configured at a policy level. |
-| Locked ![](../../../.gitbook/assets/locked.png) | The device is locked. The user cannot log in and perform any operations from this device. |
+##  <a id="device-statuses"></a>
 

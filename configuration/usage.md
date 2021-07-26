@@ -5,7 +5,7 @@ Endpoint Protection has become an essential element not only for employees but a
 KODO for Endpoints client is the application dedicated to backup and restore data from client devices \(laptop/desktops\) running Windows operating systems.
 
 {% hint style="info" %}
-MacOS client is currently available in technical preview mode.
+MacOS client is currently available only  in technical preview mode.
 {% endhint %}
 
 The application is utilizing the Data Protection \(CDP\) feature to provide comprehensive protection of any information and is able to provide the most optimal and secure access to corporate/private data. 

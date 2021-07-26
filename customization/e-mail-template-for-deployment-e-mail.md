@@ -20,10 +20,10 @@
 
 ### Client download links:
 
-* `${links.downloadWindowsX86}` - \(string\) link to KODO client for Windows x86, empty if client package not uploaded to server
-* `${links.downloadWindowsX64}` - \(string\) link to KODO client for Windows x64, empty if client package not uploaded to server
-* `${links.downloadOsx}` - \(string\) link to KODO client for Mac OS, empty if client package not uploaded to server
-* `${links.downloadAndroid}` - \(string\) link to KODO client for Android, empty if client package not uploaded to server
+* `${links.downloadWindowsX86}` - \(string\) link to KODO client for Windows x86, empty if client package not uploaded to the server
+* `${links.downloadWindowsX64}` - \(string\) link to KODO client for Windows x64, empty if client package not uploaded to the server
+* `${links.downloadOsx}` - \(string\) link to KODO client for Mac OS, empty if client package not uploaded to the server
+* `${links.downloadAndroid}` - \(string\) link to KODO client for Android, empty if client package not uploaded to the server
 * `${links.mobileMagic}` - \(string\) magick link for mobile devices
 * `${links.desktopMagic}` - \(string\) magick link for desktop devices
 * `desktopDeployment` - \(boolean\) true if desktop deployment

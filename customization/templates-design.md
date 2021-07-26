@@ -1,12 +1,12 @@
 # Templates design
 
-This tutorial will introduce you to view of what FreeMarker templates are and how you can use it to customize your KODO server.
+This tutorial will introduce you to a view of what FreeMarker templates are and how you can use them to customize your KODO server.
 
-[FreeMarker](http://www.freemarker.org) is a simple yet powerful template engine that KODO uses whenever administrator is allowed to customize part of KODO portal. In particular, it’s used to allow customization of e-mails that are sent by KODO and myKODO download page.
+[FreeMarker](http://www.freemarker.org) is a simple yet powerful template engine that KODO uses whenever administrator is allowed to customize part of the KODO portal. In particular, it’s used to allow customization of e-mails that are sent by KODO and myKODO download page.
 
-In FreeMarker you define templates, which are text files that contain the desired output \(html in case of KODO\), except that they contain placeholders like `${username}`, and even some logic like conditionals. KODO will supply the actual values for these placeholders and the final output is generated based on this input.
+In FreeMarker, you define templates, which are text files that contain the desired output \(Html in case of KODO\), except that they contain placeholders like `${username}`, and even some logic like conditionals. KODO will supply the actual values for these placeholders and the final output is generated based on this input.
 
-Here is example of an simple FTL file:
+Here is an example of a simple FTL file:
 
 ```markup
 <html>  
@@ -16,9 +16,9 @@ Here is example of an simple FTL file:
 </html>
 ```
 
-In the template, use standard HTML+CSS features to define the appearance. CSS can be either included directly in the template file, or saved externally in a dedicated file.
+In the template, use standard HTML+CSS features to define the appearance. CSS can be either included directly in the template file or saved externally in a dedicated file.
 
-With KODO you can also use FTL tag `<#if expression>...</#if>` it's similar to HTML tags, but they are instructions to FreeMarker and will not be printed to the output.
+With KODO you can also use the FTL tag `<#if expression>...</#if>` it's similar to HTML tags, but they are instructions to FreeMarker and will not be printed to the output.
 
 Example:
 
@@ -33,7 +33,7 @@ Example:
 </html>
 ```
 
-Some placeholders may return NULL string if some information has not been set up. You can check it using FTL tag `<# variable??> ... </#if>`. If the variable contains NULL, the content between tags will not be displayed.
+Some placeholders may return NULL string if some information has not been set up. You can check it using the FTL tag `<# variable??> ... </#if>`. If the variable contains NULL, the content between tags will not be displayed.
 
 Example:
 
@@ -48,7 +48,7 @@ Example:
 </html>
 ```
 
-Some of the variables will store the collection of items that need to be displayed . In that case you will need to use list tag:
+Some of the variables will store the collection of items that need to be displayed. In that case, you will need to use the list tag:
 
 ```text
 <#list sequence as item>
@@ -72,7 +72,7 @@ C:\Users\John\Documets
 C:\users\John\Pictures
 ```
 
-KODO will look for **template.ftl** file in the following paths:
+KODO will look for the **template.ftl** file in the following paths:
 
 * E-mail template for admin access of newly created organization `/opt/StorwareData/templates/adminAccess`
 * E-mail template for user password change `/opt/StorwareData/templates/changePass`

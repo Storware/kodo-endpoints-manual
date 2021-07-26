@@ -21,11 +21,11 @@
 
 * `${share.guid}` - \(string\) GUID of the share
 * `${share.name}` - \(string\) name of the new or modified share
-* `share.isNew` - \(boolean\) true if share is newly created
+* `share.isNew` - \(boolean\) true if the share is newly created
 * `share.users` - \(list\) collection of users added to share
 * `share.groups` - list\) collection of user groups added to share
 * `share.sources` - \(list\) collection of paths added to share
-* `share.sources.includeSubdirs` - \(boolean\) true if path also include access to subdirs
+* `share.sources.includeSubdirs` - \(boolean\) true if path also includes access to subdir
 
 ## **Default template:**
 
