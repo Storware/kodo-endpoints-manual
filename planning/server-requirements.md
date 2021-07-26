@@ -9,8 +9,6 @@ description: >-
 
 ## KODO Server requirements
 
-The following section provides information on the operating system and hardware requirements for KODO Server and KODO Server VA \(Virtual Appliance\). Please review the requirements carefully.
-
 ### **Supported operating systems**
 
 KODO for Endpoints server can be deployed on the following operating systems:
@@ -37,7 +35,7 @@ The server hardware requirements will be depending on the size of the organizati
 
 ### IBM Spectrum Protect
 
-IBM Spectrum Protect server instance is required for KODO for Endpoints server to be used as the backup engine. This document doesn't cover the installation and configuration of the IBM Spectrum Protect server.
+IBM Spectrum Protect server instance is required for KODO for Endpoints server to be used as the backup engine. This document doesn't cover the installation and configuration of the IBM Spectrum Protect server. 
 
 ## KODO for Endpoints server VA support and requirements
 
