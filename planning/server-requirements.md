@@ -55,7 +55,7 @@ KODO for Endpoints server can be deployed in the following two configuration opt
 
 #### KODO for Endpoints Gateway:
 
-The VA is configured with the following server parameters:
+The virtual appliance is configured with the following hardware parameters:
 
 * 4 virtual CPUs
 * 16 GB of RAM
@@ -65,7 +65,7 @@ The VA is configured with the following server parameters:
 
 #### KODO for Endpoints Bundle:
 
-The VA is configured with the following server parameters:
+The virtual appliance is configured with the following hardware parameters:
 
 * 4 virtual CPUs
 * 16 GB of RAM
@@ -77,7 +77,7 @@ The VA is configured with the following server parameters:
   * HDD5: 1024 GB 
 
 {% hint style="info" %}
-All disks can be configured as thin-provisioned_._ This hardware configuration is the minimum recommended configuration for a small/demo/lab environment. Please review the [Sizing guide ](sizing-guide/) for recommendations for your production environment.
+All disks can be configured as thin-provisioned_._ This hardware configuration is the minimum recommended configuration for a small/demo/lab environment. Please review the [Sizing guide ](sizing-guide/)for recommendations for your production environment.
 {% endhint %}
 
 ## KODO for Endpoints client requirements
