@@ -42,7 +42,7 @@ Both, KOOD for Endpoints Gateway and KODO for Endpoints Bundle are available to 
 
 Go to the [Virtual Appliance \(VMware\)](../deployment/ova-deployment/) chapter to find out how to download OVA image files and deploy KODO appliances.
 
-Optionally, If you are familiar with the IBM Spectrum Protect server and you have one to use as a data repository, you can install KODO for Endpoints server on any dedicated server. In that case,  go to the [RPM packages installation](../deployment/installation-with-rpm-packages/) chapter to get to know how to configure the KODO server using the gateway configuration option. 
+Optionally, If you are familiar with the IBM Spectrum Protect server and you have one to use as a data repository, you can install KODO for Endpoints server on any dedicated server. In that case,  go to the [RPM packages installation](../deployment/installation-with-rpm-packages.md) chapter to get to know how to configure the KODO server using the gateway configuration option. 
 
 Go to the [Virtual Appliance \(VMware\) ](../deployment/ova-deployment/)to find out how to download, install and configure KODO for Endpoints server as a virtual appliance.
 

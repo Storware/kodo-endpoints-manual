@@ -6,9 +6,7 @@ KODO for Endpoints can be installed basically at two configurations: as the gate
 
 **KODO server Bundle** is a server installed on a supported operating system platform with preinstalled KODO binaries, MySQL database, and preconfigured IBM Spectrum Protect Server. The IBM Spectrum Protect Server was configured with some default retention policies. The server is also available to download from the Storware FTP server as the OVA image file. 
 
-For information on how to download the OVA image file go to the  [Deployment ](../deployment/)chapter. 
-
-Both configurations can be installed on any physical or virtual server that meets server requirements. Go to the [Server requirements](../known-software-issues-and-limitations/kodo-server-configurations.md) chapter to learn more about the server configuration required to deploy the KODO server.
+Both configurations can be installed on any physical or virtual server that meets server requirements. Go to the [Server requirements](../known-software-issues-and-limitations/kodo-server-configurations.md) section to learn more about the server configuration required to deploy the KODO server.
 
 To protect data, the KODO client application must be deployed on each protected Windows-based endpoint. It continuously searches for all files that meet the protection policy and sends them directly to the IBM Spectrum Protect server. This application also listens to the file system when a new file or directory is created, and all changes are tracked and the data is also sent directly to the IBM Spectrum Protect Server.
 

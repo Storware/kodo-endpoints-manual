@@ -6,3 +6,15 @@ _**NOTE: DO NOT CHANGE HOSTNAME OF THE KODO SERVER VIRTUAL MACHINE, CHANGING HOS
 
 Go to the[ Logging to the virtual machine ](loggin-to-virtual-machine.md)chapter and learn what OS credentials are used to log in to KODO server.
 
+
+
+Setting up the network connection
+
+Logging to the virtual machine
+
+Time synchronization and password change
+
+Connecting to the IBM Spectrum Protect server
+
+
+

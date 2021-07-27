@@ -1,6 +1,6 @@
 # Support Matrix
 
-
+## KODO for Endpoints feature Support
 
 | Operating system | Backup | Restore | Deduplication | Compression | "Right-click" restore | Data encryption |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -8,15 +8,6 @@
 | Windows 8 \(32-bit, 64- bit\) | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ |
 | Windows 8.1 \(32-bit, 64- bit\) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Windows 10 \(32-bit, 64- bit\) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-
-The additional packages are required to be installed on the endpoints:
-
-* Microsoft Vistual C++ 2010 x64 Redistributable package
-* Microsoft Vistual C++ 2012 Redistributable \(x64\) package
-* Microsoft Vistual C++ 2012 Redistributable \(x86\) package
-* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package
-* Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package
-* .NET Framework 4.8  
 
 {% hint style="info" %}
 KODO client for macOS system endpoints is available, but it is released as a technical preview. Please contact [Storware support team](mailto:ps@storware.eu) for more information. 

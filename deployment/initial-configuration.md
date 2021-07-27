@@ -8,7 +8,7 @@ Go to the **Settings** menu and switch to the **General** tab. Enter the **Deplo
 
 Next, go to the **Email** tab and complete the email settings. Provide the necessary information for the e-mail server configuration:
 
-* **E-mail address** – address used to sending e-mails from the KODO server
+* **E-mail address** – address used to send e-mails from the KODO server
 * **Login** – user name used to login to e-mail server \(optional if the server requires authentication\)
 * **Server address** - IP or DNS name of the e-mail server
 * **Port** - the e-mail server port

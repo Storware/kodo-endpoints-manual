@@ -10,5 +10,13 @@ Let's start the journey.
 
 Go to the [Architecture ](architecture.md)chapter to learn about KODO for Endpoints server architecture.
 
+_What's next:_
+
+\_\_[_Architecture_](architecture.md)\_\_
+
+\_\_[_Licensing_](licensing.md)\_\_
+
+\_\_[_Main Features_](main-features.md)\_\_
+
 
 

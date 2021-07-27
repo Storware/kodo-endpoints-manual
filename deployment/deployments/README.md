@@ -1,9 +1,16 @@
 # Client deployment
 
-In this section, you will learn about Kodo for Endpoint components,  deployment and installation possibilities.
+In this section, you will learn about Kodo for Endpoint client components,  deployment packages and installation possibilities.
 
-* [Components overview](components.md)
-* [Kodo for Endpoint deployment packages](kodo-client-deployment-packages.md) \(KODO Admin Portal\)
-* [Sending installation instructions](sending-installation-instructions.md) \(KODO Organization Portal\)
-* [Downloading client installer](downloading-client-installer.md) \(KODO Organization Portal\)
+What's next
+
+[Client overview](components.md)
+
+[Client deployment packages](kodo-client-deployment-packages.md) \(KODO Admin Portal\)
+
+[Install client](installing-kodo-client/) \(KODO Organization Portal\)
+
+[Downloading client installer](installing-kodo-client/downloading-client-installer.md) \(KODO Organization Portal\)
+
+[First time log in](installation/)
 

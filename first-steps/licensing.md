@@ -1,6 +1,6 @@
 # Licensing
 
-KODO for Endpoints server is licensed per number of protected devices. You can buy a perpetual license \(e.g. 1 Year Subscription and Support\) or choose the monthly subscription \(the minimum number of months is 12\)
+KODO for Endpoints server is licensed per number of protected devices. You can buy a perpetual license \(e.g. 1 Year Subscription and Support\) or choose the monthly subscription \(the minimum number of months is 12\). The purchased licence also includes the IBM Spectrum Protect licence, so you don't have to buy any additional one.
 
 There is an option to buy additional years of support and subscription by contacting our sales team at: [globalsales@storware.eu](mailto:globalsales@storware.eu).
 

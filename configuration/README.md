@@ -4,10 +4,32 @@ You can administer KODO for Endpoints just from a web browser by logging in to t
 
 In the next chapters, you'll find information about each of the level portals e.i:
 
-* [_KODO Admin Portal_](kodo-admin-portal/)
+* [_KODO_](kodo-admin-portal/)
 * [_KODO Organization Portal_](kodo-organization-portal/)
 
-Go to the [KODO Admin Portal](kodo-admin-portal/) chapter to learn more about it.
+
+
+_What's next_
+
+Administration levels
+
+Admin Portal
+
+Organization Portal
+
+
+
+* [ _Admin Portal_](kodo-admin-portal/)
+
+[Virtual  Appliance \(VMware\)](../deployment/ova-deployment/)
+
+[Installation with RPMs](../deployment/installation-with-rpm-packages.md)
+
+[IBM Spectrum Protect server configuration](../deployment/spectrum-protect-tsm-configuration.md)
+
+[Initial configuration](../deployment/initial-configuration.md)
+
+[Client deployment](../deployment/deployments/)
 
 
 

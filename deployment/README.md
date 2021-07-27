@@ -11,15 +11,21 @@ In this section, you will find information about installing and configuring KODO
 
 We recommend that you start with the [Installation Overview ](installation-overview.md)to see what general steps are required to install KODO for Endpoints server.
 
-Take a look and choose the method that best suits your needs and experiences.
+Take a look and choose the method that best suits your needs or experiences.
 
 _What's next_
 
 [Installation Overview](installation-overview.md)
 
-[Installation with RPMs](installation-with-rpm-packages/)
+[Virtual  Appliance \(VMware\)](ova-deployment/)
+
+[Installation with RPMs](installation-with-rpm-packages.md)
+
+[IBM Spectrum Protect server configuration](spectrum-protect-tsm-configuration.md)
 
 [Initial configuration](initial-configuration.md)
+
+[Client deployment](deployments/)
 
 
 

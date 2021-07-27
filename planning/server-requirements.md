@@ -61,7 +61,8 @@ The virtual appliance is configured with the following hardware parameters:
 * 16 GB of RAM
 * Disk space:
   * HDD1: 16 GB
-  * HDD2: 30 GB     
+  * HDD2: 30 GB
+* 1 Gb/s network card
 
 #### KODO for Endpoints Bundle:
 
@@ -75,6 +76,7 @@ The virtual appliance is configured with the following hardware parameters:
   * HDD3: 40 GB
   * HDD4: 200 GB
   * HDD5: 1024 GB 
+* 1 Gb/s network card
 
 {% hint style="info" %}
 All disks can be configured as thin-provisioned_._ This hardware configuration is the minimum recommended configuration for a small/demo/lab environment. Please review the [Sizing guide ](sizing-guide/)for recommendations for your production environment.
@@ -92,6 +94,46 @@ KODO for Endpoints client can be installed on the following operating systems:
 * Microsoft Windows 8.1 64-bit
 * Microsoft Windows 10 32-bit
 * Microsoft Windows 10 64-bit
+
+## Windows 7 \(32-bit, 64-bit\)
+
+The following packages need to be installed on the operating system:
+
+* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030
+* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508
+* .NET Framework 4.9  
+
+## Windows 8 \(32-bit, 64-bit\)
+
+The following packages need to be installed on the operating system:
+
+* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030
+* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508
+* .NET Framework 4.7.2  
+
+## Windows 8.1 \(32-bit, 64-bit\)
+
+The following packages need to be installed on the operating system:
+
+* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030
+* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508
+* .NET Framework 4.7.2  
+
+## Windows 10 \(32-bit, 64-bit\)
+
+The following packages need to be installed on the operating system:
+
+* Microsoft Vistual C++ 2010 x64 Redistributable package-10.0.40219
+* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030
+* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508
+* .NET Framework 4.8
 
 ## Network Requirements
 

@@ -16,8 +16,9 @@ For a small  organization \(above 2000 endpoints\) the following system configur
           <li>at least 64 GB RAM</li>
           <li>at least 70GB free disk space for operating system binaries, MySQL database
             and KODO server binaries</li>
-          <li>Network: minimum 1Gb/s</li>
-          <li>rough calculations can be made: number of endpoints x data to protect</li>
+          <li>Network: minimum 1Gb/s connection</li>
+          <li>calculations for IBM Spectrum Protect backup storage space: <b>number of endpoints </b>* <b>average amount of endpoint data to protect/2</b>
+          </li>
         </ul>
       </td>
     </tr>
