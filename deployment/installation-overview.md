@@ -2,10 +2,12 @@
 
 1. Select your KODO for Endpoints server installation option. You have the following to choose from:
    * [Virtual appliance](ova-deployment/)
+     * KODO for Endpoints Gateway server configuration
+     * KODO for Endpoints Bundle server configuration
    * [Installation with RPMs](installation-with-rpm-packages.md)
 2. If you've chosen the **virtual appliance** option, then you have two options available:
-   1. Deploy KODO for Endpoints Gateway server configuration. 
-   2. Deploy KODO for Endpoints Bundle server configuration.
+   1. Deploy KODO for Endpoints Gateway server configuration. link
+   2. Deploy KODO for Endpoints Bundle server configuration. link 
 3. Download and deploy the virtual appliance of your choice.
 4. If you have choosen the **installation with RPMs** option, then you have two options available:
    1. Deploy KODO for Endpoints Gateway server configuration \(you can connect to it your own IBM Spectrum Protect server\)

@@ -18,6 +18,11 @@ Next, go to the **Email** tab and complete the email settings. Provide the neces
 
 Next, go to the **License** tab and upload a valid KODO license.
 
+Upload your license key:
+
+* if you don't have one, you can contact the Storware team.
+* log in to the web UI and go to the `Settings -> License` and upload your `license.key` file.
+
 Go to the **IBM Spectrum Protect** tab and check if there's still a connection with the IBM server \(the status should be "**Connected**"\).
 
 Go to the [Administration](../configuration/) chapter to find out how to administer KODO for Endpoints server.

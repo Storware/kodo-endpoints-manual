@@ -1,6 +1,6 @@
 # Small organization
 
-For a small  organization \(up to 200 endpoints\) the following system configuration is recommended:
+For a example small  organization \(up to 200 endpoints\) the following system configuration is recommended:
 
 <table>
   <thead>

@@ -100,9 +100,9 @@ Log in to the console as the root user. Run following commands to open firewall 
 # firewall-cmd --complete-reload
 ```
 
-## Configuring kodo-for-endpoints component
+## Configuring kodo-for-endpoints service
 
-To configure the `kodo-for-endpoints` component,  run the following script to initialize KODO server:
+To configure the `kodo-for-endpoints` service,  run the following script to initialize KODO server:
 
 ```text
 # /opt/storware/kodo-server/api-core/bin/kodo-init.sh
@@ -146,7 +146,7 @@ Start KODO server with: systemctl start kodo-server-api-core
 [root@localhost ~]#
 ```
 
-### Starting and stopping kodo-for-endpoints component
+### Starting and stopping kodo-for-endpoints service
 
 There are three dedicated scripts to do some basic tasks on KODO server. Using them you can stop, start the server, and also check its status.
 
@@ -158,7 +158,7 @@ To use the scripts, you have to be logged in as the `kodo` user. Go to the direc
 
 The KODO server can be also started and stopped the **kodo-for-endpoints** service from the root account.
 
- ****To start the kodo-for-endpoints component, a the `root` user  run:
+ ****To start the kodo-for-endpoints service, a the `root` user  run:
 
 ```text
 # systemctl start kodo-for-endpoints

@@ -34,9 +34,7 @@ To deploy KODO for Endpoints server from the OVA file at your virtual environmen
 10. Click the **Finish** button to start VM creation**.**
 11. When the KODO Server VA is deployed, you can power it on. 
 
-{% hint style="warning" %}
 If you've downloaded the "**kodo.for.endpoints-gateway-va-4.ova"** image file, after the deployment you have to go to the  [IBM Spectrum Protect engine](../spectrum-protect-tsm-configuration.md) section to get to know how to connect the backup engine to KODO for Endpoints server.
-{% endhint %}
 
 If you have successfully downloaded the OVA file, deploy it in a virtual environment. Note that the IP address of the network adapter is automatically assigned by default by the DHCP protocol.
 
