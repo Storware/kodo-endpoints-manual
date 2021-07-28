@@ -4,7 +4,7 @@ In this section, you will learn about Kodo for Endpoint client components,  depl
 
 What's next
 
-[Client overview](../../first-steps/components.md)
+[Client overview](../../first-steps/client-overview.md)
 
 [Client deployment packages](kodo-client-deployment-packages.md) \(KODO Admin Portal\)
 

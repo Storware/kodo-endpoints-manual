@@ -4,47 +4,39 @@ description: The RPM packages are suitable for installation on Red Hat and CentO
 
 # Installation with RPMs
 
-The RPM packages are suitable for installation on Red Hat and CentOS operating systems.
+## Prerequisites
 
-{% hint style="warning" %}
-This type of installation requires the usage of an external IBM Spectrum Protect server.
-{% endhint %}
+1. Install CentOS/RHEL 8 minimal
+   * we recommend having Red Hat's support available if you're going to use RHEL
+   * you also can use version CentOS/RHEL 7
+2. Make sure your OS is up to date:
 
-{% hint style="info" %}
-The commands described below need to be executed with the `root` user privileges.
-{% endhint %}
+   ```text
+   dnf -y update
+   ```
 
-If you've prepared a virtual or physical machine to install KODO for Endpoints server, you have to configure some software repositories before you install KODO main component. 
+   If the kernel is updated, then you need to reboot your operating system.
 
-Follow the tasks described below to add some required repositories. 
+3. Install KODO-endpoints  repository
 
-### Add Storware repository
+   * create file `/etc/yum.repos.d/kodo-endpoints.repo`:
 
-Log in to the server as the `kodo`user and switch to the `root`user.
+   ```text
+   [kodo-endpoints]
+   name=Storware repository
+   baseurl=https://repo.storware.eu/kodo-endpoints/current
+   enabled=1
+   gpgcheck=0
+   ```
 
-```text
-$ sudo -s
-```
+   * optionally change `el8` to `el7` for older CentOS/RHEL and `current` can also be pointed to the specific version of vProtect, i.e. `3.9.2` \(not the one that is always up to date\)
+   * so here are effective URLs as examples: 
+     * `http://repo.storware.eu/vprotect/current/el7`
+     * `http://repo.storware.eu/vprotect/3.9.2/el8`
 
-Use the `kodo`user if asked for it.
-
-Create a new repository file: `touch /etc/yum.repos.d/kodo-endpoints.repo`
-
-Copy and paste the following entry into the `kodo-endpoints.repo` file:
-
-```text
-[kodo-endpoints]
-name=Storware repository
-baseurl=https://repo.storware.eu/kodo-endpoints/current
-enabled=1
-gpgcheck=0
-```
-
-### Add MariaDB repository
-
-Create a new repository file: `touch /etc/yum.repos.d/MariaDB.repo`
-
-Copy and paste the following entry into the MariaDB.repo file:
+4. Install MariaDB repository \(**vProtect Server host only**\)
+   * generate .repo file at [MariaDB download](https://downloads.mariadb.org/mariadb/repositories) site
+   * copy and paste generated repo file into `/etc/yum.repos.d/MariaDB.repo`, so it looks similar to this \(this one for CentOS/RHEL 8\):
 
 ```text
 # MariaDB 10.5 CentOS repository list - created 2021-07-01 13:34 UTC
@@ -56,13 +48,11 @@ gpgkey=https://yum.mariadb.org/RPM-GPG-KEY-MariaDB
 gpgcheck=1
 ```
 
-Go to the next step to start KODO for Endpoint server installation.
+## KODO for Endpoints server installation
 
-## Installation
+KODO for Endpoints server consists of a server \(central management point with WebUI and MySQL database\). To install the server do the following steps:
 
-To install KODO for Endpoints server you need to install `kodo-for-endpoints` component. Follow the steps below to start the installation process: 
-
-1. Log in as the root user.
+1. Log in as the `root` user.
 2. Use the command below to install `kodo-for-endpoints` package.
 
 ```text
@@ -87,22 +77,20 @@ The installation should be finished with the "**Complete**!" message.
 
 ## Configuring firewall
 
-KODO server configuration requires opening port 8181/tcp. To open it from the console, do the following steps:   
+1. You may need to open the 8181 port \(for HTTPS, HTTP requires port 8080\) on your firewall. Here is an example:
 
-**8181/tcp -** for kodo-for endpoints component
+   ```text
+   firewall-cmd --add-port=8181/tcp --permanent
+   firewall-cmd --complete-reload
+   # To check open ports:
+   firewall-cmd --list-all
+   ```
 
-### Opening firewall ports
+2. Now you should be able to log into the web console using URL: `https://KODO_HOST:8181`, where `KODO_HOST` is hostname or IP of your KODO for Endpoints server
 
-Log in to the console as the root user. Run following commands to open firewall ports:
+## KODO server initialization 
 
-```text
-# firewall-cmd --zone=public --add-port=8181/tcp --permanent
-# firewall-cmd --complete-reload
-```
-
-## Configuring kodo-for-endpoints service
-
-To configure the `kodo-for-endpoints` service,  run the following script to initialize KODO server:
+To perform the KODO server initialization, run the following script:
 
 ```text
 # /opt/storware/kodo-server/api-core/bin/kodo-init.sh
@@ -145,6 +133,8 @@ DONE!
 Start KODO server with: systemctl start kodo-server-api-core
 [root@localhost ~]#
 ```
+
+The KODO server initialization script creates the **kodo-for-endpoints** service, which is the main server process. There are 
 
 ### Starting and stopping kodo-for-endpoints service
 

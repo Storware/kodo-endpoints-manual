@@ -1,6 +1,6 @@
 # Small organization
 
-For a example small  organization \(up to 200 endpoints\) the following system configuration is recommended:
+As an example for a small  organization \(up to 200 endpoints\) the following system configuration is recommended:
 
 <table>
   <thead>
@@ -25,5 +25,5 @@ For a example small  organization \(up to 200 endpoints\) the following system c
   </tbody>
 </table>
 
-Now you can go over to the [Deployment](../../deployment/) chapter to choose KODO for Endpoints server installation type or go to the [Medium organization ](medium.md)chapter.
+Now you can go over to the [Deployment](../../deployment/) chapter to choose KODO for Endpoints server installation type or go to the [Medium organization ](medium-organization.md)chapter.
 

@@ -7,7 +7,7 @@ description: >-
 
 # IBM Spectrum Protect server configuration
 
-KODO is using the enterprise IBM Spectrum Protect engine as the backup provider. We require a special IBM Spectrum Protect configuration. Create a configuration in accordance to this guideline.
+KODO is using the enterprise IBM Spectrum Protect engine as the backup provider. We require a special IBM Spectrum Protect configuration. Create a configuration in accordance with this guideline.
 
 ## Creating domain, policy, and management class
 

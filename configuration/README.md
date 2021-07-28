@@ -21,7 +21,7 @@ Organization Portal
 
 * [ _Admin Portal_](kodo-admin-portal/)
 
-[Virtual  Appliance \(VMware\)](../deployment/ova-deployment/)
+[Virtual  Appliance \(VMware\)](../deployment/virtual-appliance-vmware/)
 
 [Installation with RPMs](../deployment/installation-with-rpm-packages.md)
 

@@ -2,7 +2,7 @@
 
 KODO for Endpoints from the very beginning was designed to protect user's data in a very easy and efficient way. It is a "user-centric" solution, which means, that the user can restore his data on his own, without involving the backup system administrator.    
 
-KODO for Endpoints has the following features implemented: 
+KODO for Endpoints server  has the following features implemented: 
 
 * **Continuous Data Protection \(CDP\)** – "non-stop" data protection for newly created or changed files 
 * **Self-restore function** – mouse „right-click” approach for user’s easy restore 
@@ -10,7 +10,7 @@ KODO for Endpoints has the following features implemented:
 * **Instant backup** – user transparent protection, the minimal workload for devices 
 * **File versioning**– „back to the past” recovery option for users 
 * **„Cross-device” recovery** –recover data from one user's device to another
-* **Backup encryption**–data encryption option available for a user from user's console 
+* **Backup encryption**–data encryption option available for a user from the user's console 
 * **Bandwidth savings**– data deduplication and compression on the source 
 * **Off-line protection**–data is backed up off-line, data auto-sync when online 
 * **MS Outlook/IBM Notes backup** – protection for email clients archives

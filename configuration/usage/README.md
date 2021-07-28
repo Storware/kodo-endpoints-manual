@@ -1,4 +1,4 @@
-# Using KODO for Endpoint client
+# Endpoint client
 
 Endpoint Protection has become an essential element not only for employees but also for those managing the enterprise in order to protect sensitive and critical data of the organization. 
 
