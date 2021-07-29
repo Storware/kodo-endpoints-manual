@@ -1,6 +1,6 @@
 # Initial configuration
 
-Log in to the KODO Admin portal as the `kodoadmin` user using a web browser \(providing the server IP address with 8181 port provided e.g. **https://kodo.server.local:8181**\).
+Log in to the KODO Admin portal as the `kodoadmin` user using a web browser \(enter the server IP address with 8181 port provided e.g. **https://kodo.server.local:8181**\).
 
 Go to the **Settings** menu and switch to the **General** tab. Enter the **Deployment server name** \(it is the KODO server IP address with the 8181 port added\). 
 
