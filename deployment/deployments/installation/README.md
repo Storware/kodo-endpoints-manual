@@ -1,16 +1,14 @@
 # First time log in
 
-Download an installation package as described in the Downloading client installer section.
-
 {% hint style="info" %}
 If there was a previous installation of KODO for Endpoints, the total content of **C:\ProgramData\Storware\Kodo** should be removed before the installation!
 {% endhint %}
 
 **Domain user**
 
-In order to use the application, the user must be logged in, activated and perform the first full backup. In order to do this, run the application for the first time, and fulfill the following configuration fields: "**Server**" enter the server address of your organization. In the field "**Username**" enter the user name as "_domain\username_". In the "**Password**" enter the password, which is used as the password for e-mail, and click "**Log in**". If the server at that address does not start or the address is incorrect, the user will see a message.
+In order to use the application, the user have to log in to the KODO server. If the user is authenticated, the device will be added to the devices list on the server. The backup process will strt imeediately and perform the first full backup. In order to do this, run the application for the first time, and fulfill the following configuration fields: "**Server**" enter the server address of your organization. In the field "**Username**" enter the user name as "_domain\username_". In the "**Password**" enter the password, which is used as the password for e-mail, and click "**Log in**". If the server at that address does not start or the address is incorrect, the user will see a message.
 
-![](../../../.gitbook/assets/kodologin.png)
+![](../../../.gitbook/assets/image%20%2870%29.png)
 
 **Standalone user**
 

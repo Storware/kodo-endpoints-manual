@@ -23,7 +23,7 @@ Next, go to the **License** tab and upload a valid KODO license \(the `license.k
 
 Go to the **IBM Spectrum Protect** tab. If you've chosen **KODO for Endpoints Bundle** option, check if there's a connection with the IBM server \(the status should be "**Connected**"\). 
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 If you've chosen another KODO for Endpoints server installation option, enter the following settings:
 
@@ -40,7 +40,7 @@ Go to the **IBM Spectrum Protect** tab. If you've chosen **KODO for Endpoints Bu
 
 Go to the DB Backup, to configure **MariaDB** backup. It can be set to be triggered once a day. You can also set the number of stored backups.
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 Go to the [Client deployment section](deployments/) to earn how to deploy KODO client application on the endpoints.
 
