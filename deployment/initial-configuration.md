@@ -42,5 +42,5 @@ Go to the DB Backup, to configure **MariaDB** backup. It can be set to be trigge
 
 ![](../.gitbook/assets/image%20%2881%29.png)
 
-Go to the [Administration](../configuration/) chapter to find out how to administer KODO for Endpoints server.
+Go to the [Client deployment section](deployments/) to earn how to deploy KODO client application on the endpoints.
 

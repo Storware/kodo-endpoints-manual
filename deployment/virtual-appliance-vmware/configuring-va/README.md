@@ -135,15 +135,9 @@ KODO login page should be opened.
 
 ![](../../../.gitbook/assets/image%20%286%29.png)
 
-If there are no errors on the website, the KODO server is ready to be configured. Go to the [Time synchronization and password change](time-synchronization-and-password-changing.md) chapter to perform a task for time synchronization and password change.
+If there are no errors on the website, the KODO server is ready to be configured. If you've deployed the KODO for Endpoints Bundle server, go to the [Time synchronization](time-synchronization-and-password-changing.md) section to perform the task for time synchronization between IBM Spectrum Protect server and OS.
 
 {% hint style="warning" %}
 KODO for Endpoints server has no license uploaded. Please contact [Storware sales team](mailto:sales@storware.eu) to get a trial license.  
 {% endhint %}
-
-Go to the[ Logging to the virtual machine ](loggin-to-virtual-machine.md)chapter and learn what OS credentials are used to log in to KODO server.
-
-
-
-
 

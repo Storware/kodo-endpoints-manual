@@ -6,6 +6,5 @@ Installation overview
 
 * [_Downloading VA_](deploying-va.md)
 * [_Configuring KODO Server VA_](configuring-va/)
-* \_\_[_Logging to the virtual machine_](configuring-va/loggin-to-virtual-machine.md)\_\_
-* [_Setting up the network configuration_]()
-
+* \_\_[_Logging to the virtual machine_]()\_\_
+* 

@@ -19,7 +19,6 @@
   * [Virtual Appliance \(VMware\)](deployment/virtual-appliance-vmware/README.md)
     * [Deploying VA](deployment/virtual-appliance-vmware/deploying-va.md)
     * [Configuring VA](deployment/virtual-appliance-vmware/configuring-va/README.md)
-      * [Logging to the virtual machine](deployment/virtual-appliance-vmware/configuring-va/loggin-to-virtual-machine.md)
       * [Time synchronization \(OVA with IBM Spectrum Protect only\)](deployment/virtual-appliance-vmware/configuring-va/time-synchronization-and-password-changing.md)
       * [Connecting to the IBM Spectrum  Protect server](deployment/virtual-appliance-vmware/configuring-va/connecting-to-the-ibm-spectrum-protect-server.md)
   * [Installation with RPMs](deployment/installation-with-rpm-packages.md)
