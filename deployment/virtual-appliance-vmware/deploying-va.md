@@ -24,6 +24,13 @@ To deploy KODO for Endpoints server from the OVA file at your virtual environmen
 
 1. Connect to your vCenter server using vSphere Web Client, or you can connect directly to your ESXi server.
 2. Choose ESX host in the cluster \(and also a resource pool if you are using one\) you would like to deploy the OVA template.
+
+   1. dsd
+
+      1. ;;;;
+
+   ![](../../.gitbook/assets/image%20%2866%29.png) ds
+
 3.  Right-click and select **Deploy OVF template**.
 4.  Select **Local file** and browse for the OVA file. Click the **Next** button.
 5. Select a name and folder for the virtual machine. Click the **Next** button.

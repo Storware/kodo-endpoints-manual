@@ -17,8 +17,9 @@ As an example for a large organization \(up to 2000 endpoints\) the following sy
           <li>at least 60 GB free disk space for operating system binaries, MySQL database
             and KODO server binaries</li>
           <li>Network: minimum 1Gb/s connection</li>
-          <li>30 TB for IBM Spectrum Protect backup storage space (assuming 1000 endpoints
-            protected with 30 GB of data on each and a deduplication ratio of 2:1)</li>
+          <li>30 TB for IBM Spectrum Protect backup storage space (assuming 2000 endpoints
+            protected with 30 GB of data on each and a deduplication/compression ratio
+            of 2:1)</li>
         </ul>
       </td>
     </tr>

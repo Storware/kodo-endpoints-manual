@@ -79,5 +79,7 @@ SERVER1> update admin kodo.COMPANY_NAME passexp=0
 SERVER1> grant authority kodo.COMPANY_NAME cl=sys
 ```
 
+
+
 Go to the [Initial configuration](initial-configuration.md) chapter to start KODO for Endpoints server configuration.
 

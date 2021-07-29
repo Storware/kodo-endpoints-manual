@@ -18,7 +18,8 @@ As an example for a small  organization \(up to 200 endpoints\) the following sy
             and KODO server binaries</li>
           <li>Network: minimum 1Gb/s connection</li>
           <li>3 TB for IBM Spectrum Protect backup storage space (assuming 200 endpoints
-            protected with 30 GB of data on each and a deduplication ratio of 2:1)</li>
+            protected with 30 GB of data on each and a deduplication/compression ratio
+            of 2:1)</li>
         </ul>
       </td>
     </tr>
