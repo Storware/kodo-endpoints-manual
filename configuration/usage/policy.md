@@ -2,7 +2,7 @@
 
 Users can change policy settings the endpoints are assigned to if the organization administrator allowed it in the policy settings \("**Allow user to modify policy**" option\). To check or edit the assigned policy just click the assigned policy name on the client console \(e.g. "Default"\)
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
 For quick assigning just click the appropriate document type in the "**Applications**" tab.
 
