@@ -12,5 +12,5 @@ What's next
 
 [Downloading client installer](installing-kodo-client/downloading-client-installer.md) \(KODO Organization Portal\)
 
-[First time log in](installation/)
+[First time log in](installation.md)
 

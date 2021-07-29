@@ -40,7 +40,7 @@ Go to the **IBM Spectrum Protect** tab. If you've chosen **KODO for Endpoints Bu
 
 Go to the DB Backup, to configure **MariaDB** backup. It can be set to be triggered once a day. You can also set the number of stored backups.
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
 Go to the [Client deployment section](deployments/) to earn how to deploy KODO client application on the endpoints.
 
