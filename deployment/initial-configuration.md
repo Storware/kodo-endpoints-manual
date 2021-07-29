@@ -4,7 +4,7 @@ Log in to the KODO Admin portal as the `kodoadmin` user using a web browser \(pr
 
 Go to the **Settings** menu and switch to the **General** tab. Enter the **Deployment server name** \(it is the KODO server IP address with the 8181 port added\). 
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 Next, go to the **Email** tab and complete the email settings. Provide the necessary information for the e-mail server configuration:
 
@@ -23,7 +23,7 @@ Next, go to the **License** tab and upload a valid KODO license \(the `license.k
 
 Go to the **IBM Spectrum Protect** tab. If you've chosen **KODO for Endpoints Bundle** option, check if there's a connection with the IBM server \(the status should be "**Connected**"\). 
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 If you've chosen another KODO for Endpoints server installation option, enter the following settings:
 
@@ -40,7 +40,7 @@ Go to the **IBM Spectrum Protect** tab. If you've chosen **KODO for Endpoints Bu
 
 Go to the DB Backup, to configure **MariaDB** backup. It can be set to be triggered once a day. You can also set the number of stored backups.
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2881%29.png)
 
 Go to the [Administration](../configuration/) chapter to find out how to administer KODO for Endpoints server.
 
