@@ -12,9 +12,9 @@ Possible device status in the system:
 
 ## Protection statuses <a id="device-statuses"></a>
 
-| **Status** | **Description** |
-| :--- | :--- |
-| Protected ![](../../../.gitbook/assets/protected.png) | The device is protected according to the assigned policy |
-| Not protected ![](../../../.gitbook/assets/unprotected.png) | The device didn't connect with the server within the last "X" days. The number of days is configured at a policy level. |
-| Locked ![](../../../.gitbook/assets/locked.png) | The device is locked. The user cannot log in and perform any operations from this device. |
+| **Status** |  | **Description** |
+| :--- | :--- | :--- |
+| Protected  | ![](../../../.gitbook/assets/protected.png) | The device is protected according to the assigned policy |
+| Not protected ![](../../../.gitbook/assets/unprotected.png) | ![](../../../.gitbook/assets/protected.png) | The device didn't connect with the server within the last "X" days. The number of days is configured at a policy level. |
+| Locked ![](../../../.gitbook/assets/locked.png) |  | The device is locked. The user cannot log in and perform any operations from this device. |
 

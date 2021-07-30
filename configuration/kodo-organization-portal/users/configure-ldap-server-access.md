@@ -1,4 +1,4 @@
-# Configure LDAP server access
+# LDAP users
 
 KODO allows you to import \(synchronize\) users from the LDAP server \(e.g. Active Directory\).  Users then will be using their LDAP login and password to log to the server using the KODO client.
 
