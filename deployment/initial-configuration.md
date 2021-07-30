@@ -1,6 +1,8 @@
 # Initial configuration
 
-Log in to the KODO Admin portal as the `kodoadmin` user using a web browser \(enter the server IP address with 8181 port provided e.g. **https://kodo.server.local:8181**\).
+Log in to the KODO Admin portal as the `kodoadmin` user usy
+
+ing a web browser \(enter the server IP address with 8181 port provided e.g. **https://kodo.server.local:8181**\).
 
 Go to the **Settings** menu and switch to the **General** tab. Enter the **Deployment server name** \(it is the KODO server IP address with the 8181 port added\). 
 
@@ -36,11 +38,11 @@ In the **SET IBM SPECTRUM PROTECT PASSWORD** field, enter the password you've se
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
-Go to the **IBM Spectrum Protect** tab. If you've chosen **KODO for Endpoints Bundle** option, check if there's a connection with the IBM server \(the status should be "**Connected**"\).
+If you've chosen **KODO for Endpoints Bundle** option, check if there's a connection with the IBM server \(the status should be "**Connected**"\).
 
-Go to the DB Backup, to configure **MariaDB** backup. It can be set to be triggered once a day. You can also set the number of stored backups.
+Go to the DB Backup, to configure **MariaDB** backup. It can be set to be triggered once a day at a given time. You can also set the number of stored backups.
 
-![](../.gitbook/assets/image%20%2888%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 Go to the [Client deployment section](deployments/) to earn how to deploy KODO client application on the endpoints.
 

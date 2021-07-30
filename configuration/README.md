@@ -15,13 +15,19 @@ Administration levels
 
 Admin Portal
 
-Organization Portal
+Organization Porta
 
+_What's next_
 
+_Administration levels_
 
-* [ _Admin Portal_](kodo-admin-portal/)
+[_Admin Portal_](kodo-admin-portal/)
 
-[Virtual  Appliance \(VMware\)](../deployment/virtual-appliance-vmware/)
+[O](../deployment/virtual-appliance-vmware/)rganization Portal
+
+Endpoint client
+
+Data 
 
 [Installation with RPMs](../deployment/installation-with-rpm-packages.md)
 

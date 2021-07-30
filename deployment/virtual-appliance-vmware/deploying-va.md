@@ -44,7 +44,7 @@ To deploy KODO for Endpoints server from the OVA file at your virtual environmen
 
 * Select storage
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](../../.gitbook/assets/image%20%2888%29.png)
 
 * Select networks.If you would like to synchronize AD/LDAP serwer users, then the network should have access to your local AD/LDAP server.
 
