@@ -1,4 +1,4 @@
-# Client installer
+# Download client installer
 
 To download the KODO client installer, log in to the KODO server as the organization administrator \(the `admin` by default\) and go to the **Deployments** view and then click the **Download global installer**.
 
