@@ -6,7 +6,7 @@ In the next sections, you will find information on how to download OVA image fil
 
 There are two pre-configured virtual appliances with the following configuration settings:  
 
-#### KODO for Endpoints Gateway
+#### KODO for Endpoints Gateway:
 
 Hardware parameters:
 
