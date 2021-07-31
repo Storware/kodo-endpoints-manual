@@ -4,7 +4,7 @@ In the next sections, you will find information on how to download OVA image fil
 
 ### **VA configurations**
 
-There are two pre-configured virtual appliances with the following configuration settings:  
+There are two pre-configured virtual appliances, based on CentOS 7 operating system: The configuration are with the following settings:  
 
 #### KODO for Endpoints Gateway:
 
