@@ -4,11 +4,9 @@ In the next sections, you will find information on how to download OVA image fil
 
 ### **VA configurations**
 
-There are two pre-configured virtual appliances, based on CentOS 7 operating system: The configuration are with the following settings:  
+There are two pre-configured virtual appliances, based on CentOS 7 operating system: The configuration are with the following hardware parameters:  
 
 #### KODO for Endpoints Gateway:
-
-Hardware parameters:
 
 * 4 virtual CPUs
 * 16 GB of RAM
@@ -18,8 +16,6 @@ Hardware parameters:
 * 1 Gb/s network card
 
 #### KODO for Endpoints Bundle:
-
-Hardware parameters:
 
 * 4 virtual CPUs
 * 16 GB of RAM

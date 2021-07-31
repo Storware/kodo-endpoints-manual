@@ -49,7 +49,34 @@ Currently, the following hypervisors are supported:
 * ESXi 6.7
 * VMware 7
 
-### \*\*\*\*
+### **Virtual Appliance configurations**
+
+KODO for Endpoints server can be deployed in the following two configuration options:  
+
+#### KODO for Endpoints Gateway:Pla
+
+The virtual appliance is configured with the following hardware parameters:
+
+* 4 virtual CPUs
+* 16 GB of RAM
+* Disk space:
+  * HDD1: 16 GB
+  * HDD2: 30 GB
+* 1 Gb/s network card
+
+#### KODO for Endpoints Bundle:
+
+The virtual appliance is configured with the following hardware parameters:
+
+* 4 virtual CPUs
+* 16 GB of RAM
+* Disk space:
+  * HDD1: 50 GB
+  * HDD2: 20 GB
+  * HDD3: 40 GB
+  * HDD4: 200 GB
+  * HDD5: 1024 GB 
+* 1 Gb/s network card
 
 {% hint style="info" %}
 All disks can be configured as thin-provisioned_._ This hardware configuration is the minimum recommended configuration for a small/demo/lab environment. Please review the [Sizing guide ](sizing-guide/)for recommendations for your production environment.
