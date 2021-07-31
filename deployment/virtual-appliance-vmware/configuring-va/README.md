@@ -34,8 +34,6 @@ To set up network configuration, do as follow:
 
 5.  Configure the network connection. The default configuration will try to assign an IP address from a local DHCP server if it exists in a local network. Use the `ip a`  command to check the assigned IP address to the virtual machine on the interface **ens160**.
 
-
-
    ```text
    # ip a
    1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
@@ -63,7 +61,7 @@ To set up network configuration, do as follow:
    sudo -s
    ```
 
-   When asked for a password use password for `kodo` user.Edit network configuration file e.g. using `vi` editor:
+   Asked for a password use password for `kodo` user.Edit network configuration file e.g. using `vi` editor:
 
    ```text
    # vi /etc/sysconfig/network-scripts/ifcfg-ens160
