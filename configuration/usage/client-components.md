@@ -39,7 +39,7 @@ You can pause KODO for Endpoints client just by clicking "**Enabled**" and selec
 
 If you click the assigned policy name, you can modify the policy from the endpoint level. If in the policy settings \(at the **General** tab\) the **Allow user to modify policy** option is set, to active, then you can choose the applications to be protected \(the extensions for Office, Photos, Music, Video files are included\), the locations \(My Documents and Desktop\) and email client archives \(MS Outlook and IBM Notes\).
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28113%29.png)
 
 In the **Advanced tab**, you can add the additional directory to be protected \(add file extensions and assign a policy by your choice\) by clicking the **Add Include Directory** button. The chosen directory can be deleted by clicking the "**x**" beside the entry.
 
@@ -49,13 +49,20 @@ You can also add some directories to be excluded from the policy. Click the **Ad
 
 In the Backups view, you can browse and recover protected files and folders. You also have a search window \(upper right corner of the window\) to find files by name or extension \(you can use the asterisk as well\).
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
 To display all available file versions click the watch icon in the Versions column.
 
 ![](../../.gitbook/assets/image%20%28100%29.png)
 
+You can also use the time slider and the calendar to go to another "point-in-time" moment to restore the data you need.
 
+In the **Settings** view you can set:
+
+* **Server**- the IP or the name of the KODO for Endpoint server
+* Language - you can choose the language Same as Microsoft Windows, English, Českỳ
+
+![](../../.gitbook/assets/image%20%28108%29.png)
 
 
 
