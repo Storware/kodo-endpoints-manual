@@ -20,7 +20,7 @@ When you choose the file version, the action window will appear. You have two op
 
 When the file is restored, click **OK** in the following window:
 
-![](../../.gitbook/assets/image%20%28106%29.png)
+![](../../.gitbook/assets/image%20%28107%29.png)
 
 ## Restoring previously deleted data using the dashboard
 
