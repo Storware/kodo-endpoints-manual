@@ -1,10 +1,10 @@
 # Modifying backup policy
 
-Users can change policy settings the endpoints are assigned to if the organization administrator allowed it in the policy settings \("**Allow user to modify policy**" option\). To check or edit the assigned policy just click the assigned policy name on the client console \(e.g. "Default"\)
+If you click the assigned policy name, you can modify the policy from the endpoint level. If in the policy settings \(at the **General** tab\) the **Allow user to modify policy** option is set to active, then you can choose the applications to be protected \(the extensions for Office, Photos, Music, Video files are included\), the locations \(My Documents and Desktop\) and email client archives \(MS Outlook and IBM Notes\).
 
 ![](../../.gitbook/assets/image%20%2879%29.png)
 
-For quick assigning just click the appropriate document type in the "**Applications**" tab.
+For quick assigning just click the appropriate document type in the **Applications** tab.
 
 ![](../../.gitbook/assets/clipolicyset1.PNG)
 
@@ -22,21 +22,11 @@ Selected items will change colour to blue.
 
 ![](../../.gitbook/assets/clipolicyset2.PNG)
 
-On the **Advanced** tab you have to select retention for every directory added for backup. Just scroll out the  "Policy" menu  and choose the policy.
+In the **Advanced tab**, you can add the additional directory to be protected \(add file extensions and assign a policy by your choice\) by clicking the **Add Include Directory** button. For directory recursion just use: "...\" wildcard in the directory field. Without this wildcard, the KODO client will exclude or include selected folders only, not subfolders. The chosen directory can be deleted by clicking the "**x**" beside the entry.
 
-\*.
-
-![](../../.gitbook/assets/clipolicyset5.PNG)
-
-There are the following preconfigured retentions to choose from: 7Days, 14Days, 30Days, 365Days and Nolimit.
-
-![](../../.gitbook/assets/clipolicyset3.PNG)
-
-You can add a directory manually to backup by clicking the "+**Add Include directory**" option and fulfilling _Directory_, _Extension,_ and _Policy_ fields.
-
-![](../../.gitbook/assets/clipolicyset4.PNG)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 To exclude some directories or/and file formats from the backup just choose the "**-Add Exclude Directory**" button and fill the _Directory_ and file _Extensions_ fields to exclude them from backup.
 
-For directory recursion just use: "...\" wildcard in the directory field. Without this wildcard, the KODO client will exclude or include selected folders only, not subfolders.
+Click the **Save** button when finished editing.
 

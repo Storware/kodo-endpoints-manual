@@ -1,4 +1,53 @@
-# Client settings
+# Client console menu
+
+## Overview
+
+In the **Overview** view, the basic information about client settings and backup status is displayed:
+
+1. Protection status and last backup \(synchronization\) time.
+2. Assigned policy.
+3. Continuous Data protection status.
+4. The size of the backup data protected to date.
+
+{% hint style="info" %}
+You can pause KODO for Endpoints client just by clicking "**Enabled**" and select one from the available options \(15 minutes, 1 hour, 4 hours, or until the next restart\).
+{% endhint %}
+
+![](../../.gitbook/assets/clientoverwiew.PNG)
+
+I
+
+In the **Backups** view, you can browse and recover protected files and folders. You also have a search window \(upper right corner of the window\) to find files by name or extension \(you can use the asterisk as well\).
+
+![](../../.gitbook/assets/image%20%28104%29.png)
+
+To display all available file versions click the watch icon in the Versions column.
+
+![](../../.gitbook/assets/image%20%28100%29.png)
+
+You can also use the time slider and the calendar to go to another "point-in-time" moment to restore the data you need.
+
+In the **Settings** view you can set:
+
+* **Server**- the IP or the name of the KODO for Endpoint server
+* **Language** - you can choose the language Same as Microsoft Windows, English, Českỳ or Polski.
+* **Maximum download speed \(kbps\)** 
+* **Maximal download speed \(kbps\)**
+* **Enable data encryption**- a user can set the password to encrypt backup \(the password will be required during the recovery process\).
+
+![](../../.gitbook/assets/image%20%28115%29.png)
+
+If any previous backups are stored on the KODO server, existing backups will be deleted when encryption is enabled.
+
+![](../../.gitbook/assets/image%20%28120%29.png)
+
+Set a password and confirm it. It takes a while to set up the password.
+
+![](../../.gitbook/assets/image%20%28113%29.png)
+
+![](../../.gitbook/assets/image%20%28112%29.png)
+
+
 
 ## Backups
 
