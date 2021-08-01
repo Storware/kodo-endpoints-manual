@@ -24,7 +24,7 @@ In the **Advanced tab**, you can add the additional directory to be protected \(
 
 ![](../../.gitbook/assets/image%20%2899%29.png)
 
-To exclude some directories or/and file formats from the backup just choose the "**-Add Exclude Directory**" button and fill the _Directory_ and file _Extensions_ fields to exclude them from backup.
+To exclude some directories or/and file formats from the backup just choose the "**-Add Exclude Directory**" button and fill the **Directory** and file **Extensions** fields to exclude them from backup.
 
 Click the **Save** button when finished editing.
 

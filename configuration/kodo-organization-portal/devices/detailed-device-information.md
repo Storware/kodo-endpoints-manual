@@ -18,7 +18,7 @@ or
 
   ![](../../../.gitbook/assets/devicedetails.png)
 
-* **Protected Files** - Backup browser allows administrator to restore files from backup when [policy](../policies/policy-configuration/general-settings.md) allows it, and option: _Allow administrators to restore user files_ is turned on.
+* **Protected Files** - Backup browser allows administrator to restore files from backup when [policy](../policies/general-settings.md) allows it, and option: _Allow administrators to restore user files_ is turned on.
 
 ![](../../../.gitbook/assets/backupedfiles.png)
 
