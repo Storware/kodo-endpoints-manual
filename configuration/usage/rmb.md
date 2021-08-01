@@ -16,11 +16,11 @@ When you choose the file version, the action window will appear. You have two op
 * **Overwrite** - the existing file will be overwritten
 * **Create Copy** - the file copy will be created with an additional timestamp the file was backed up \(e.g. KODO\_TEST\(20210801094730\).txt\) 
 
-![](../../.gitbook/assets/image%20%28100%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
 When the file is restored, click **OK** in the following window:
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](../../.gitbook/assets/image%20%28104%29.png)
 
 ## Restoring previously deleted data using the dashboard
 
