@@ -11,16 +11,16 @@ Leveraging "Continuous Data Protection" usability, every file in the protected d
 
 ![](../../.gitbook/assets/rmbrestore1.PNG)
 
-When you choose the file version, the action window will appear. You have two options:
+When you choose the file version, the action window will appear. You have two options to choose from:
 
 * **Overwrite** - the existing file will be overwritten
 * **Create Copy** - the file copy will be created with an additional timestamp the file was backed up \(e.g. KODO\_TEST\(20210801094730\).txt\) 
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 When the file is restored, click **OK** in the following window:
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
 ## Restoring previously deleted data using the dashboard
 
