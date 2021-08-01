@@ -1,28 +1,40 @@
 # Restoring files
 
-The Right mouse button is a very useful tool using with KODO client.
+An endpoint user can recover data using the following options:
 
-You can restore a file after deletion, restore file after every change and pause KODO client.
+* "right-click" mouse button context menu
+* KODO client user console
 
-## Point-in-time restore using context menu
+## "Right-click" restore using the context menu
 
-Because of Continuous Data Protection, every file in the selected directory will be backed up just after any change. This allows You to restore the file before every change is made within the retention period. To do this just click the right mouse button on the selected file and choose a file version to restore:
+Leveraging "Continuous Data Protection" usability, every file in the protected directory will be backed up right after any change on it is made. This allows you to restore the file at the time the change was made \(if the file. To do this just click the right mouse button on the selected file and choose a file version to restore:
 
 ![](../../.gitbook/assets/rmbrestore1.PNG)
 
-## Restoring previously deleted file using the dashboard
+When you choose the file version, the action window will appear. You have two options:
 
-You can restore deleted file just by clicking the right mouse button in the directory that file was located.
+* **Overwrite** - the existing file will be overwritten
+* **Create Copy** - the file copy will be created with an additional timestamp the file was backed up \(e.g. KODO\_TEST\(20210801094730\).txt\) 
+
+![](../../.gitbook/assets/image%20%2899%29.png)
+
+When the file is restored, click **OK** in the following window:
+
+![](../../.gitbook/assets/image%20%28101%29.png)
+
+## Restoring previously deleted data using the dashboard
+
+You can restore deleted data just by clicking the right mouse button in the protected directory and choose the **Restore** option.
 
 ![](../../.gitbook/assets/rmbrestore2.PNG)
 
-and choose the _Restore_ option. This will open GUI where you can restore deleted file from the previous backup by checking the box **Show deleted files.**
+This will open the KODO client user console where you can browse, select and restore data. If you check the box **Show deleted files**, the deleted files are shown.
 
 ![](../../.gitbook/assets/rmbrestore3.PNG)
 
-All deleted files are displayed in red colour. You can choose the proper file and restore it as in [**UI usage**](client-settings.md) section.
 
 
+All deleted files are is shown in red. You can choose an appropriate file and restore it as in [**UI usage**](client-settings.md) section.
 
-![](../../.gitbook/assets/rbmpause5.PNG)
+
 

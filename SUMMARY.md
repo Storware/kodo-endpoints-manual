@@ -24,7 +24,7 @@
   * [IBM Spectrum Protect server configuration](deployment/spectrum-protect-tsm-configuration.md)
   * [Initial configuration](deployment/initial-configuration.md)
   * [Client deployment](deployment/deployments/README.md)
-    * [Client deployment packages.](deployment/deployments/kodo-client-deployment-packages.md)
+    * [Deployment packages](deployment/deployments/kodo-client-deployment-packages.md)
     * [Client install](deployment/deployments/installing-kodo-client/README.md)
       * [Client installer](deployment/deployments/installing-kodo-client/downloading-client-installer.md)
       * [Mail installation guide](deployment/deployments/installing-kodo-client/sending-installation-instructions.md)

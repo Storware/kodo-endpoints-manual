@@ -12,3 +12,5 @@ From the **Download package** window, choose the appropriate installation versio
 
 The installer can be copied to the endpoints where the software is to be installed.
 
+To start the insta
+

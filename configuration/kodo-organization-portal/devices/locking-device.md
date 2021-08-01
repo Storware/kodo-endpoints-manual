@@ -2,7 +2,7 @@
 
 ## Locking device
 
-To lock device and prevent user from logging in to system, select `Devices` from the main menu and:
+To lock device and prevent user from logging in to the system, select `Devices` from the main menu and:
 
 * Click the device name from the available list, click the ![](../../../.gitbook/assets/rozwinbuttonsmall.png) drop-down menu button and select `Lock Device`
 
@@ -36,7 +36,7 @@ or
 
 or
 
-* Select the selectbox next to desired devices and then click\_ `Unlock` \_button located at the top of device list. In this way you can unlock multiple devices at once.
+* Select the select box next to desired devices and then click\_ `Unlock` \_button located at the top of the device list. In this way, you can unlock multiple devices at once.
 
 ![](../../../.gitbook/assets/unlockdevice2.png)
 

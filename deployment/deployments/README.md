@@ -1,7 +1,5 @@
 # Client deployment
 
-Before you start, 
-
 ## Application folders
 
 Kodo for Endpoints client creates three folders by default on the system drive during the installation process:

@@ -1,6 +1,6 @@
 # Device management
 
-After this section you will be able to manage devices in KODO Organization Admin Portal.
+After this section, you will be able to manage devices in KODO Organization Admin Portal.
 
 * [Devices list](kodo-organization-portal/devices/devices-list.md)
 * [Device status](kodo-organization-portal/devices/device-status.md)
