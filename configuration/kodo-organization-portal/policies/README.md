@@ -1,14 +1,16 @@
 # Policies
 
-To automatically manage data protection and retention, you have to define a policy, which includes rules that you set through the **KODO Organization portal.** In the policy settings, the administrator can decide what data is stored and how long it is retained and available for restoration to customers. 
+To automatically manage data protection and retention, you have to define a policy, which includes rules that you set through the **KODO Organization portal.** In the policy settings, the administrator can decide what data is stored and how long it is retained and available for restoration to customers and configure many more settings. 
 
-When a server is installed the Default  by default it has one default policy. You can customize that **Default policy** or create a new one.
+When the KODO server is installed, the Default policy by default is created. You can customize that **Default policy** or create a new one.
+
+
 
 A user is assigned to the policy, which protects all his devices according to the settings.
 
-When a server is installed, by default it has one default policy. You can customize that `Default policy` or create a new one.
 
-The policy is assigned to an user and protects all his devices according to the settings.
+
+The policy is assigned to a user and protects all his devices according to the settings.
 
 When a server is installed, by default it has one default policy. You can customize that `Default policy` or create a new one.
 

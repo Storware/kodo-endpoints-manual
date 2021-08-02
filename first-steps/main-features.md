@@ -1,6 +1,6 @@
 # Main features
 
-KODO for Endpoints was designed from the beginning to protect user data in a very simple and effective way. It is a "user-centric" solution, which means that users can restore their data themselves, without involving the backup system administrator in the restoration process.  
+KODO for Endpoints was designed from the beginning to protect user data in a very simple and effective way. It's a "user-centric" solution, which means that users can restore their data themselves, without involving the backup system administrator in the restoration process.  
 
 KODO for Endpoints server  has the following features implemented: 
 

@@ -18,7 +18,7 @@ To add a new local user, click the **Add Local User** button and fill in all req
 
 Click the **Save** button to create the user. Check if the user appears on the user list.
 
-In the Users view the following options are available. Please refer to them.
+In the **Users** view the following options are available. Please refer to them.
 
 ## Deploy Client option
 

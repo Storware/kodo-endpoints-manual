@@ -37,7 +37,7 @@ The server hardware requirements will be depending on the size of the organizati
 
 IBM Spectrum Protect server instance is required for KODO for Endpoints server to be used as the backup engine. This document doesn't cover the installation and configuration of the IBM Spectrum Protect server. 
 
-## KODO for Endpoints server VA support and requirements
+## KODO for Endpoints server VA support
 
 ### **Supported Hypervisors**
 
@@ -55,7 +55,7 @@ Currently, the following hypervisors are supported:
 All disks can be configured as thin-provisioned_._ This hardware configuration is the minimum recommended configuration for a small/demo/lab environment. Please review the [Sizing guide ](sizing-guide/)for recommendations for your production environment.
 {% endhint %}
 
-## KODO for Endpoints client requirements
+## KODO for Endpoints client support 
 
 KODO for Endpoints client can be installed on the following operating systems:
 
@@ -76,7 +76,7 @@ The following packages need to be installed on the operating system:
 * Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030
 * Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508
 * Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508
-* .NET Framework 4.9  
+* .NET Framework 4.7.2  
 
 ## Windows 8 \(32-bit, 64-bit\)
 
@@ -86,7 +86,7 @@ The following packages need to be installed on the operating system:
 * Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030
 * Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508
 * Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508
-* .NET Framework 4.7.2  
+* .NET Framework 4.8
 
 ## Windows 8.1 \(32-bit, 64-bit\)
 
