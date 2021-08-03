@@ -32,11 +32,11 @@ If you've chosen another KODO for Endpoints server installation option, enter th
 * **Administrative Port** - set the number at 1503
 * **Node name** - it's the node name you've configured in the previous section
 
-In the **SET IBM SPECTRUM PROTECT PASSWORD** field, enter the password you've set in the previous section. Click the **Update Password** button to save it. The **Server Connection Status** should be changed to "**Connected**" \(it may take a while\).  If the status is "**Not connected**", please refresh the web browser site.
+In the **SET IBM SPECTRUM PROTECT PASSWORD** field, enter the password you've set in the previous section. Click the **Update Password** button to save it. The **Server Connection Status** should be changed to **Connected** \(it may take a while\).  If the status is **Not connected**, please refresh the web browser site.
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
-If you've chosen **KODO for Endpoints Bundle** option, check if there's a connection with the IBM server \(the status should be "**Connected**"\).
+If you've chosen **KODO for Endpoints Bundle** option, check if there's a connection with the IBM server \(the status should be **Connected**\).
 
 Go to the DB Backup, to configure **MariaDB** backup. It can be set to be triggered once a day at a given time. You can also set the number of stored backups.
 

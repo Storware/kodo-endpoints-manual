@@ -4,5 +4,5 @@ KODO client software must be installed in every endpoint to protect its data lev
 
 1. [Client installer](downloading-client-installer.md) package to deploy it locally on the endpoint.
 2. Sending the [installation guide](sending-installation-instructions.md) and the links to download the KODO client installer. 
-3. [GPO ](client-install-using-gpo-group-policy-object.md)or MS SCCM option.
+3. Using [GPO ](client-install-using-gpo-group-policy-object.md)feature or MS SCCM application.
 
