@@ -23,16 +23,11 @@ description: The RPM packages are suitable for installation on Red Hat and CentO
 
    ```text
    [kodo-endpoints]
-   name=Storware repository
+   name=Kodo for Endpoints
    baseurl=https://repo.storware.eu/kodo-endpoints/current
    enabled=1
    gpgcheck=0
    ```
-
-   * optionally change `el8` to `el7` for older CentOS/RHEL and `current` can also be pointed to the specific version of KODO for Endpoints e.g: 4.1
-   * so here are effective URLs as examples: 
-     * `http://repo.storware.eu/kodo-endpoints/current/`
-     * `http://repo.storware.eu/kodo-endpoints/4.1/`
 
 4. Install MariaDB repository:
    * generate .repo file at [MariaDB download](https://downloads.mariadb.org/mariadb/repositories) site
@@ -90,7 +85,7 @@ The installation should be finished with the "**Complete**!" message.
 
 ## KODO server initialization 
 
-To perform the KODO server initialization, run the following script:
+Once the KODO for Endpoints server is installed, you have to perform the server initialization. As the `root` user run the following script:
 
 ```text
 # /opt/storware/kodo-server/api-core/bin/kodo-init.sh
