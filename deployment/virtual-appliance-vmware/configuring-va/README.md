@@ -3,13 +3,13 @@
 After the KODO for Endpoints server is deployed and powered on, you can log in to the system and set up network configuration.
 
 {% hint style="warning" %}
-Do not change the hostname of the kodo server virtual machine. Changing hostname may lead to system damage. If you need to change the hostname please contact Storware technical support.
+Do change the hostname of the KODO server virtual machine. Changing hostname may lead to system unstable behavior. If you need to change the hostname please contact Storware technical support.
 {% endhint %}
 
 To set up network configuration, do as follow:
 
 1. Use vCenter Web Console to log in to your virtual environment and launch the virtual machine remote console.
-2.  Use the `kodo` user to log to KODO server operating system. Logging as the `root` user is not allowed.
+2.  Use the `kodo` user to log to KODO server operating system. Logging as the`root` user is not allowed.
 3. Use the credentials listed below to log in to the system:
 
    > **Login:** kodo  
@@ -129,7 +129,7 @@ To set up network configuration, do as follow:
 
 ![](../../../.gitbook/assets/image%20%2893%29.png)
 
-If there are no errors on the website, the KODO server is ready to be configured. If you've deployed the KODO for Endpoints Bundle server, go to the [Time synchronization](https://app.gitbook.com/@storware/s/kodo-for-endpoints/~/drafts/-MfrRWC5zUfDBTlET1sQ/deployment/virtual-appliance-vmware/configuring-va/time-synchronization-and-password-changing/@drafts) section to perform the task for time synchronization between the IBM Spectrum Protect server and OS.
+If there are no errors on the website, the KODO server is ready to be configured. If you've deployed the **KODO for Endpoints Bundle** server, go to the [Time synchronization](https://app.gitbook.com/@storware/s/kodo-for-endpoints/~/drafts/-MfrRWC5zUfDBTlET1sQ/deployment/virtual-appliance-vmware/configuring-va/time-synchronization-and-password-changing/@drafts) section to perform the task for time synchronization between the IBM Spectrum Protect server and OS.
 
 {% hint style="warning" %}
 KODO for Endpoints server has no license uploaded. Please contact [Storware sales team](mailto:sales@storware.eu) to get a trial license.  
