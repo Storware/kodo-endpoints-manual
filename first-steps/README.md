@@ -2,7 +2,7 @@
 
 Before you start to install KODO for Endpoints server, go to the [Architecture](architecture.md) chapter to learn more about its architecture and how the data and metadata flow look like. Then you can go to the [Licensing](licensing.md) chapter to get to know how our solution is licensed.
 
-In the [Main features](main-features.md) chapter,you will find information about KODO features and properties, that enable users to protect and recover their data in a very efficient, convenient, and fast way. 
+In the [Main features](main-features.md) chapter, you will find information about KODO features and properties, that enable users to protect and recover their data in a very efficient, convenient, and fast way. 
 
 In the [KODO server configuration options](../known-software-issues-and-limitations/kodo-server-configurations.md) chapter are located possible server configurations in which the server can be installed and configured.
 

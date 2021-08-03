@@ -16,7 +16,7 @@ When you choose the file version, the action window will appear. You have two op
 * **Overwrite** - the existing file will be overwritten
 * **Create Copy** - the file copy will be created with an additional timestamp the file was backed up \(e.g. KODO\_TEST\(20210801094730\).txt\) 
 
-![](../../.gitbook/assets/image%20%28106%29.png)
+![](../../.gitbook/assets/image%20%28107%29.png)
 
 When the file is restored, click **OK** in the following window:
 
@@ -36,7 +36,7 @@ Once you've selected the data to recover, click the **Restore** button. Choose t
 * Desktop
 * Different Loction
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](../../.gitbook/assets/image%20%28110%29.png)
 
 Click the **Restore** button. If the encryption option was enabled, you will be asked for the password. If the recovered files exist in the restore location, the action window will appear.
 
@@ -58,5 +58,5 @@ If you've chosen **Decide for each file**,  then you have two more options:
 
 When the restore process is accomplished, click the window by clicking the **Done** button.
 
-![](../../.gitbook/assets/image%20%28116%29.png)
+![](../../.gitbook/assets/image%20%28118%29.png)
 

@@ -9,9 +9,7 @@ Both options can be deployed as a VMware virtual appliance to the VMware environ
 
 In this section, you will find information about installing and configuring KODO for Endpoints server.
 
-We recommend that you start with the [Installation Overview ](installation-overview.md)to see what general steps are required to install KODO for Endpoints server.
-
-Take a look and choose the method that best suits your needs or experiences.
+We recommend that you start with the [Installation Overview ](installation-overview.md)to see what general steps are required to install KODO for Endpoints server. Choose the method that best suits your needs or experiences.
 
 \_\_
 

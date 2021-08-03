@@ -1,12 +1,16 @@
-# Sending installation instructions
+# Mail installation guide
 
-To send KODO client installation instructions, select `Users` from the main menu of the `KODO Organization Portal` and then click the arrow to the right of the table on the line with the device whose data you want to display select `Deploy Desktop App` from the menu.
+Administra
 
-You will be sent a KODO client installation instruction for the selected platform type.
+To send the KODO client installation guide by e-mail message, go to the **Users** view at **KODO Organization Portal** and select a user or users you want to sent the e-mail to. Choose the "**Deploy Client**" from the **Options** menu. Alternatively, you can click the "**Deploy Client**" button. 
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+It will send a KODO client installation guide for the selected platform type.
 
-\*\*\*\*
+![](../../.gitbook/assets/image%20%2863%29.png)
+
+
+
+The e-mail a user receives looks like the one below. It contains the download links to the KODO client installer packages and the "Magic Link". It will be explained in the next section how to use it to automatically log in the user to the KODO server.
 
 ![](../../.gitbook/assets/kodolink.PNG)
 

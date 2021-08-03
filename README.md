@@ -27,5 +27,5 @@ KODO for Endpoints focuses on employees, systems, devices, and data safety. KODO
 * SSL/TLS connection encryption
 * Audit logs
 
-Go to the [Overview ](first-steps/)chapter to get to know the architecture, licensing, main features and more about KODO for Endpoints server.
+Go to the [Overview ](first-steps/)chapter to get to know the architecture, licensing, main features, and more about KODO for Endpoints server.
 

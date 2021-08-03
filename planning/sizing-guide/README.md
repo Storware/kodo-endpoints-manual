@@ -10,7 +10,7 @@ To calculate the required backup storage space, multiply the number of devices y
 
 The other requirement is to calculate the disk space required to store information about protected files in the IBM Spectrum Protect server database.
 
-We've made some sample calculations for the database storage. If a single client has 500k files to protect and each file has 3 versions, then the protected environment with 500 endpoints requires about 1.7 TB of additional storage for the database. Reserve the database disk space on the server.
+We've made a sample calculation for the database storage. If a single client has 500k files to protect and each file has 3 versions, then the protected environment with 500 endpoints requires about 1.7 TB of additional storage for the database. Reserve appropriate database disk space on the server.
 
 Based on our best practice, we have prepared four configurations that are typical of most use cases.
 

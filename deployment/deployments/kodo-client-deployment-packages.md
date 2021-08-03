@@ -7,7 +7,7 @@ You can download the current KODO client package from the site http:/repo.storwa
 {% endhint %}
 
 {% hint style="info" %}
-If you are using KODO Server VA, client packages should be already available.
+If you are using KODO for Endpoints virtual appliances, client packages should be already uploaded.
 {% endhint %}
 
 To upload client packages to your KODO Server,  do as follow::

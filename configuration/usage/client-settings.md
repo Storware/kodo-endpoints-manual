@@ -19,7 +19,7 @@ I
 
 In the **Backups** view, you can browse and recover protected files and folders. You also have a search window \(upper right corner of the window\) to find files by name or extension \(you can use the asterisk as well\).
 
-![](../../.gitbook/assets/image%20%28104%29.png)
+![](../../.gitbook/assets/image%20%28106%29.png)
 
 To display all available file versions click the watch icon in the Versions column.
 
@@ -35,7 +35,7 @@ In the **Settings** view you can set:
 * **Maximal download speed \(kbps\)**
 * **Enable data encryption**- a user can set the password to encrypt backup \(the password will be required during the recovery process\).
 
-![](../../.gitbook/assets/image%20%28115%29.png)
+![](../../.gitbook/assets/image%20%28117%29.png)
 
 If any previous backups are stored on the KODO server, existing backups will be deleted when encryption is enabled.
 
@@ -43,9 +43,9 @@ If any previous backups are stored on the KODO server, existing backups will be 
 
 Set a password and confirm it. It takes a while to set up the password.
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](../../.gitbook/assets/image%20%28115%29.png)
 
-![](../../.gitbook/assets/image%20%28112%29.png)
+![](../../.gitbook/assets/image%20%28113%29.png)
 
 
 

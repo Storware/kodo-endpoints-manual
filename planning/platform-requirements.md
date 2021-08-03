@@ -113,3 +113,10 @@ The following packages need to be installed on the operating system:
 * Internet connection is not required generally, but during the installation`yum` needs to fetch packages from the repositories, so you need at least access to your internal repositories.
 * KODO for Endpoints server needs access to AD/LDAP server \(if used\).
 
+## Supported web browsers <a id="supported-web-browsers"></a>
+
+| ​ | **Google Chrome \(latest version\)** | **Mozilla Firefox \(latest version\)** | **Microsoft Edge** | **Apple Safari** |
+| :--- | :--- | :--- | :--- | :--- |
+| Linux | Supported | Supported | N/A | N/A |
+| Windows | Supported | Supported | Supported | N/A |
+
