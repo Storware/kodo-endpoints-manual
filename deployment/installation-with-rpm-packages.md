@@ -6,18 +6,18 @@ description: The RPM packages are suitable for installation on Red Hat and CentO
 
 ## Prerequisites
 
-1. Install CentOS/RHEL 8 minimal
+1. Install CentOS/RHEL 8 minimal:
    * we recommend having Red Hat's support available if you're going to use RHEL
    * you also can use version CentOS/RHEL 7
-2. Make sure your OS is up to date:
+2. Make sure your OS is up to date \(as the `root` user\):
 
    ```text
-   dnf -y update
+   #dnf -y update
    ```
 
    If the kernel is updated, then you need to reboot your operating system.
 
-3. Install KODO-endpoints  repository
+3. Install KODO-endpoints  repository:
 
    * create file `/etc/yum.repos.d/kodo-endpoints.repo`:
 
@@ -29,12 +29,12 @@ description: The RPM packages are suitable for installation on Red Hat and CentO
    gpgcheck=0
    ```
 
-   * optionally change `el8` to `el7` for older CentOS/RHEL and `current` can also be pointed to the specific version of vProtect, i.e. `3.9.2` \(not the one that is always up to date\)
+   * optionally change `el8` to `el7` for older CentOS/RHEL and `current` can also be pointed to the specific version of KODO for Endpoints e.g: 4.1
    * so here are effective URLs as examples: 
-     * `http://repo.storware.eu/vprotect/current/el7`
-     * `http://repo.storware.eu/vprotect/3.9.2/el8`
+     * `http://repo.storware.eu/kodo-endpoints/current/`
+     * `http://repo.storware.eu/kodo-endpoints/4.1/`
 
-4. Install MariaDB repository \(**vProtect Server host only**\)
+4. Install MariaDB repository:
    * generate .repo file at [MariaDB download](https://downloads.mariadb.org/mariadb/repositories) site
    * copy and paste generated repo file into `/etc/yum.repos.d/MariaDB.repo`, so it looks similar to this \(this one for CentOS/RHEL 8\):
 
@@ -53,7 +53,7 @@ gpgcheck=1
 KODO for Endpoints server consists of a server \(central management point with WebUI and MySQL database\). To install the server do the following steps:
 
 1. Log in as the `root` user.
-2. Use the command below to install `kodo-for-endpoints` package.
+2. Use the command below to install`kodo-for-endpoints`package.
 
 ```text
 # yum install kodo-for-endpoints        

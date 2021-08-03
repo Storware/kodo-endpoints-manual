@@ -13,7 +13,7 @@ KODO is using the enterprise IBM Spectrum Protect engine as the backup provider.
 
 KODO system requires some special IBM Spectrum Protect configuration. Create a configuration in accordance with this guideline:
 
-Log in to the console as the `root` user. Next, you have to log in to the IBM Spectrum Protect server as an administrator with **SYSTEM** level authority. Run the `dsmadmc` command:  
+Log in to the console as the`root`user. Next, you have to log in to the IBM Spectrum Protect server as an administrator with **SYSTEM** level authority. Run the `dsmadmc`command:  
 
 ```text
 # dsmadmc
@@ -51,7 +51,7 @@ SERVER1> activate policy kodo kodo
 ```
 
 {% hint style="info" %}
-TIP: You can change the retention setting, also the name of the management class.
+TIP: You can change the retention setting, as well as the name of the management class.
 {% endhint %}
 
 ## Registering a new node and administrator account
@@ -78,8 +78,6 @@ SERVER1> register admin kodo.COMPANY_NAME client_password
 SERVER1> update admin kodo.COMPANY_NAME passexp=0
 SERVER1> grant authority kodo.COMPANY_NAME cl=sys
 ```
-
-
 
 Go to the [Initial configuration](initial-configuration.md) chapter to start KODO for Endpoints server configuration.
 
