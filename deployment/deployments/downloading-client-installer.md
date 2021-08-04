@@ -12,15 +12,19 @@ From the **Download package** window, choose the appropriate installation versio
 
 The installer can be copied to the endpoints where the software is to be installed.
 
-To start the installation process, download the EXE or MSI package. 
+To start the installation process, download the EXE or MSI package, and do the following steps: 
 
-
-
-![](../../.gitbook/assets/image%20%28124%29.png)
+1. Go to the download directory and run the package. It may take a moment for the installer to start. The application will be installed in the default directory. Click the **Install** button.
 
 ![](../../.gitbook/assets/image%20%28104%29.png)
 
+2. Wait for the installer to finish. 
+
 ![](../../.gitbook/assets/image%20%28125%29.png)
+
+ 3. Find the KODO icon on the desktop and run it. Enter the server IP address or its name, username and the password \(check the ". Click the **Log in** button.
+
+![](../../.gitbook/assets/image%20%28131%29.png)
 
 
 

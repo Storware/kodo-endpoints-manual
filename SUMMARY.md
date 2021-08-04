@@ -26,7 +26,7 @@
   * [Client deployment](deployment/deployments/README.md)
     * [Deployment packages](deployment/deployments/kodo-client-deployment-packages.md)
     * [Client installer](deployment/deployments/downloading-client-installer.md)
-    * [Mail installation guide](deployment/deployments/sending-installation-instructions.md)
+    * [Deployment email](deployment/deployments/sending-installation-instructions.md)
     * [Client install using GPO \(Group Policy Object\)](deployment/deployments/client-install-using-gpo-group-policy-object.md)
     * [Silent install](deployment/deployments/silent-install.md)
     * [Client components](deployment/deployments/client-components.md)
