@@ -1,13 +1,13 @@
 # Restoring files
 
-An endpoint user can recover data using the following options:
+A user can recover his own data using the following options:
 
 * "Right-click" mouse button context menu
 * KODO client user console
 
 ## "Right-click" restore using the context menu
 
-Leveraging "Continuous Data Protection" usability, every file in the protected directory will be backed up right after any change on it is made. This allows you to restore the file at the time the change was made \(if the file. To do this just click the right mouse button on the selected file and choose a file version to restore:
+Leveraging **Continuous Data Protection** solution, every file in the protected directory will be backed up right after any change on it is made. This allows you to restore the file at the time the change was made \(if the file. To do this just click the right mouse button on the selected file and choose a file version to restore:
 
 ![](../../.gitbook/assets/rmbrestore1.PNG)
 

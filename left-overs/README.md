@@ -18,3 +18,17 @@ If you have successfully downloaded the OVA file, deploy it in a virtual environ
 
 
 
+## Protection statuses <a id="device-statuses"></a>
+
+| **Status** |  | **Description** |
+| :--- | :--- | :--- |
+| Protected  | ![](../.gitbook/assets/protected.png) | The device is protected according to the assigned policy |
+| Not protected ![](../.gitbook/assets/unprotected.png) |  | The device didn't connect with the server within the last "X" days. The number of days is configured at a policy level. |
+| Locked ![](../.gitbook/assets/locked.png) |  | The device is locked. The user cannot log in and perform any operations from this device. |
+
+![](../.gitbook/assets/image%20%28105%29.png)
+
+![](../.gitbook/assets/image%20%28109%29.png)
+
+
+

@@ -1,14 +1,32 @@
-# Devices list
+# Devices list view
 
-This view lists all authorized devices on the KODO server. When a user first logs into the system using their username and password or uses a "magic link" and the KODO server properly authorizes it, the user's device appears in the device list.
+This view lists all authorized devices on the KODO server. When a user first logs into the system using his username and password or uses a "magic link" and the KODO server properly authorizes it, the user's device appears in the device list.
 
 ![](../../../.gitbook/assets/image%20%2847%29.png)
 
 ## Lock option
 
+To lock the device and prevent a user from logging in to the system, do as follow:
+
+* Click the device name from the available list, click the drop-down menu button from the **Options** column and select **Lock Device**.
+
+or
+
+* Click on the Lock button at the right top corner
+
 ## Unlock option
 
+To unlock the device and prevent a user from logging in to the system, do as follow:
+
+* Click the device name from the available list, click the  drop-down menu button from the **Options** column and select **Unlock Device**.
+
+or
+
+* Click on the **Unlock**  button at the right top corner
+
 ## Upgrade option
+
+If the new KODO client package was uploaded to the server and set as current, in the **Options** menu the Upgrade option should appear.
 
 ## Options menu
 
