@@ -24,7 +24,7 @@ To start the installation process, download the EXE or MSI package, and do the f
 
  3. Find the KODO icon on the desktop and run it. Enter the server IP address or its name, username and the password \(check the ". Click the **Log in** button.
 
-![](../../.gitbook/assets/image%20%28131%29.png)
+![](../../.gitbook/assets/image%20%28138%29.png)
 
 
 

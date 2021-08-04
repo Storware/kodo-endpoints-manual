@@ -18,9 +18,9 @@ KodoTemp folder is configured as hidden by default and located on system drive *
 
 The size of the KodoTemp folder can be set in the backup policy. It is good practice to set a maximum folder size to prevent running out of space on the system disk.
 
-## Continuous Data Protection service
+## Continuous Data Protection solution
 
-A core part of Kodo for endpoints is a system service named **KodoService**. KodoService is used for the Continuous Data Protection \(CDP\) process. It tracks all changes in files and directories included by the backup policy. It should have access to all folders and files so **KodoService** is running on SYSTEM privileges.
+A core part of Kodo for endpoints is a system service named **KodoService**. KodoService is used for the Continuous Data Protection \(CDP\) solution. It enables you to backup your data in real time at a pace that may bring increased protection and convenience to you. It automatically detects and saves each and every change made to your data, so that nothing is left overlooked. These changes can be stored locally or remotely and are readily available for recovery just when you need them. As the solution should have access to all folders and files so **KodoService** is running on SYSTEM privileges.
 
 
 
