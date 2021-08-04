@@ -53,7 +53,7 @@
       * [Detailed device information](configuration/kodo-organization-portal/devices/detailed-device-information.md)
       * [Registering new device](configuration/kodo-organization-portal/devices/registering-new-device.md)
       * [Locking and unlocking device](configuration/kodo-organization-portal/devices/locking-device.md)
-      * [Removing device](configuration/kodo-organization-portal/devices/removing-device.md)
+      * [Removing a device](configuration/kodo-organization-portal/devices/removing-device.md)
       * [Device logs](configuration/kodo-organization-portal/devices/device-logs.md)
       * [Restoring files](configuration/kodo-organization-portal/devices/restoring-files.md)
     * [Restore Jobs](configuration/kodo-organization-portal/restore-jobs.md)

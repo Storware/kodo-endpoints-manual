@@ -1,4 +1,4 @@
-# Removing device
+# Removing a device
 
 **NOTE: Removing the device from the system will result in the removal of all protected data!**
 
