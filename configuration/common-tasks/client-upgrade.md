@@ -9,9 +9,9 @@ If you want to upgrade the KODO client software you have the following options:
 
 
 
-![](../../.gitbook/assets/image%20%28132%29.png)
+![](../../.gitbook/assets/image%20%28135%29.png)
 
-![](../../.gitbook/assets/image%20%28139%29.png)
+![](../../.gitbook/assets/image%20%28143%29.png)
 
 
 

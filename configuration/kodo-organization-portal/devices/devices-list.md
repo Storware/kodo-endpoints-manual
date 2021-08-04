@@ -6,29 +6,29 @@ This view lists all authorized devices on the KODO server. When a user first log
 
 ## Lock option
 
-To lock the device and prevent a user from logging in to the system, do as follow:
+To lock the device and prevent a user from logging in to the system,  you can do this in two ways:
 
-* Click the device name from the available list, click the drop-down menu button from the **Options** column and select **Lock Device**.
-
-or
-
-* Click on the Lock button at the right top corner
+* Click the device name from the available list, click the drop-down menu button from the **Options** column and select **Lock** option.
+* Click on the **Lock** button at the right top corner
 
 ## Unlock option
 
-To unlock the device and prevent a user from logging in to the system, do as follow:
+To lock the device and prevent a user from logging in to the system,  you can do this in two ways:
 
-* Click the device name from the available list, click the  drop-down menu button from the **Options** column and select **Unlock Device**.
-
-or
-
+* Click the device name from the available list, click the drop-down menu button from the **Options** column and select **Unlock Device**.
 * Click on the **Unlock**  button at the right top corner
 
 ## Upgrade option
 
-If the new KODO client package was uploaded to the server and set as current, in the **Options** menu the Upgrade option should appear.
+If the new KODO client package was uploaded to the server and set as current, in the **Options** menu the **Upgrade** option should appear. 
+
+![](../../../.gitbook/assets/image%20%28133%29.png)
 
 ## Options menu
+
+
+
+* ![](../../../.gitbook/assets/deviceoptions%20%282%29.png)
 
 ## List registered devices <a id="list-registered-devices"></a>
 

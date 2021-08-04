@@ -2,15 +2,13 @@
 
 **NOTE: Removing the device from the system will result in the removal of all protected data!**
 
-To remove a device from the system, select `Devices` from the main menu and then:
+To remove a device from the system, go to the **Devices**  view and select the **Delete** option from the **Options** menu:
 
-* Click on the name of the device you want to delete, click on the ![](../../../.gitbook/assets/deletebuttonsmall.png) button
+![](../../../.gitbook/assets/image%20%28136%29.png)
 
-or
+Confirm your action by entering the device name. Click the **Continue** button to proceed. The device and its data will be permanently and irreversibly deleted.
 
-* Click the arrow icon from the table Options menu and select `Delete` from the menu.
+![](../../../.gitbook/assets/image%20%28131%29.png)
 
-  ​![](../../../.gitbook/assets/deviceoptions%20%282%29%20%282%29.png)​
 
-Confirm your action with the `Ok` key.
 
