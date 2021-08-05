@@ -40,30 +40,11 @@ If the new KODO client package was uploaded to the server and set as current, in
 
 ## Options menu
 
-In the Options menu you have additional option to choose from:
+In the Options menu you have additional options to choose from:
 
 
 
-
-
-* ![](../../../.gitbook/assets/deviceoptions%20%282%29.png)
-
-## List registered devices <a id="list-registered-devices"></a>
-
-A list of devices is a collection of all registered and protected devices in the system.
-
-To view the list of registered devices, go to the Device view from the main menu.
-
-Devices list table view consist of the following columns:
-
-* **Name** -registered device name
-* **User** - the name of the device owner
-* **Platform** - the type of operating system platform represented by an icon
-* **Version** - version of the application installed on the device
-* **Last Backup** - date of the last device backup
-* **Policy**  -protection policy assigned to the user
-* **Protection** -current protection status.
-* **Options** - quick action menu
+![](../../../.gitbook/assets/deviceoptions%20%282%29.png)
 
 | **Field** | **Description** |
 | :--- | :--- |

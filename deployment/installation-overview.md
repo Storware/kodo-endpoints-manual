@@ -9,8 +9,13 @@
 3. Once you've finished the configuration process, you can perform the [Initial configuration](initial-configuration.md).
 4. In the next step, perform [Client deployment](deployments/) on selected endpoints in your organization.
 5. Test basic operations to verify that deployment is completed:
+
    1. Test backup
    2. Test restore
+
+Before you begin the deployment process, go to the next section to learn about KODO server administration levels and administrator accounts.
+
+
 
 
 

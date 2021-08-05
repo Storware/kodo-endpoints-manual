@@ -8,7 +8,13 @@ You can deploy KODO for Endpoints client in silent mode. To do that, follow the 
 
 ![](../../.gitbook/assets/image%20%28140%29.png)
 
-When the installation process is finished, close the command line prompt and click the KODO icon on the user desktop or use the "magic link" from the deployment mail to log in to the KODO server.
+Once the installation process is complete, close the command prompt and click the KODO icon on the user's desktop or use the "**magic link**" from the deployment message to log into the KODO server.
+
+{% hint style="info" %}
+You can use other options for the **msiexec** command if needed \(visit the site [https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/msiexec](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/msiexec)\).
+{% endhint %}
+
+
 
 
 

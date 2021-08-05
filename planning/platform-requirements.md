@@ -96,7 +96,9 @@ The following packages need to be installed on the operating system:
 * Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030
 * Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508
 * Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508
-* .NET Framework 4.7.2  
+* .NET Framework 4.8
+
+  
 
 ## Windows 10 \(32-bit, 64-bit\)
 
@@ -115,8 +117,39 @@ The following packages need to be installed on the operating system:
 
 ## Supported web browsers <a id="supported-web-browsers"></a>
 
-| ​ | **Google Chrome \(latest version\)** | **Mozilla Firefox \(latest version\)** | **Microsoft Edge** | **Apple Safari** |
-| :--- | :--- | :--- | :--- | :--- |
-| Linux | Supported | Supported | N/A | N/A |
-| Windows | Supported | Supported | Supported | N/A |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x200B;</th>
+      <th style="text-align:left">
+        <p><b>Google Chrome</b>
+        </p>
+        <p><b> (latest version)</b>
+        </p>
+      </th>
+      <th style="text-align:left">
+        <p><b>Mozilla Firefox </b>
+        </p>
+        <p><b>(latest version)</b>
+        </p>
+      </th>
+      <th style="text-align:left"><b>Microsoft Edge</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Linux</td>
+      <td style="text-align:left">Supported</td>
+      <td style="text-align:left">Supported</td>
+      <td style="text-align:left">N/A</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Windows</td>
+      <td style="text-align:left">Supported</td>
+      <td style="text-align:left">Supported</td>
+      <td style="text-align:left">Supported</td>
+    </tr>
+  </tbody>
+</table>
 
