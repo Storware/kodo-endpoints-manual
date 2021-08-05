@@ -12,6 +12,13 @@ From the **Download package** window, choose the appropriate installation versio
 
 The installer can be copied to the endpoints where the software is to be installed.
 
+{% hint style="info" %}
+Note the differences between the EXE and MSI installers:
+
+* Installer as a file **EXE** is the installation package that includes and automatically installs all prerequisites _\(recommended version \)_
+* Installer as a file **MSI** is the installation package without prerequisites, used for automatic software distribution _\(advanced admin version \)_
+{% endhint %}
+
 To start the installation process, download the EXE or MSI package, and do the following steps: 
 
 1. Go to the download directory and run the package. It may take a moment for the installer to start. The application will be installed in the default directory. Click the **Install** button.

@@ -1,9 +1,9 @@
 # Deployment packages
 
-To use the KODO client you first need to upload KODO client packages.
+To use the KODO client, you must first upload the KODO client packages.
 
 {% hint style="info" %}
-You can download the current KODO client package  \(in ZIP format\) from the site http:/repo.storware.eu/kodo-endpoints/current/
+You can download the current KODO client package \(in the ZIP format\) from the site http:/repo.storware.eu/kodo-endpoints/current/
 {% endhint %}
 
 {% hint style="info" %}

@@ -30,18 +30,19 @@ description: The RPM packages are suitable for installation on Red Hat and CentO
    ```
 
 4. Install MariaDB repository:
+
    * generate .repo file at [MariaDB download](https://downloads.mariadb.org/mariadb/repositories) site
    * copy and paste generated repo file into `/etc/yum.repos.d/MariaDB.repo`, so it looks similar to this \(this one for CentOS/RHEL 8\):
 
-```text
-# MariaDB 10.5 CentOS repository list - created 2021-07-01 13:34 UTC
-# http://downloads.mariadb.org/mariadb/repositories/
-[mariadb]
-name = MariaDB
-baseurl = http://yum.mariadb.org/10.5/centos7-amd64
-gpgkey=https://yum.mariadb.org/RPM-GPG-KEY-MariaDB
-gpgcheck=1
-```
+   ```text
+   # MariaDB 10.5 CentOS repository list - created 2021-07-01 13:34 UTC
+   # http://downloads.mariadb.org/mariadb/repositories/
+   [mariadb]
+   name = MariaDB
+   baseurl = http://yum.mariadb.org/10.5/centos7-amd64
+   gpgkey=https://yum.mariadb.org/RPM-GPG-KEY-MariaDB
+   gpgcheck=1
+   ```
 
 ## KODO for Endpoints server installation
 
