@@ -14,7 +14,7 @@ or
 
 ## Details
 
-* **Device information** - Information about the registerd device i.e: app version, operating system, manufacturer.
+* **Device information** - Information about the registered device i.e: app version, operating system, manufacturer.
 
   ![](../../../.gitbook/assets/devicedetails.png)
 

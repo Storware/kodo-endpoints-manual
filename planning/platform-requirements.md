@@ -49,8 +49,6 @@ Currently, the following hypervisors are supported:
 * ESXi 6.7
 * VMware 7
 
-### \*\*\*\*
-
 {% hint style="info" %}
 All disks can be configured as thin-provisioned_._ This hardware configuration is the minimum recommended configuration for a small/demo/lab environment. Please review the [Sizing guide ](sizing-guide/)for recommendations for your production environment.
 {% endhint %}
@@ -72,42 +70,40 @@ KODO for Endpoints client can be installed on the following operating systems:
 
 The following packages need to be installed on the operating system:
 
-* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030
-* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030
-* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508
-* Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508
+* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030 \([https://my.visualstudio.com/Downloads?pid=1452](https://my.visualstudio.com/Downloads?pid=1452)\)
+* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030 \([https://my.visualstudio.com/Downloads?pid=1452](https://my.visualstudio.com/Downloads?pid=1452)\)
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508 \([https://aka.ms/vs/16/release/vc\_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)\)
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508 \([https://aka.ms/vs/16/release/vc\_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)\)
 * .NET Framework 4.7.2  
 
 ## Windows 8 \(32-bit, 64-bit\)
 
 The following packages need to be installed on the operating system:
 
-* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030
-* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030
-* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508
-* Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508
+* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030 \([https://my.visualstudio.com/Downloads?pid=1452](https://www.microsoft.com/en-us/download/details.aspx?id=30679)\)
+* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030 \([https://my.visualstudio.com/Downloads?pid=1452](https://my.visualstudio.com/Downloads?pid=1452)\)
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508 \([https://aka.ms/vs/16/release/vc\_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)\)
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508 \([https://aka.ms/vs/16/release/vc\_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)\)
 * .NET Framework 4.8
 
 ## Windows 8.1 \(32-bit, 64-bit\)
 
 The following packages need to be installed on the operating system:
 
-* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030
-* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030
-* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508
-* Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508
-* .NET Framework 4.8
-
-  
+* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030 \([https://my.visualstudio.com/Downloads?pid=1452](https://my.visualstudio.com/Downloads?pid=1452)\)
+* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030 \([https://my.visualstudio.com/Downloads?pid=1452](https://my.visualstudio.com/Downloads?pid=1452)\)
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508 \([https://aka.ms/vs/16/release/vc\_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)\)
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x86\) package-14.20.27508 \([https://aka.ms/vs/16/release/vc\_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)\)
+* .NET Framework 4.8  
 
 ## Windows 10 \(32-bit, 64-bit\)
 
 The following packages need to be installed on the operating system:
 
-* Microsoft Vistual C++ 2010 x64 Redistributable package-10.0.40219
-* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030
-* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030
-* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508
+* Microsoft Vistual C++ 2010 x64 Redistributable package-10.0.40219 \([https://www.microsoft.com/en-us/download/details.aspx?id=26999](https://www.microsoft.com/en-us/download/details.aspx?id=26999)\)
+* Microsoft Vistual C++ 2012 Redistributable \(x64\) package-11.0.61030 \([https://my.visualstudio.com/Downloads?pid=1452](https://my.visualstudio.com/Downloads?pid=1452)\)
+* Microsoft Vistual C++ 2012 Redistributable \(x86\) package-11.0.61030 \([https://my.visualstudio.com/Downloads?pid=1452](https://my.visualstudio.com/Downloads?pid=1452)\)
+* Microsoft Vistual C++ 2015-2019 Redistributable \(x64\) package-14.20.27508 \([https://aka.ms/vs/16/release/vc\_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)\)
 * .NET Framework 4.8
 
 ## Network Requirements

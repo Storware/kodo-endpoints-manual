@@ -32,7 +32,15 @@ To lock the device and prevent a user from logging in to the system,  you can do
 * Click the device name from the available list, click the drop-down menu button from the **Options** column and select the **Unlock** option.
 * Click on the **Unlock**  button at the right top corner
 
-## Upgrade option
+## Logs option
+
+Using this option you can download the device's logs.  Download the selected log from the available list by clicking on the red download icon.
+
+![](../../../.gitbook/assets/image%20%28138%29.png)
+
+{% hint style="info" %}
+Logs are compressed as the zip files, the file name is constructed as follows: **sentDate\_sentTime.zip**
+{% endhint %}
 
 ## Upgrade option
 
@@ -40,19 +48,37 @@ If the new KODO client package was uploaded to the server and set as current, in
 
 ![](../../../.gitbook/assets/image%20%28133%29.png)
 
-## Options menu
+Click the **Upgrade** option to send the information about the new client version to the endpoint. In the **Manage Update Packages for Device** window is the information about the currently installed version and the production version available to upgrade. 
 
-In the Options menu you have additional options to choose from:
+![](../../../.gitbook/assets/image%20%28147%29.png)
+
+The pop-up window with the following information will appear.  
+
+![](../../../.gitbook/assets/image%20%28145%29.png)
+
+Log in to the endpoint, open the KODO user console. There should be a new option available \(**Update**\). Click the option to start the update.
+
+![](../../../.gitbook/assets/image%20%28149%29.png)
+
+
+
+## Details options
+
+
+
+* **Device information** - Information about the registered device i.e: app version, operating system, manufacturer.
+
+* **Protected Files** - Backup browser allows administrator to restore files from backup when [policy](../policies/general-settings.md) allows it, and option: _Allow administrators to restore user files_ is turned on.
+
+![](../../../.gitbook/assets/backupedfiles.png)
+
+* **Device Events** - Device event log.
+
+## In the Options menu you have additional options to choose from:
 
 * Details
 * Edit
 * Logs
-
-
-
-![](../../../.gitbook/assets/deviceoptions%20%282%29.png)
-
-
 
 | **Field** | **Description** |
 | :--- | :--- |

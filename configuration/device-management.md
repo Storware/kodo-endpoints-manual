@@ -8,5 +8,5 @@ After this section, you will be able to manage devices in KODO Organization Admi
 * [Registering new device](kodo-organization-portal/devices/registering-new-device.md)
 * [Locking and Unlocking device](kodo-organization-portal/devices/locking-device.md)
 * [Removing device](kodo-organization-portal/devices/removing-device.md)
-* [Device logs](kodo-organization-portal/devices/device-logs.md)
+* [Device logs]()
 

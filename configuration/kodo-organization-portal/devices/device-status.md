@@ -42,21 +42,13 @@ Each device registered in the system has a suitable status defining its current 
     </tr>
     <tr>
       <td style="text-align:left"><b>Archived  </b>
-        <img src="../../../.gitbook/assets/archive.png" alt/><b> </b>
+        <img src="../../../.gitbook/assets/archive (1).png" alt/>
       </td>
       <td style="text-align:left">The status is presented with a gray suitcase. This indicates that the
         device is archived and only restore operations can be performed.</td>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
 </table>
 
-![](../../../.gitbook/assets/image%20%28145%29.png)
+![](../../../.gitbook/assets/image%20%28146%29.png)
 
