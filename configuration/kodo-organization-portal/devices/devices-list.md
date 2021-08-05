@@ -34,6 +34,8 @@ To lock the device and prevent a user from logging in to the system,  you can do
 
 ## Upgrade option
 
+## Upgrade option
+
 If the new KODO client package was uploaded to the server and set as current, in the **Options** menu the **Upgrade** option should appear. 
 
 ![](../../../.gitbook/assets/image%20%28133%29.png)
@@ -42,9 +44,15 @@ If the new KODO client package was uploaded to the server and set as current, in
 
 In the Options menu you have additional options to choose from:
 
+* Details
+* Edit
+* Logs
+
 
 
 ![](../../../.gitbook/assets/deviceoptions%20%282%29.png)
+
+
 
 | **Field** | **Description** |
 | :--- | :--- |
