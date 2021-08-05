@@ -56,7 +56,7 @@ To deploy KODO for Endpoints server from the OVA file at your virtual environmen
 
 8. When the server is deployed, you can power it on. 
 
-If you've deployed the **KODO for Endpoint Gateway** OVA image file, after the deployment process you have to go to the  [IBM Spectrum Protect server configuration](../spectrum-protect-tsm-configuration.md) section to connect the IBM Spectrum Protect server to the server.
+If you've deployed the **KODO for Endpoint Gateway** server, after the deployment process you have to go to the  [IBM Spectrum Protect server configuration](../spectrum-protect-tsm-configuration.md) section to connect the IBM Spectrum Protect server to the server.
 
 Go to the [Configuring VA](configuring-va/) chapter to learn how to configure KODO for Endpoints server.
 

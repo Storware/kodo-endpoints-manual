@@ -13,7 +13,7 @@
    1. Test backup
    2. Test restore
 
-Before you begin the deployment process, go to the next section to learn about KODO server administration levels and administrator accounts.
+Before you begin the deployment process, go to the next section to learn more about KODO for Endpoints server administration levels and administrator accounts.
 
 
 

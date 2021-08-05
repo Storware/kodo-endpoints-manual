@@ -132,6 +132,6 @@ To set up network configuration, do as follow:
 If there are no errors on the website, the KODO server is ready to be configured. If you've deployed the **KODO for Endpoints Bundle** server, go to the [Time synchronization](https://app.gitbook.com/@storware/s/kodo-for-endpoints/~/drafts/-MfrRWC5zUfDBTlET1sQ/deployment/virtual-appliance-vmware/configuring-va/time-synchronization-and-password-changing/@drafts) section to perform the task for time synchronization between the IBM Spectrum Protect server and OS.
 
 {% hint style="warning" %}
-KODO for Endpoints server has no license uploaded. Please contact [Storware sales team](mailto:sales@storware.eu) to get a trial license.  
+KODO for Endpoints server has no license uploaded. Please contact the [Storware sales team](mailto:sales@storware.eu) to get a trial license.  
 {% endhint %}
 

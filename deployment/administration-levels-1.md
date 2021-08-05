@@ -54,5 +54,3 @@ Here are credentials for two predefined administrator accounts:
 
 The credentials will be required later in the [Initial configuration](initial-configuration.md) chapter. 
 
-Go to the [Planning ](../planning/)chapter to plan your KODO for Endpoints deployment and choose a configuration that fits your organization's protection needs.
-

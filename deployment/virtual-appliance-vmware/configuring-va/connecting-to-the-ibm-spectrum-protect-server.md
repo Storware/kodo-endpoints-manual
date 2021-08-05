@@ -15,9 +15,5 @@ The **Server Connection Status** should be changed to **Connected** \(it may tak
 
 ![](../../../.gitbook/assets/image%20%2814%29.png)
 
-If you've obtained a trial license from the Storware sales team or purchased it, go to the License tab and upload it.
-
-If the license is uploaded, go to the [Administration](../../../configuration/) chapter to learn how to start KODO for Endpoint server configuration. 
-
-
+Go to the [Initial configuration](../../initial-configuration.md) chapter to start KODO for Endpoints server configuration.
 
