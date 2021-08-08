@@ -27,7 +27,7 @@ To start the installation process, download the EXE or MSI package, and do the f
 
 If you run the EXE installer, the additional window may appear when the required packages have not been installed in the operating system.
 
-![](../../.gitbook/assets/image%20%28159%29.png)
+![](../../.gitbook/assets/image%20%28160%29.png)
 
 2. Wait for the installer to finish \(it can take a few minutes\). 
 

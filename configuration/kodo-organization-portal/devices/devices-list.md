@@ -69,6 +69,12 @@ The restored data will be in the ZIP file format and will be available at the [R
 
 You can also use the **Search Bar** to find a file to restore \(by its name or exetention\) and use the **Point in time** option.
 
+To see the events on the device click the **Device Events** button.
+
+![](../../../.gitbook/assets/image%20%28159%29.png)
+
+
+
 ## Logs option
 
 Using this option you can download the device's logs.  Download the selected log from the available list by clicking on the red download icon.
@@ -101,7 +107,7 @@ Log in to the endpoint, open the KODO user console. There should be a new option
 
 If there's no need to protect the device anymore \(e.g. an employee has left the organization\), it can be switched to the **Archive** mode. The protected files will be recoverable by the organization's administrator. To switch the device to the **Archive** mode, go to the Options menu and select the 
 
-![](../../../.gitbook/assets/image%20%28160%29.png)
+![](../../../.gitbook/assets/image%20%28161%29.png)
 
  Switching the device to the Archive mode is an irreversible operation. 
 
@@ -113,7 +119,9 @@ You can delete the device by selecting **Delete** option from the **Options** me
 
 You can delete multiple devices at the same time. In the **Devices** list .......
 
-* **Device Events** - Device event log.
+\*\*\*\*
+
+**Device Events** - Device event log.
 
 ##  <a id="device-statuses"></a>
 
