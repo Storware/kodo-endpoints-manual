@@ -69,7 +69,7 @@ The restored data will be in the ZIP file format and will be available at the [R
 
 You can also use the **Search Bar** to find a file to restore \(by its name or exetention\) and use the **Point in time** option.
 
-To see the events on the device click the **Device Events** button.
+The organization administrator has access to the events that occurred on the device. To see the events on the device, click the **Device Events** button.
 
 ![](../../../.gitbook/assets/image%20%28159%29.png)
 
@@ -120,8 +120,6 @@ You can delete the device by selecting **Delete** option from the **Options** me
 You can delete multiple devices at the same time. In the **Devices** list .......
 
 \*\*\*\*
-
-**Device Events** - Device event log.
 
 ##  <a id="device-statuses"></a>
 
