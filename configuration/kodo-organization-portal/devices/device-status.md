@@ -1,6 +1,6 @@
 # Device status
 
-Each device registered in the system has a suitable status defining its current state. Possible device status in the system are presented in the table below:
+Each device registered in the system has a suitable status defining its current state. Possible device status in the system is presented in the table below:
 
 <table>
   <thead>
@@ -50,5 +50,5 @@ Each device registered in the system has a suitable status defining its current 
   </tbody>
 </table>
 
-![](../../../.gitbook/assets/image%20%28146%29.png)
+![](../../../.gitbook/assets/image%20%28148%29.png)
 
