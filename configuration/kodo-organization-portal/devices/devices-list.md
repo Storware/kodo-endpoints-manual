@@ -34,7 +34,7 @@ To lock the device and prevent a user from logging in to the system,  you can do
 
 ## Details option
 
-Click the device name in the **Devices** list or select the **Details** from the **Options** menu o display the device details info.
+Click the device name in the **Devices** list or select the **Details** from the **Options** menu to display the device details info.
 
 ![](../../../.gitbook/assets/image%20%28151%29.png)
 
