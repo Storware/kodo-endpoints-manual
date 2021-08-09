@@ -40,10 +40,6 @@ In the **Options** menu, you have the following options to choose from:
 
 ![](../../.gitbook/assets/image%20%28174%29.png)
 
-
-
-
-
 ## LDAP tab
 
 The LDAP configuration is described in [Sync users with LDAP](settings.md) chapter.
@@ -62,7 +58,7 @@ To configure connection LDAP server with KODO Organization Admin Portal, to as f
 
 Provide necessary information:
 
-* **Server URL -** directory server ip or domain address
+* **Server URL -** directory server IP or domain address
 * **Login -** username used for synchronization
 * **Username format -** username and domain format used in LDAP
 * **Search -** directory service search filter
