@@ -1,6 +1,6 @@
 # Devices list view
 
-A list of devices is a collection of all registered and protected devices in the system. When a user first logs in to the system using his username and password or uses the "magic link" and the KODO server properly authorizes it, the user's device will appear on the **Devices** list.
+A list of devices is a collection of all registered and protected devices in the system. When a user first logs in to the system using his local account, LDAP account or the "magic link" and the KODO server properly authorizes him, the user's device will appear on the **Devices** list.
 
 ![](../../../.gitbook/assets/image%20%2847%29.png)
 
@@ -29,7 +29,7 @@ To lock the device and prevent a user from logging in to the system,  you can do
 To lock the device and prevent a user from logging in to the system,  you can do this in two ways:
 
 * Click the device name from the available list, click the drop-down menu button from the **Options** column and select the **Unlock** option.
-* Click on the **Unlock**  button at the right top corner.
+* Click on the **Unlock** button at the right top corner.
 * Click the device name and in the **Device Details** windows click the **Unlock Device** button.
 
 ## Details option

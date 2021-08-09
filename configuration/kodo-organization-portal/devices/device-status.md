@@ -50,5 +50,3 @@ Each device registered in the system has a suitable status defining its current 
   </tbody>
 </table>
 
-![](../../../.gitbook/assets/image%20%28148%29.png)
-
