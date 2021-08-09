@@ -113,11 +113,11 @@ If there's no need to protect the device anymore \(e.g. an employee has left the
 
 ## Delete option
 
-You can delete the device by selecting **Delete** option from the **Options** menu. The device will be permanently deleted for the organization and its protected data too. In the confirmation window you have to type in the device name and click the **Continue** button.
+You can delete the device by selecting the **Delete** option from the **Options** menu. The device will be permanently deleted for the organization and its protected data too. In the confirmation window, type in the device name and click the **Continue** button.
 
 ![](../../../.gitbook/assets/image%20%28145%29.png)
 
-You can delete multiple devices at the same time. In the **Devices** list .......
+
 
 \*\*\*\*
 
