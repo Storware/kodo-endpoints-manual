@@ -2,8 +2,6 @@
 
 In the General tab you have the following option to set:
 
-![](../../../../.gitbook/assets/image%20%2861%29.png)
-
 * **Set as default policy** -Set policy as a default for newly synchronized users
 * **Allow user to modify policy** - User can add new objects to protect - modification will only concern a user device where the modification has been made, server settings will be not changed.
 
@@ -32,8 +30,8 @@ Password requirements for local users accounts:
 
 ## DATA ENCRYPTION SETTINGS <a id="encryption-settings"></a>
 
-* **Show desktop as "Unprotected" after specified period since the last backup \[day\]** - Number of days, without any contact from a desktop device, after which status will be changed to unprotected
-* **Allow users to encrypt their data using their own encryption key** -Allow users to turn on the client-side data encryption. Data are encrypted using a key based on the password provided by a user. Encrypted data can't be restored by the administrator.
+* **Show desktop as "Unprotected" after specified period since the last backup \[day\]** - The number of days, without any contact from a desktop device, after which the status will be changed to unprotected.
+* **Allow users to encrypt their data using their own encryption key** -Allow users to enable client-side data encryption. Data is encrypted using a key based on a password provided by the user. Encrypted data cannot be restored by an administrator.
 
 ![](../../../../.gitbook/assets/policygeneral4.png)
 

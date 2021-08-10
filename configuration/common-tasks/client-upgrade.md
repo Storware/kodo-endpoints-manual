@@ -3,7 +3,7 @@
 If you want to upgrade the KODO client software you have the following options to choose from:
 
 * Using client installer 
-* Using client installer in silent mode
+* Using client installer in the silent mode
 * Using KODO user console upgrade feature
 * Using GPO feature
 
