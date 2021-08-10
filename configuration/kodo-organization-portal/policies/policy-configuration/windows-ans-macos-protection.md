@@ -9,7 +9,7 @@ In this section you can set the following settings:
 * **Limit file size** - limit the size of the protected file \(in MB or GB\)
 * **Limit temp folder size** -limit the size of the KODO temporary folder \(in MB or GB\)
 * **Kodo temporary folder** - set the location on the folder
-* **Force automatic client update** - if the 
+* **Force automatic client update** - if the option is set, the automatic KODO client upgrade will take place during the endpoint reboot. 
 
 ![](../../../../.gitbook/assets/image%20%28176%29.png)
 
