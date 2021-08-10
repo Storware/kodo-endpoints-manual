@@ -16,7 +16,7 @@ The KODO for Endpoints client application has exceptional and unique features th
 * Deduplication and compression on the source \(endpoint\)
 * "Right-click" approach restore for files
 * "Point-in-time" restore
-* Privacy policy, integration with IBM Spectrum Protect server.
+* Privacy policy, integration with the IBM Spectrum Protect server.
 * User data encryption 
 
 

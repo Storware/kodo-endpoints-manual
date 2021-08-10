@@ -12,7 +12,7 @@ Each policy consists of the following configuration tabs:
 
 [**EMAIL CLIENTS**](email-clients-tab.md) - Data Protection settings for MS Outlook and IBM Notes e-mail clients
 
-Go to the next section to get to know how to configure backup policy settings.
+Go to the next sections to get to know how to configure backup policy settings.
 
 
 
