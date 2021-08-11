@@ -17,10 +17,12 @@ In this section you can set the following settings:
 
 In this section you can set the following settings:
 
-* **Limit the maximum bandwidth for KODO client**
+* **Limit the maximum bandwidth for KODO client**  
 * **Client bandwidth modification allowed**
 * **Limit the maximum upload speed**
 * **Limit the maximum download speed**
+
+![](../../../../.gitbook/assets/image%20%28177%29.png)
 
 ## **INCLUDE BACKUP SETTINGS**
 
