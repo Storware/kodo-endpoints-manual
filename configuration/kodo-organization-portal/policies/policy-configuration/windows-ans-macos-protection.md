@@ -26,11 +26,31 @@ In this section you can set the following settings:
 
 ## **INCLUDE BACKUP SETTINGS**
 
-In this section you define directories to be included in the backup policy. To add  
+In this section, you can define directories and extensions to be included in the backup policy. To add a directory to protect, click the **Add include directory** button. 
+
+If you click on the arrow icon to the left of the **Directory** field, you can select a pre-configured directory path, such as:
+
+* User Profile
+* Desktop
+* My Documents
+* All Disks
+* Username
+
+If you click on the arrow icon to the right of the **Directory** field, you can set the **Include subdirectories** option.
 
 ![](../../../../.gitbook/assets/image%20%28173%29.png)
 
-\*\*\*\*
+ ****In the Extensions field, you can select one of the following extension sets:
+
+* Apple iWork documents
+* Office documents
+* Video
+* Music
+* Photo
+* All files
+* Hidden files
+
+At the end, you have to set the time you want to retain the data on the KODO server. Set the retention period in the **Retention** field.
 
 ## **EXCLUDE BACKUP SETTINGS**
 

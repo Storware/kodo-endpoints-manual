@@ -1,7 +1,5 @@
 # Policy configuration
 
-To add a new protection policy, click the **Add policy** button. Enter the name of the new policy in the`Policy name` field, configure the policy according to your requirements and the description in the [Policy configuration](./) chapter. Save the policy by clicking the **Save** button at the bottom of the page.
-
 Each policy consists of the following configuration tabs:
 
 ​[**GENERAL**](general-settings.md) -general settings for the whole policy​
@@ -11,6 +9,8 @@ Each policy consists of the following configuration tabs:
 [**MAC OS \(technical preview\)**](mac-os-technical-preview-tab.md) ****-data protection settings for macOS clients
 
 [**EMAIL CLIENTS**](email-clients-tab.md) - data protection settings for MS Outlook and IBM Notes e-mail clients
+
+To add a new protection policy, click the **Add policy** button. Enter the name of the new policy in the **Policy name** field, configure the policy according to your requirements. Save the policy by clicking the **Save** button at the bottom of the page when finished.
 
 Once you finished the policy configuration, you have to assign users to the policy \(see the[ Policy management](detailed-policy-information.md)\) 
 
