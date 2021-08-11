@@ -55,7 +55,7 @@ The **Search** field allows searching for a user account within the filtered ran
 
 ## Groups
 
-The group resource allows assigning selected users to it and then connect it with a policy.
+The group resource is used to assign selected users to it and then connect it with a policy.
 
 To add a new local group, click the **Add Local Group** button.
 
@@ -64,18 +64,4 @@ To add a new local group, click the **Add Local Group** button.
 In the Create New Group window, enter a group name, choose a policy and assign a user or users to.
 
 Click the **Save** button to create the group. 
-
-![](../../../.gitbook/assets/image%20%2848%29.png)
-
-
-
-Go to the [Devices ](../devices/)chapter to learn how to manage users' devices.
-
-
-
-
-
-
-
- 
 

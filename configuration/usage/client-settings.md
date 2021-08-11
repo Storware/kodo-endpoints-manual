@@ -15,17 +15,15 @@ You can pause KODO for Endpoints client just by clicking "**Enabled**" and selec
 
 ![](../../.gitbook/assets/clientoverwiew.PNG)
 
-I
-
 In the **Backups** view, you can browse and recover protected files and folders. You also have a search window \(upper right corner of the window\) to find files by name or extension \(you can use the asterisk as well\).
 
 ![](../../.gitbook/assets/image%20%28106%29.png)
 
-To display all available file versions click the watch icon in the Versions column.
+To display all available file versions click the watch icon in the **Versions** column.
 
 ![](../../.gitbook/assets/image%20%28100%29.png)
 
-You can also use the time slider and the calendar to go to another "point-in-time" moment to restore the data you need.
+You can also use the time slider and the calendar to go to another "**point-in-time**" moment to restore the data you need.
 
 In the **Settings** view you can set:
 
