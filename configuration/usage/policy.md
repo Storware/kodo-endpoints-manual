@@ -1,6 +1,6 @@
 # Modifying backup policy
 
-If you click the assigned policy name, you can modify the policy from the client console level. If in the policy settings \(at the **General** tab\) the **Allow user to modify policy** option is set to active, then you can choose the applications to be protected \(the extensions for Office, Photos, Music, Video files are included\), the locations \(My Documents and Desktop\) and email client archives \(MS Outlook and IBM Notes\).
+Modification of the policy is possible from the client console by clicking on the name of the assigned policy. If in the policy settings \(under the General tab\) the Allow user to modify policy option is set to active, then you can select the applications that are to be protected \(the extensions for Office, Photos, Music, Video files are included\), the locations \(My Documents and Desktop\) and email client archives \(MS Outlook and IBM Notes\).
 
 ![](../../.gitbook/assets/image%20%2879%29.png)
 
@@ -8,7 +8,7 @@ For quick assigning just click the appropriate document type in the **Applicatio
 
 ![](../../.gitbook/assets/clipolicyset1.PNG)
 
-* Select **My Documents** to add **My Documents** folder and subfolders to backup, i.e. "C:\Users\user\Documents...\"
+* Select **My Documents** to add **My Documents** folder and subfolders to backup, i.e. "C:\Users\user\Documents...\".
 * Select **Office** to add all office type documents \(**\*.doc, \*.docm, \*.docx, \*.dot, \*.pot, \*.potm, \*.potx,  \*.ppam, \*.pps, \*.ppsm, \*.ppsx, \*.ppt, \*.pptm, \*.pptx, \*.sldm, \*.sldx, \*.xla, \*.xlam, \*.xlm, \*.xls, \*.xlsb, \*.xlsm, \*.xlsx, \*.xlt, \*.xltx, \*.xlw** extentions\) on every disk on the endpoint.
 * Select **Desktop** to add the desktop folder and all subfolders located on to backup.
 * Select **Email** to add and schedule mailbox files for backup. **MS Outlook \(**PST format**\)** and **IBM Notes \(**NSF format**\)** are only supported.

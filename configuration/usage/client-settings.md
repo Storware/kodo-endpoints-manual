@@ -27,8 +27,8 @@ You can also use the time slider and the calendar to go to another "**point-in-t
 
 In the **Settings** view you can set:
 
-* **Server**- the IP or the name of the KODO for Endpoint server
-* **Language** - you can choose the language Same as Microsoft Windows, English, Českỳ or Polski.
+* **Server**- the IP or the name of the KODO for Endpoints server
+* **Language** - you can choose the language Same as Microsoft Windows, English, Českỳ, or Polski.
 * **Maximum download speed \(kbps\)** 
 * **Maximal download speed \(kbps\)**
 * **Enable data encryption**- a user can set the password to encrypt backup \(the password will be required during the recovery process\).
@@ -55,7 +55,7 @@ KODO For Endpoints client will not backup zero-size files!
 
 ![](../../.gitbook/assets/restore1.png)
 
-On this tab you can perform a restore of files from previous backups.
+On this tab, you can perform a restore of files from previous backups.
 
 To restore files or files, just select the day and time of backup on the upper left corner
 
@@ -86,25 +86,25 @@ Click the **Done** button to finish. The restore process is finalized.
 
 ## Settings
 
-On the Settings tab you can change server settings, interface language and turn on or off data encryption.
+On the Settings tab, you can change server settings, interface language and turn on or off data encryption.
 
 After changing values just click the **Save** button.
 
 To restore previous values click the **Reset** button.
 
-On this tab you can open thelogs folder for troubleshooting by clicking "_**Open Log folder**_" at the bottom right corner.
+On this tab, you can open the logs folder for troubleshooting by clicking the **Open Log folder** at the bottom right corner.
 
 ![](../../.gitbook/assets/kodosettings.png)
 
 * To enable data encryption just check the box and confirm the warning message.
 
 {% hint style="info" %}
-Enabling or disabling of encryption will erase all previously created backups!
+Enabling or disabling encryption will erase all previously created backups!
 {% endhint %}
 
 ![](../../.gitbook/assets/encrwarning.PNG)
 
-And set encryption password.
+And set an encryption password.
 
 ![](../../.gitbook/assets/encryptpass.PNG)
 

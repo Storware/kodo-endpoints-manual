@@ -17,7 +17,7 @@ To assign users to the policy configuration, do as follow:
 3. Select users by clicking checkboxes on the left side.
 4. Confirm changes by clicking the **Save** button.
 
-![](../../../../.gitbook/assets/image%20%28178%29.png)
+![](../../../../.gitbook/assets/image%20%28179%29.png)
 
 Optionally, you can use the **Search** field to find a user by:
 

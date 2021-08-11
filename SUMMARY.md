@@ -46,6 +46,7 @@
     * [Users](configuration/kodo-organization-portal/users/README.md)
       * [Local users](configuration/kodo-organization-portal/users/add-local-user.md)
       * [LDAP users](configuration/kodo-organization-portal/users/configure-ldap-server-access.md)
+      * [Users list](configuration/kodo-organization-portal/users/users-list.md)
       * [Sync users with LDAP](configuration/kodo-organization-portal/users/sync-users-with-ldap.md)
     * [Devices](configuration/kodo-organization-portal/devices/README.md)
       * [Devices list view](configuration/kodo-organization-portal/devices/devices-list.md)

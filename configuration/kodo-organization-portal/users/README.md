@@ -4,20 +4,6 @@ In the Users view you can find all local users and LDAP users, that are currentl
 
 ![](../../../.gitbook/assets/image%20%2846%29.png)
 
-To add a new local user, click the **Add Local User** button and fill in all required fields:
-
-* Username \(in the e-mail format\) 
-* First name 
-* Last name 
-* Company role 
-* Phone number 
-* Policy  
-* Groups 
-* Password 
-* Confirm Password 
-
-Click the **Save** button to create the user. Check if the user appears on the user list.
-
 In the **Users** view the following options are available. Please refer to them.
 
 ## Deploy Client option
@@ -34,7 +20,7 @@ To unlock the user account, click the **Unlock** button. This option locks the u
 
 ## Delete option
 
-To delete a user account, click the Delete button. This option removes the user account from the KODO server. The user will also be automatically logged out of the KODO client console. If the LDAP user was deleted, the user account will appear again on the user list after the next LDAP user synchronization operation. 
+To delete a user account, click the **Delete** button. This option removes the user account from the KODO server. The user will also be automatically logged out of the KODO client console. If the LDAP user was deleted, the user account will appear again on the user list after the next LDAP user synchronization operation. 
 
 ## Synchronize
 
