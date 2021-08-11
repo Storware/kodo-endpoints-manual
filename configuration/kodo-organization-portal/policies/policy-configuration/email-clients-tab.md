@@ -11,7 +11,7 @@ The KODO for Endpoints server can protect email clients' archive files \(in the 
 
 ## Other
 
-* **Copy data to temporary location before sending**  - set the option if you want to copy the email archive file to the temporary location \(to the **C:\KodoTemp** folder by default\) before sending the data to the IBM Spectrum Protect server
+* **Copy data to a temporary location before sending**  - set the option if you want to copy the email archive file to the temporary location \(to the **C:\KodoTemp** folder by default\) before sending the data to the IBM Spectrum Protect server
 
 ![](../../../../.gitbook/assets/image%20%28171%29.png)
 

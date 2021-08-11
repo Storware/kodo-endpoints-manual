@@ -8,17 +8,20 @@ To edit the policy configuration, do as follow:
 2. Edit the policy.
 3. Edit selected options and confirm your changes by clicking the **Save** button.
 
-## Assign users to policy
+## Assign users to a policy
 
-1. Go to the list of policies. Select `Policies` from main menu
-2. Click on the name of the policy you want to edit
-3. Click the **Manage users** button.
-4. Assign users to policy by clicking checkboxes on left side.
-5. Confirm changes by clicking the **Save** button.
+To assign users to the policy configuration, do as follow:
 
-## 
+1. Click on the name of the policy you want to assign users to. 
+2. Click the **Manage users** button.
+3. Select users by clicking checkboxes on the left side.
+4. Confirm changes by clicking the **Save** button.
 
-## 
+![](../../../../.gitbook/assets/image%20%28178%29.png)
 
-## 
+Optionally, you can use the **Search** field to find a user by:
+
+* his name
+* his email address
+* the policy he is currently assigned to
 
