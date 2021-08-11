@@ -9,7 +9,7 @@ In the **Settings** view, you can configure the main organization settings.
 This section allows you to configure reports about space usage and device activity
 
 **Send reports every \(days\)**  
-The interval with which the reports are sent
+The interval with which the reports are sent.
 
 **Send reports to emails**  
 The email addresses to which the report should be sent. Multiple email addresses can be provided \(comma separated\).
@@ -20,7 +20,7 @@ Time at which the report should be sent.
 **Unprotected devices notification time**  
 Time at which the report should be sent.
 
-Confirm the settings with the **Save** button.
+Confirm and save the settings with the **Save** button.
 
 ## Administrators tab
 
@@ -55,13 +55,11 @@ To configure connection LDAP server with KODO Organization Admin Portal, to as f
 1. Enter the LDAP server name or IP address.
 2. Enter the login \(the user name in the format i.e.: username@domainname\)
 3. Choose the username format
-4. Set the **Search**
-5. Set the **Group filter**
+4. Set the **Search** \(directory service search filter\)
+5. Set the **Group filter** \(LDAP group filter\)
 6. Optionally, you can check the **User filter as a whole query** option.
 
 ![](../../.gitbook/assets/ldapset.png)
-
-
 
 Provide necessary information:
 
@@ -71,15 +69,11 @@ Provide necessary information:
 * **Search -** directory service search filter
 * **Group filter -** LDAP group filter
 
-
-
 {% hint style="warning" %}
-If you configuring synchronization for the first time before clicking the ![](../../.gitbook/assets/savebuttonsmall.png) button fill the LDAP user password fields.
+If you configuring synchronization for the first time before clicking the **Save** button fill the LDAP user password fields.
 {% endhint %}
 
-Click on the button to confirm your changes.
-
-![](../../.gitbook/assets/image%20%28164%29.png)
+Click on the **Save** button to confirm your changes.
 
 ## User Synchroziation tab
 

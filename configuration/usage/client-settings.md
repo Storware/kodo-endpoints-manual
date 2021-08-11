@@ -73,20 +73,18 @@ If there is a conflict with an existing file, you can choose a restoring action:
 
 ![](../../.gitbook/assets/actionrestore.png)
 
-* _**Overwrite**_ - to overwrite all existing files that conflict with restore
-* _**Skip**_ ****- to skip restore of all conflicting files
-* _**Decide for each file**_ - decide what to do on every restored file
-* _**Cancel**_ - for cancel operation.
+* **Overwrite** - to overwrite all existing files that conflict with restore
+* **Skip** - to skip restore of all conflicting files
+* **Decide for each file** - decide what to do on every restored file
+* **Cancel** - for cancel operation.
 
 ![](../../.gitbook/assets/restoring.png)
 
 The operation may be canceled by clicking the **Cancel** button.
 
-Click the **Done** button to finish.
+Click the **Done** button to finish. The restore process is finalized.
 
 ![](../../.gitbook/assets/done.png)
-
-The restore process is finalized.
 
 ## Settings
 
@@ -96,7 +94,7 @@ After changing values just click the **Save** button.
 
 To restore previous values click the **Reset** button.
 
-On this tab you can open thelogs folder for troubleshooting by clicking "_Open Log folder_" on bottom right corner.
+On this tab you can open thelogs folder for troubleshooting by clicking "_**Open Log folder**_" at the bottom right corner.
 
 ![](../../.gitbook/assets/kodosettings.png)
 

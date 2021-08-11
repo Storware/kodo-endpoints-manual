@@ -10,3 +10,7 @@ The **SEND**  status indicates, that the KODO client has not been installed yet.
 
 In this view, you can also download the current KODO client installer and the installer with the user token \(by clicking the red download icon\).
 
+You can use the Search bar to find a user by his email address.
+
+
+
