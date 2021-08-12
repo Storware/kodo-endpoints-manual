@@ -56,7 +56,6 @@ To configure connection LDAP server with KODO Organization Admin Portal, to as f
 2. Enter the login \(the user name in the format i.e.: username@domainname\)
 3. Choose the username format
 4. Set the **Search** option ****\(directory service search filter\) in the format: ou=X,dc=X, dc=X, where:
-   * `CN` = Common Name
    * `OU` = Organizational Unit
    * `DC` = Domain Component
 5. Set the **Group filter** option \(LDAP group filter\) in the format: memberOf=cn=X,ou=X,ou=X, dc=X dc=X, where: 
@@ -66,14 +65,6 @@ To configure connection LDAP server with KODO Organization Admin Portal, to as f
 6. Optionally, you can check the **User filter as a whole query** option.
 
 ![](../../.gitbook/assets/ldapset.png)
-
-Provide necessary information:
-
-* **Server URL -** directory server IP or domain address
-* **Login -** username used for synchronization
-* **Username format -** username and domain format used in LDAP
-* **Search -** directory service search filter
-* **Group filter -** LDAP group filter
 
 {% hint style="warning" %}
 If you configuring synchronization for the first time before clicking the **Save** button fill the LDAP user password fields.
@@ -99,22 +90,22 @@ Every how many minutes automatic users synchronization will be performed.
 
 ## NOTIFICATIONS
 
-Here you can configure support for users SMS notification about unprotected devices.
+Here you can configure support for users SMS notifications about unprotected devices.
 
 **SMS Notification Provider**  
-Here you can choose communication way with your SMS gateway. At this moment only e-mail communication is supported.
+Here you can choose a communication way with your SMS gateway. At this moment only e-mail communication is supported.
 
-**Phone number digits to include in notifcation address \(from end\)**  
-Phone number is taken from user profile \(_TELEPHONE_ field\). Here you can configure how many digits, counting from the end, should be used to create e-mail message template. Use "0" digit to not trim phone numer at all.
+**Phone number digits to include in notification address \(from the end\)**  
+Phone number is taken from user profile \(_TELEPHONE_ field\). Here you can configure how many digits, counting from the end, should be used to create an e-mail message template. Use "**0**" digit to not trim the phone number at all.
 
 **Address Construction Template**  
-User variables to build "from" template e-mail address that will be used to communicate with SMS gateway. You can use following variables:
+User variables to build "from" template e-mail address that will be used to communicate with SMS gateway. You can use the following variables:
 
 * **%PHONE%** - user phone number will be used instead
 
 Example:  
 _Address Construction Template: %PHONE%@example-sms-gateway.com  
-E-mail from address: 123420123@example-sms-gateway.com_
+E-mail from the address: 123420123@example-sms-gateway.com_
 
 ## 
 
