@@ -1,4 +1,4 @@
-# Upgrade KODO for Endpoints server
+# Server upgrade
 
 When the new KODO for Endpoints server upgrade package is available it is uploaded to the Storware repository server \(`http://repo.storware.eu/kodo-endpoints`\). 
 

@@ -6,5 +6,7 @@ Based on the best practices it's recomended to performed periodic operating syst
 # dnf -y update
 ```
 
+It's recommended to reboot the server after the upgrade is finished.
+
 
 

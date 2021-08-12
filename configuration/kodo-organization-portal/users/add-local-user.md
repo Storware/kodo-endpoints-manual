@@ -1,19 +1,5 @@
 # Local users
 
-To add a new local user, click the **Add Local User** button and fill in all required fields:
-
-* Username \(in the e-mail format\) 
-* First name 
-* Last name 
-* Company role 
-* Phone number 
-* Policy  
-* Groups 
-* Password 
-* Confirm Password 
-
-
-
 ## Adding a local user account
 
 To add a new local user, to the following steps:

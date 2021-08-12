@@ -23,6 +23,12 @@ To do the KODO client upgrade using the KODO client installer, do as follow:
 
 ## Upgrade using client installer in the silent mode
 
+## Upgrade using GPO
+
+
+
+
+
 
 
 
