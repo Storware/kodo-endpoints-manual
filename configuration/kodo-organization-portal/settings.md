@@ -42,7 +42,7 @@ In the **Options** menu, you have the following options to choose from:
 
 ## LDAP tab
 
-The LDAP configuration is described in [Sync users with LDAP](settings.md) chapter.
+The LDAP configuration is described in the [Sync users with LDAP](settings.md) chapter.
 
 Before you begin the LDAP server configuration with KODO Organization Admin Portal, on the LDAP server you have to prepare the following resources:
 
@@ -90,7 +90,7 @@ Every how many minutes automatic users synchronization will be performed.
 
 ## NOTIFICATIONS
 
-Here you can configure support for users SMS notifications about unprotected devices.
+Here you can configure support for users' SMS notifications about unprotected devices.
 
 **SMS Notification Provider**  
 Here you can choose a communication way with your SMS gateway. At this moment only e-mail communication is supported.
@@ -99,7 +99,7 @@ Here you can choose a communication way with your SMS gateway. At this moment on
 Phone number is taken from user profile \(_TELEPHONE_ field\). Here you can configure how many digits, counting from the end, should be used to create an e-mail message template. Use "**0**" digit to not trim the phone number at all.
 
 **Address Construction Template**  
-User variables to build "from" template e-mail address that will be used to communicate with SMS gateway. You can use the following variables:
+User variables to build "**from**" template e-mail address that will be used to communicate with SMS gateway. You can use the following variables:
 
 * **%PHONE%** - user phone number will be used instead
 

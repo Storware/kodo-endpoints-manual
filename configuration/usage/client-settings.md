@@ -1,5 +1,10 @@
 # Client console menu
 
+The KODO client console can be run by a user in two ways: 
+
+* by clicking the KODO ikon on the user's desktop \(or from the Windows Start menu: Start-&gt;Storware-&gt;Kodo\)
+* from the context menu \(right mouse button anywhere on the desktop and choose KODO\)
+
 ## Overview
 
 In the **Overview** view, the basic information about client settings and backup status is displayed:
@@ -7,7 +12,7 @@ In the **Overview** view, the basic information about client settings and backup
 1. Protection status and last backup \(synchronization\) time.
 2. Assigned policy.
 3. Continuous Data protection status.
-4. The size of the backup data protected to date.
+4. The size of the data that is currently protected in the backup.
 
 {% hint style="info" %}
 You can pause KODO for Endpoints client just by clicking "**Enabled**" and select one from the available options \(15 minutes, 1 hour, 4 hours, or until the next restart\).
