@@ -47,7 +47,7 @@ The LDAP configuration is described in [Sync users with LDAP](settings.md) chapt
 Before you begin the LDAP server configuration with KODO Organization Admin Portal, on the LDAP server you have to prepare the following resources:
 
 1. A user group \(you can name it e.g: **KODO** to be easy associated with the KODO for Endpoints server.
-2. Create a user account \(or use the one you have, the account does not need to have any special privileges\)
+2. Create a user account \(or use the one you have on your LDAP server, the account does not need to have any special privileges\)
 3. Assign the users to the group you've created.
 
 To configure connection LDAP server with KODO Organization Admin Portal, to as follow:
@@ -55,8 +55,14 @@ To configure connection LDAP server with KODO Organization Admin Portal, to as f
 1. Enter the LDAP server name or IP address.
 2. Enter the login \(the user name in the format i.e.: username@domainname\)
 3. Choose the username format
-4. Set the **Search** \(directory service search filter\)
-5. Set the **Group filter** \(LDAP group filter\)
+4. Set the **Search** option ****\(directory service search filter\) in the format: ou=X,dc=X, dc=X, where:
+   * `CN` = Common Name
+   * `OU` = Organizational Unit
+   * `DC` = Domain Component
+5. Set the **Group filter** option \(LDAP group filter\) in the format: memberOf=cn=X,ou=X,ou=X, dc=X dc=X, where: 
+   * `CN` = Common Name
+   * `OU` = Organizational Unit
+   * `DC` = Domain Component
 6. Optionally, you can check the **User filter as a whole query** option.
 
 ![](../../.gitbook/assets/ldapset.png)

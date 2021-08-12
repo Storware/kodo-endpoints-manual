@@ -14,7 +14,7 @@ From this dashboard you can obtain the following information:
 * Protected users count \(total, locked, local, and LDAP users\)
 
 {% hint style="info" %}
-Check the box beside the Backup or the Restore option to see only the data transfer for a particular one.
+Check the box next to Backup or Restore to see only the data transfer for that option.
 {% endhint %}
 
 Go to the [Deployment](../../deployment/) chapter to learn more about the menu option.

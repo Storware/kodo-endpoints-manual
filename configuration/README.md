@@ -7,35 +7,19 @@ In the next chapters, you'll find information about each of the level portals i.
 * \_\_[_Admin Portal_](kodo-admin-portal/)\_\_
 * \_\_[_Organization Portal_](kodo-organization-portal/)\_\_
 
-
-
 _What's next_
 
-Administration levels
+[_Admin Portal_](kodo-admin-portal/)\_\_
 
-Admin Portal
+\_\_[_Organization Portal_](kodo-organization-portal/)\_\_
 
-Organization Porta
+\_\_[_Endpoint client_](usage/)\_\_
 
-_What's next_
+[Disaster recovery](disaster-recovery.md)
 
-_Administration levels_
+[Common tasks](../deployment/common-tasks/)
 
-[_Admin Portal_](kodo-admin-portal/)
-
-[O](../deployment/virtual-appliance-vmware/)rganization Portal
-
-Endpoint client
-
-Data 
-
-[Installation with RPMs](../deployment/installation-with-rpm-packages.md)
-
-[IBM Spectrum Protect server configuration](../deployment/spectrum-protect-tsm-configuration.md)
-
-[Initial configuration](../deployment/initial-configuration.md)
-
-[Client deployment](../deployment/deployments/)
+\_\_
 
 
 
