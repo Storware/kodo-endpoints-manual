@@ -1,4 +1,4 @@
-# Client components
+# Client application components
 
 Once the KODO client software was installed, there are some changes made on the user's endpoint. Three application folders are created and the service handling continuous data protection.
 

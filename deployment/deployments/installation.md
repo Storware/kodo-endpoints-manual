@@ -2,8 +2,8 @@
 
 A user can use the KODO client console to connect to the KODO server using:
 
-* domain user account
-* local user account 
+* Domain user account
+* Local user account 
 * KODO "magic link" 
 
 ## **Domain user account**

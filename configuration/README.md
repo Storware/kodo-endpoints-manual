@@ -1,11 +1,11 @@
 # Administration
 
-You can administer KODO for Endpoints just from a web browser by logging in to the proper administration level. It can be either KODO administration level or Organization level.
+You can administer KODO for Endpoints just from a web browser by logging in to the proper administration level. It can be either KODO Admin or Organization Admin level.
 
-In the next chapters, you'll find information about each of the level portals e.i:
+In the next chapters, you'll find information about each of the level portals i.e.:
 
-* [_KODO_](kodo-admin-portal/)
-* [_KODO Organization Portal_](kodo-organization-portal/)
+* \_\_[_Admin Portal_](kodo-admin-portal/)\_\_
+* \_\_[_Organization Portal_](kodo-organization-portal/)\_\_
 
 
 

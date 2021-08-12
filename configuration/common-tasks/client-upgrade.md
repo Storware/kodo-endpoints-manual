@@ -23,7 +23,17 @@ To do the KODO client upgrade using the KODO client installer, do as follow:
 
 ## Upgrade using client installer in the silent mode
 
+You can upgrade KODO for Endpoints client in silent mode. To do that, follow the steps below:
+
+1. Download the KODO client installer and copy it to the endpoint you want to install the software.
+2. Run the command line prompt as the administrator and go to the folder the installer has been copied. 
+3. Type in the command: **msiexec /i KodoDesktop\_Windows\_x64.msi /quiet** and wait a few minutes.
+
+![](../../.gitbook/assets/image%20%28140%29.png)
+
 ## Upgrade using GPO
+
+
 
 
 

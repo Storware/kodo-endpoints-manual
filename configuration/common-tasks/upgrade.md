@@ -39,7 +39,7 @@ To do the KODO server upgrade, do the following steps:
        $ cd /opt/storware/kodo-server/api-core/bin/
       ```
 
-   3. Execute the script stop.sh and then start.sh. You can also check the server status:
+   3. Execute the script `stop.sh` and then `start.sh`. You can also check the server status:
 
       ```
       $ ./stop.sh
@@ -49,5 +49,5 @@ To do the KODO server upgrade, do the following steps:
       $./status.sh
       API (pid:1373) running.
       ```
-7. Now you can log in again to the KODO for Endpoint UI.
+7. Now you can log in again to the KODO for Endpoint UI. 
 
