@@ -10,8 +10,8 @@
 
 ### KODO Server:
 
-* `${postUrl}` - \(string\) url to use with password form
-* `wrongPassword` - \(boolean\) true if wrong password has been submited
+* `${postUrl}` - \(string\) URLurl to use with password form
+* `wrongPassword` - \(boolean\) true if the wrong password has been submitted
 
 ## **Default template:**
 

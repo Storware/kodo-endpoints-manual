@@ -1,12 +1,12 @@
 # Portal branding
 
-KODO will look for logo files that should be used in following path:
+KODO will look for logo files that should be used in the following path:
 
 ```text
 /opt/StorwareData/static/public/logo
 ```
 
-If specific graphic files will not be found, default logo will be used.
+If specific graphic files will not be found, the default logo will be used.
 
 ## You can upload the following logos:
 

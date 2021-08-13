@@ -3,7 +3,7 @@
 ## **Template file:**
 
 ```bash
-/opt/StorwareData/templates/unprotectedDevices/template.ftl
+cd template.ftl
 ```
 
 ## **Available placeholders:**

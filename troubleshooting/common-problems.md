@@ -22,7 +22,7 @@ Check if the firewall \(global/on workstation/on the server\) doesn't block conn
 API (pid:1618) running.
 ```
 
-### Check the KODO serve
+### Check the KODO server version
 
 You can check this using a web browser, provide the KODO server IP address test connection:  
 `https://kodoserver_IP:8181/api/version`

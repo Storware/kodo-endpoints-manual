@@ -91,6 +91,8 @@
   * [kodo-for-endpoints service management](troubleshooting/kodo-for-endpoints-service-management.md)
   * [Collecting logs](troubleshooting/collecting-logs.md)
 * [Left Overs](left-overs/README.md)
+  * [Server deployment options](left-overs/kodo-server-configurations.md)
+  * [Getting started](left-overs/getting-started.md)
   * [Log in to system as KODO administrator](left-overs/log-in-to-system-as-kodo-administrator.md)
   * [Users management](left-overs/users-management/README.md)
     * [Local users](left-overs/users-management/local-users.md)
@@ -103,7 +105,5 @@
   * [Detailed device information](left-overs/detailed-device-information.md)
   * [Difference between MSI and EXE installers](left-overs/difference-between-msi-and-exe-installers.md)
   * [Managing KODO instance with administrative portal](left-overs/managing-kodo-instance-with-administrative-portal.md)
-* [Server deployment options](kodo-server-configurations.md)
-* [Getting started](getting-started.md)
 * [Known software issues and limitations](known-software-issues-and-limitations.md)
 

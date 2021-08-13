@@ -4,7 +4,7 @@ Before you start to install KODO for Endpoints server, go to the [Architecture](
 
 In the [Main features](main-features.md) chapter, you will find information about KODO features and properties, that enable users to protect and recover their data in a very efficient, convenient, and fast way. 
 
-In the [KODO server configuration options](../kodo-server-configurations.md) chapter are located possible server configurations in which the server can be installed and configured.
+In the [KODO server configuration options](../left-overs/kodo-server-configurations.md) chapter are located possible server configurations in which the server can be installed and configured.
 
 Let's start the journey. 
 
