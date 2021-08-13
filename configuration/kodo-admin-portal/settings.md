@@ -10,7 +10,9 @@ This section allows you to configure the deployment server name and also enter t
 
 ![](../../.gitbook/assets/image%20%2844%29.png)
 
-_The deployment link will be sent in the format:_ [https://deployment.server.name/TOKEN](https://deployment.server.name/TOKEN)
+{% hint style="info" %}
+The deployment link will be sent in the format: [https://deployment.server.name/TOKEN](https://deployment.server.name/TOKEN)
+{% endhint %}
 
 Confirm the settings with the **Save** button
 
@@ -30,7 +32,7 @@ To set up an **e-mail** server:
       * **Port** - port of the e-mail server
       * **Use SSL** - check it  "**on**" if SSL communication is required
       * **SSL Port** - TCP Port number used by the SSL SMTP server
-      * **Require Authentication** - set to “on” if the server requires authentication
+      * **Require Authentication** - set to “**on**” if the server requires authentication
 
    ![](../../.gitbook/assets/wert.png) 
 
@@ -84,9 +86,7 @@ If you already have a valid certificate file please follow the steps:
 
 ### License tab
 
-After installation or virtual appliance deployment, KODO Server is running in TRIAL mode for 30 days. After that time you need to provide a valid license key.
-
-To get a license key please contact our [Storware sales team](mailto:globalsales@storware.eu).
+After installation or virtual appliance deployment, KODO Server is running in TRIAL mode for 30 days. After that time you need to provide a valid license key. __To get a license key please contact our [Storware sales team](mailto:globalsales@storware.eu).
 
 If you already have a valid license key please follow the steps:
 

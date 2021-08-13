@@ -17,7 +17,7 @@ You can obtain the following information from the dashboard:
 Check the box beside the Backup or the Restore option to see only the data transfer for a particular one.
 {% endhint %}
 
-There is the **Search** field at the top-right. You can use it to search for system assets at the following resources:
+There is the **Search** field at the top-right window corner. You can use it to search for system assets of the following resources:
 
 * Users
 * User groups
@@ -28,9 +28,7 @@ There is the **Search** field at the top-right. You can use it to search for sys
 
 Click any resource to be redirected to it.
 
-You can also use the icons beside the **Search** button to be redirected to the product website, support website or product documentation at the Gitbook website.
+You can also use the icons beside the **Search** button to be redirected to the product website, support website, or product documentation at the Gitbook website.
 
-![](../../.gitbook/assets/image%20%2852%29.png)
 
-Go to the [Users ](users/)chapter to learn more about the menu option.
 

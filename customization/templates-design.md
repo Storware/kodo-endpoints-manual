@@ -40,7 +40,7 @@ Example:
 ```markup
 <html>
   <body>
-    <p>Welcome ${user.username}. Thankk you for using KODO!<p>
+    <p>Welcome ${user.username}. Thank you for using KODO!<p>
     <#if links.downloadAndroid??>
       <p>Click <a href="${links.downloadAndroid}">HERE</a> to download KODO Android client</p>
     </#if>

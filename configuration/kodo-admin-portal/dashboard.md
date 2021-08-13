@@ -10,7 +10,7 @@ From this dashboard you can obtain the following information:
 * Devices protection overview \(the overall success ratio\)
 * Server information and license overview \( the server uptime, license status, license usage\)
 * Protected platforms 
-* Protected data information \(total protected files, total protected data, average protected files and data\)
+* Protected data information \(total protected files, total protected data, average protected files, and data\)
 * Protected users count \(total, locked, local, and LDAP users\)
 
 {% hint style="info" %}

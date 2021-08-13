@@ -2,7 +2,7 @@
 
 Logging in with `kodoadmin` credentials you will log in to KODO Admin Portal. This is a place, where you can configure global server settings, add new administrators and KODO organizations but also manage KODO client deployment packages.
 
-If you log in as the `kodoadmin` the following pane menu is available :
+If you log in as the `kodoadmin` user the following pane menu is available :
 
 * [_**Dashboard**_](dashboard.md) - allows checking overall KODO server statistics.
 * [_**Deployment**_](deployment.md) - allows to check, upload, set, and delete deployment packages for clients.

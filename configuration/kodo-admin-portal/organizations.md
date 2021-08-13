@@ -16,13 +16,13 @@ Edit Organization data allows you to set additional settings:
 
 * **ORGANIZATION DETAILS**
 
-In this section you can change the organization name and the number of licensed devices or users.
+In this section, you can change the organization name and the number of licensed devices or users.
 
 ![](../../.gitbook/assets/orgdetails.png)
 
 * **GENERAL SETTINGS**
 
-In the General Settings section you can enable/disable direct connection from the client. It is turned off by default.
+In the General Settings section, you can enable/disable direct connection from the client. It is turned off by default.
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
@@ -34,11 +34,11 @@ In the General Settings section you can enable/disable direct connection from th
 
 ![](../../.gitbook/assets/orgserviceprov.png)
 
-After modification of any of the previous fields just click ![](../../.gitbook/assets/savebuttongreen.png) or ![](../../.gitbook/assets/backbutton.png) for discard any changes.
+After modification of any of the previous fields just click the **Save** to confirm or **Cancel** button to discard any changes.
 
 ## Delete Organization
 
-To delete an organization just choose the **Delete** from the Options menu and confirm the operation: 
+To delete an organization just choose one and click the **Delete** button in the top right window corner or select the **Delete** from the **Options** menu and confirm the operation: 
 
 ![](../../.gitbook/assets/image%20%2823%29.png)
 

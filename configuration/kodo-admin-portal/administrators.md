@@ -1,8 +1,8 @@
 # Administrators
 
-There are two tabs available in the **Administrators** section:  _**Kodo Portal Administrators**_ and _**Kodo Organization Administrators.**_
+There are two tabs available in the **Administrators** section:  Kodo Portal Administrators and **Kodo Organization Administrators**_**.**_
 
-In the _**Kodo Portal Administrators**_ tab you have the following options available:
+In the **Kodo Portal Administrators** tab you have the following options available:
 
 * Add Administrator 
 * Reset password 
@@ -12,7 +12,7 @@ In the _**Kodo Portal Administrators**_ tab you have the following options avail
 
 ## **Add administrator**
 
-To add a new administrator, click **Add Administrator** button and fill in the required fields
+To add a new administrator, click the **Add Administrator** button and fill in the required fields
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
 
@@ -39,11 +39,11 @@ To reset the password for the organization administrator just click the drop-dow
 
 Click the **Save** button to finish or the Cancel to dismiss.
 
-Another way to change the password is **Reset and email password** for automatic password generation. The generated password will be sent to the email provided for the account.
+Another way to change the password is to click the **Reset and email password** option for automatic password generation. The generated password will be sent to the email provided for the account.
 
 ![](../../.gitbook/assets/changepass2.png)
 
-Click **Yes** to reset or **No** to cancel the operation.
+Click **Yes** to reset and send or **No** to cancel the operation.
 
 Go to the [Organization](organizations.md) chapter to learn more about KODO organizations.
 
