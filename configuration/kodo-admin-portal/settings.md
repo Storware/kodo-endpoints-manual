@@ -16,7 +16,7 @@ Confirm the settings with the **Save** button
 
 ### Email tab
 
-In this section, you can configure access to SMPT as a relay to send e-mail messages from KODO server to the defined recepients.
+In this section, you can configure access to SMPT as a relay to send e-mail messages from the KODO server to the defined recipients.
 
 To set up an **e-mail** server:
 
@@ -101,7 +101,7 @@ If you already have a valid license key please follow the steps:
 In this tab, you can set all parameters for KODO for Endpoints server logs.
 
 1. Click the **Settings** menu. 
-2. Provide max number of log files, log level, max size of a single file, and set retention period in days.
+2. Provide max number of log files, log level \(TRACE, DEBUG, INFO\), max size of a single file, and set retention period in days.
 3. Click the  **Save** to apply changes.
 
 ![](../../.gitbook/assets/logs.png)

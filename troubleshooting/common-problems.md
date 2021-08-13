@@ -2,27 +2,43 @@
 
 ## Server communication error
 
-Check if components is working.
+If there is a server connection problem, please check the server status. 
 
-You can check status using this command:  
-`/opt/storware/kodo-server/api-core/bin/status.sh`
+Log in as the `kodo` user and execute the following command:
 
-### Check if firewall doesn't block connections
+```text
+[kodo@kodoserver]$ /opt/storware/kodo-server/api-core/bin/status.sh
+API (pid:1618) running.
+```
 
-Check if firewall \(global/on workstation/on server\) doesn't block connections to api-core component, default port: 8181.
+### Check if the firewall doesn't block connections
 
-### Check if workstation has connection to address configured in Web Admin UI component
+Check if the firewall \(global/on workstation/on the server\) doesn't block connections to the api-core component, default port: 8181.
 
-Check if workstation used to connect with portal has access to address \(IP or FQDN\) configured in `/opt/storware/kodo-server/web-admin-ui/conf/env.json` file.
 
-You can check this usgin a web browser, provide api-core component address to test connection:  
-`https://api-core-address:8181/api/version`
 
-Version of installed component should be displayed.
+```text
+[kodo@kodoserver]$ /opt/storware/kodo-server/api-core/bin/status.sh
+API (pid:1618) running.
+```
 
-![Version of installed api-core component](../.gitbook/assets/apiversion.png)
+### Check the KODO serve
+
+You can check this using a web browser, provide the KODO server IP address test connection:  
+`https://kodoserver_IP:8181/api/version`
+
+A version of the installed KODO server should be displayed.
+
+![](../.gitbook/assets/image%20%28182%29.png)
+
+YOu can also check the installed server version using the following command
+
+```text
+[kodo@kodoserver]$ curl -k https://localhost:8181/api/version
+{"value":"4.1.2-ec10373"}
+```
 
 ## Support contact - when something went wrong
 
-In case of any installation problems please contact with [Storware Support Team](mailto:support@storware.eu) or one of our local [partners](https://storware.eu/en/partners/).
+In case of any installation problems please contact with [Storware Support Team](mailto:support@storware.eu).
 
