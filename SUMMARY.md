@@ -86,7 +86,6 @@
   * [E-mail template for test message](customization/e-mail-template-for-test-message.md)
   * [WWW page for downloading file from password protected link](customization/www-page-for-downloading-file-from-password-protected-link.md)
   * [Portal branding](customization/portal-branding.md)
-* [Untitled](untitled.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Common problems](troubleshooting/common-problems.md)
   * [kodo-for-endpoints service management](troubleshooting/kodo-for-endpoints-service-management.md)
