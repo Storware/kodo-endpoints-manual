@@ -36,7 +36,7 @@ Optionally, check the **Remember me** option \(the user password will be saved\)
 
 ## **Magic Link**
 
-If an organization administrator has sent a deployment email, it contains a "magic link" shortcut with which a user \(local or domain\) can be authorized on the KODO server. The user should click the "magic link" to be automatically logged in to the KODO server.
+If an organization administrator has sent a deployment email, it contains a "magic link" shortcut with which a user \(local or domain\) can be authorized on the KODO server. The user should click the "magic link" to be automatically logged in to the KODO server. After 
 
 {% hint style="info" %}
 After installation and successful login, the process of securing files in the selected locations will start automatically according to the assigned policy.

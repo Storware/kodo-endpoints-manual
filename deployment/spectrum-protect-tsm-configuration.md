@@ -7,7 +7,7 @@ description: >-
 
 # IBM Spectrum Protect server configuration
 
-KODO for Endpoints server is using the enterprise IBM Spectrum Protect server as the backup provider. Prior to use, it requires an additional configuration. Create it in accordance with this guideline.
+KODO for Endpoints server is using the enterprise IBM Spectrum Protect server as the backup provider. Prior to use it requires an additional configuration. Create it in accordance with this guideline.
 
 ## Creating domain, policy, and management class
 

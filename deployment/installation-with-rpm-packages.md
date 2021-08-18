@@ -46,10 +46,6 @@ description: The RPM packages are suitable for installation on Red Hat and CentO
    gpgcheck=1
    ```
 
-{% hint style="warning" %}
-The only supported MariaDB database versions are 10.3 and 10.4. Do not generate `.repo` file for version 10.5.
-{% endhint %}
-
 ## KODO for Endpoints server installation
 
 KODO for Endpoints server consists of a server \(central management point with WebUI and MariaDB database\). To install the server components, do the following steps:
@@ -79,7 +75,7 @@ The installation should be finished with the "**Complete**!" message.
 
 ## KODO server initialization
 
-Once the KODO for Endpoints server is installed, you have to perform the server initialization. Before you start, make sure the MariaDB database service is running.
+Once the KODO for Endpoints server is installed, you have to perform the server initialization. Before you start, make sure the MariaDB database service is running. Execute the following command:
 
 ```text
 # systemctl status mariadb
@@ -139,7 +135,7 @@ Start KODO server with: systemctl start kodo-for-endpoints
 [root@localhost ~]#
 ```
 
-The KODO server initialization script creates the **kodo-for-endpoints** service, which is the main server process. To start the **kodo-for-endpoints** service, execute the :
+The KODO server initialization script creates the **kodo-for-endpoints** service, which is the main server process. To start the **kodo-for-endpoints** service, execute the following command:
 
 ```text
 # systemctl start kodo-for-endpoints

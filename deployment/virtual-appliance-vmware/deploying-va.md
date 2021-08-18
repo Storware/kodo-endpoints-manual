@@ -36,15 +36,15 @@ To deploy KODO for Endpoints server from the OVA file at your virtual environmen
 
 ![](../../.gitbook/assets/image%20%2870%29.png)
 
-4. Select a compute resource.
+4. Select a compute resource
 
 ![](../../.gitbook/assets/image%20%2866%29.png)
 
-5. Review details.
+5. Review details
 
 ![](../../.gitbook/assets/image%20%2876%29.png)
 
-6. Select storage.
+6. Select storage
 
 7.Select networks. If you would like to synchronize AD/LDAP server users, then the network should have access to your local AD/LDAP server.
 
@@ -57,4 +57,6 @@ To deploy KODO for Endpoints server from the OVA file at your virtual environmen
 8. When the server is deployed, you can power it on. 
 
 If you've deployed the **KODO for Endpoint Gateway** server, after the deployment process you have to go to the  [IBM Spectrum Protect server configuration](../spectrum-protect-tsm-configuration.md) section to connect the IBM Spectrum Protect server to the server.
+
+Go to the [Configuring VA](configuring-va/) chapter to learn how to configure KODO for Endpoints server.
 
