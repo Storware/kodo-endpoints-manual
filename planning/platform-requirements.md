@@ -15,7 +15,7 @@ KODO for Endpoints server can be deployed on the following operating systems:
 
 * Linux CentOS 7.x \(Core\)
 * Linux CentOS 8.x \(Core\)
-* Linux CentOS Stream \(Core\)
+* Linux CentOS Stream 
 * Red Hat Enterprise Linux 7**.**x \(Core\)
 * Red Hat Enterprise Linux 8.x \(Core\)
 

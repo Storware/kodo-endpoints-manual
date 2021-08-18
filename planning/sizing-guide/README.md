@@ -1,7 +1,5 @@
 # Sizing Guide
 
-There are two types of people: those who are doing backups, and those who will be doing them. But just **doing** backups is not everything. To avoid unnecessary surprises the best strategy is to **plan** your backup environment/procedure **before implementing** it. In this section, we've collected guides that you may find useful as you think about your KODO for Endpoints implementation.
-
 The sizing guide describes requirements for a virtual or physical machine to install KODO for Endpoints server with IBM Spectrum Protect server.
 
 First, you need to gather information about the total amount of data to be protected in your environment. This can be a daunting task when it comes to endpoint protection, but you have to make some assumptions because the amount of data to protect is different on each workstation or laptop.

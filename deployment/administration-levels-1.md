@@ -11,7 +11,7 @@ Please find the description for each administration level below.
 
 ## KODO administration level
 
-KODO administration level is the highest level of authorization. If you log in to the portal as `kodoadmin` user you gain an access to the KODO Admin Portal.  From this portal you can configure global system settings and other assets as follow:
+KODO administration level is the highest level of authorization. If you log in to the portal as `kodoadmin` user, you gain an access to the KODO Admin Portal.  From this portal you can configure global system settings and other assets as follow:
 
 * Download or upload installer packages
 * Manage administrators
@@ -40,7 +40,7 @@ KODO system allows your company to create multiple organizations under one KODO 
 The default organization name is “**My organization**”. It is created during KODO for Endpoints server deployment.
 
 {% hint style="info" %}
-You can change the default organization name after logging on to the system as the `admin` user. Go to the Organizations menu and click the edit button located in the organization name row.
+You can change the default organization name after logging on to the system as the`admin` user. Go to the Organizations menu and click the edit button located in the organization name row.
 {% endhint %}
 
 ### Default login credentials

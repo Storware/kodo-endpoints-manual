@@ -8,11 +8,11 @@ description: The RPM packages are suitable for installation on Red Hat and CentO
 
 1. Install CentOS/RHEL 8 minimal:
    * we recommend having Red Hat's support available if you're going to use RHEL
-   * you also can use version CentOS/RHEL 7
+   * you can use version CentOS/RHEL 7 as well 
 2. Make sure your OS is up to date \(as the `root` user\):
 
    ```text
-   #dnf -y update
+   # dnf -y update
    ```
 
    If the kernel is updated, then you need to reboot your operating system.
@@ -150,10 +150,10 @@ The KODO server initialization script creates the **kodo-for-endpoints** service
 1. You have to open the 8181 port \(for HTTPS, HTTP requires port 8080\) on the firewall. Here is an example:
 
    ```text
-   firewall-cmd --add-port=8181/tcp --permanent
-   firewall-cmd --complete-reload
-   # To check open ports:
-   firewall-cmd --list-all
+   # firewall-cmd --add-port=8181/tcp --permanent
+   # firewall-cmd --complete-reload
+   To check open ports:
+   # firewall-cmd --list-all
    ```
 
 2. Now you should be able to log into the web console using the URL: `https://KODO_HOST:8181`, where `KODO_HOST` is hostname or IP of your KODO for Endpoints server \(see the [Administration levels](administration-levels-1.md) section for credential info\)
