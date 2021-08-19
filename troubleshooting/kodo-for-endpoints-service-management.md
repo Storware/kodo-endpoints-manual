@@ -12,7 +12,7 @@ To use the scripts, you have to be logged in as the `kodo` user. Go to the direc
 
 The KODO server can be also started and stopped the **kodo-for-endpoints** service from the root account.
 
- ****To start the kodo-for-endpoints service, run following command:
+ ****To start the kodo-for-endpoints service, run the following command:
 
 ```text
 # systemctl start kodo-for-endpoints

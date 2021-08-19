@@ -12,7 +12,7 @@ To protect data, the **KODO client** must be deployed on each protected Windows-
 
 The architecture of KODO for Endpoints is shown in the following graphic. The core element of the architecture is the KODO server. It's the central point of management. It provides administrative web UI, APIs and is also a central repository of metadata. The metadata is stored in the MySQL database.  
 
-The data itself and information about protected files are sent directly to the IBM Spectrum Protect server. KODO server leverages IBM Spectrum Protect API to connect to the server. Thanks to the LDAP server integration users can be authorized to use their domain credentials when connecting to the server from the endpoints.  
+The data itself and information about protected files are sent directly to the IBM Spectrum Protect server. KODO server leverages IBM Spectrum Protect API to connect to the server. With LDAP server integration, users can be authorized to use domain credentials when connecting to the server from endpoints.
 
 ![](../.gitbook/assets/image%20%287%29.png)
 

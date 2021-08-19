@@ -46,5 +46,9 @@ Optionally, If you are familiar with the IBM Spectrum Protect server and you hav
 
 Go to the [Virtual Appliance \(VMware\) ](../deployment/virtual-appliance-vmware/)to find out how to download, install and configure KODO for Endpoints server as a virtual appliance.
 
+
+
+There are two types of people: those who are doing backups, and those who will be doing them. But just **doing** backups is not everything. To avoid unnecessary surprises the best strategy is to **plan** your backup environment/procedure **before implementing** it. In this section, we've collected guides that you may find useful as you think about your KODO for Endpoints implementation.
+
   
 
