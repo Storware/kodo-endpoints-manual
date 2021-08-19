@@ -6,7 +6,7 @@ Based on the best practices it's recommended to perform periodic operating syste
 # dnf -y update
 ```
 
-It's recommended to reboot the server after the upgrade is finished.
+The upgrade process will start without confirming the update package download. It's recommended to reboot the server after the upgrade is finished.
 
 
 

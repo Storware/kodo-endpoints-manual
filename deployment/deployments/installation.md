@@ -14,7 +14,7 @@ To use the application, the user must be authenticated on the KODO server. To do
 * **Username -**enter the user name as "_**domain\username**_" or "**domain@username** \(it depends on the username format set at the LDAP settings at the **Settings** view\)
 * **Password-** enter the domain user password. 
 
-Optionally, check the "**Remember me**" option \(the user password will be rememberd\). Click the **Log in** button. 
+Optionally, check the "**Remember me**" option \(the user password will be saved\). Click the **Log in** button. 
 
 ![](../../.gitbook/assets/image%20%2877%29.png)
 
