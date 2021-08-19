@@ -35,7 +35,7 @@ To log into the administration portal, use the login and password that were crea
 
 ### Last login information <a id="last-login-information"></a>
 
-To view information about last login for your administrative portal user, click the name of your admin user in the top portal bar.
+To view information about the last login for your administrative portal user, click the name of your admin user in the top portal bar.
 
 The following information is available
 

@@ -32,6 +32,7 @@
     * [Silent install](deployment/deployments/silent-install.md)
     * [Client application components](deployment/deployments/client-components.md)
     * [First time log in](deployment/deployments/installation.md)
+  * [Backup and recovery tests](deployment/backup-and-recovery-tests.md)
   * [Common tasks](deployment/common-tasks/README.md)
     * [OS update](deployment/common-tasks/os-update.md)
     * [Server upgrade](deployment/common-tasks/upgrade.md)
