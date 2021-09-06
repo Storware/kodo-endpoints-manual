@@ -4,7 +4,7 @@
 
 There are three dedicated scripts to do some basic tasks on the KODO server. Using them you can stop, start the server, and also check its status.
 
-To use the scripts, you have to be logged in as the `kodo` user. Go to the directory  `/opt/storware/kodo-server/api-core/bin` and execute the scripts:
+To use the scripts, you have to be logged in as the `kodo` user. Go to the `/opt/storware/kodo-server/api-core/bin` directory  and execute the scripts:
 
 * **stop.sh** - to stop KODO for Endpoints server
 * **start.sh** - to start KODO for Endpoints server
