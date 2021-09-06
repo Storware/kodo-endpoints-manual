@@ -27,6 +27,10 @@ What's next:
 
 [Client deployment](deployments/)
 
+[Backup and recovery tests](backup-and-recovery-tests.md)
+
+[Common tasks](common-tasks/)
+
 
 
 
