@@ -33,11 +33,11 @@ If you run the EXE installer, the additional window may appear when the required
 
 ![](../../.gitbook/assets/image%20%28125%29.png)
 
-3.Find the KODO icon on your desktop and launch it. Enter the server's IP address or name, username and password \(check the "Remember me" box if you want your user to be remembered\). Click the **Log in** button.
+3. Find the KODO icon on your desktop and launch it. Enter the server's IP address or name, username and password \(check the "Remember me" box if you want your user to be remembered\). Click the **Log in** button.
 
 ![](../../.gitbook/assets/image%20%28143%29.png)
 
-4. 
+4. If the authorization is correct, you should see the KODO user console.
 
 
 
