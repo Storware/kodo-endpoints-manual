@@ -12,7 +12,7 @@ You have the following actions to choose from:
 
 In the bottom left corner of the window, the information about free space is presented.
 
-In the lower-left corner of the window, information about the amount of free space is presented. Restored data is stored in the`/opt/storware/codo-server/api-core/staging/`folder. If you want to recover more data, expand the file system where the`/opt` folder is located.
+In the lower-left corner of the window, information about the amount of free space is presented. Restored data is stored in the`/opt/storware/codo-server/api-core/staging/`folder. If you want to recover more data, expand the file system where the`/opt` folder is located or set a new staging path \(see the [Settings \(Stage Settings\)](../kodo-admin-portal/settings.md#staging-settings) section\)
 
 
 

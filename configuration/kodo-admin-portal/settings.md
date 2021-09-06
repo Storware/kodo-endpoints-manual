@@ -22,7 +22,7 @@ Confirm the settings with the **Save** button.
 
 #### Customizations
 
-In this section, you can configure the URLs to the support, product and documentation website.
+In this section, you can configure the URLs to the support, product, and documentation website.
 
 ![](../../.gitbook/assets/image%20%28187%29.png)
 
