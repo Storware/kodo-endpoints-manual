@@ -14,5 +14,5 @@ Restore the file to the original location, desktop, or a different location.
 
 ![](../.gitbook/assets/image%20%28185%29.png)
 
-Check if the file was restored.
+Go to the chosen location to check if the file was restored.
 
