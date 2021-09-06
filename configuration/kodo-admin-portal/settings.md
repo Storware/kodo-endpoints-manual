@@ -6,7 +6,11 @@ To change configuration settings select the **Settings** menu from the left pane
 
 ### **GENERAL tab**
 
-This section allows you to configure the deployment server name and also enter the IP addresses allowed to connect to the server. 
+This section allows you some mail server settings. 
+
+#### General settings
+
+In this section, you can configure the deployment server name and also enter the IP addresses allowed to connect to the server. 
 
 ![](../../.gitbook/assets/image%20%2844%29.png)
 
@@ -14,7 +18,19 @@ This section allows you to configure the deployment server name and also enter t
 The deployment link will be sent in the format: [https://deployment.server.name/TOKEN](https://deployment.server.name/TOKEN)
 {% endhint %}
 
-Confirm the settings with the **Save** button
+Confirm the settings with the **Save** button.
+
+#### Customizations
+
+In this section, you can configure the URLs to the support, product and documentation website.
+
+![](../../.gitbook/assets/image%20%28187%29.png)
+
+#### Staging Settings
+
+In this section, you can configure a path to the staging directory that is used as temporary disk space for restored files \(see the [Restore Jobs](../kodo-organization-portal/restore-jobs.md) section\).  
+
+![](../../.gitbook/assets/image%20%28188%29.png)
 
 ### Email tab
 

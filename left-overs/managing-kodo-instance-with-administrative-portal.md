@@ -17,7 +17,11 @@ https://portal_address:8181
 
 By default administrative portal is listening on port 8181
 
+{% hint style="info" %}
 _KODO administrative portal use Secure Socket Layer to encrypt the connection, so the HTTPS prefix is mandatory._
+{% endhint %}
+
+\_\_
 
 ## Supported web browsers <a id="supported-web-browsers"></a>
 
@@ -31,8 +35,6 @@ _KODO administrative portal use Secure Socket Layer to encrypt the connection, s
 
 To log into the administration portal, use the login and password that were created for your instance or organization. Administrative portal login
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LD_wiez_0EVVIJJEUSK%2F-LDaUAO5yEymn2WoUL2h%2F-LDaXMb5QFlqal0mvyT4%2Flogin_new.png?alt=media&token=ba4f20c9-1ead-4227-b2d7-0fb46f9dccb6)
-
 ### Last login information <a id="last-login-information"></a>
 
 To view information about the last login for your administrative portal user, click the name of your admin user in the top portal bar.
@@ -42,10 +44,6 @@ The following information is available
 * **LAST LOGIN -** date and time of the last successful login
 * **LAST FAILED LOGIN -** date and time of the last failed login
 * **LAST FAILED LOGIN IP -** IP address of the last unsuccessful login attempt
-
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LD_wiez_0EVVIJJEUSK%2F-LDaUAO5yEymn2WoUL2h%2F-LDaXtikRPNi1J4keLdy%2Flogout.png?alt=media&token=1e66ecac-6df5-481c-94db-6ea79fb3d653)
-
-You can see more information about administrators login in Audit Log
 
 ## Search <a id="search"></a>
 
