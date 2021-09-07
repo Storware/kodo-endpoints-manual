@@ -30,8 +30,6 @@ You can upgrade KODO for Endpoints client in silent mode. To do that, follow the
 
 ![](../../.gitbook/assets/image%20%28140%29.png)
 
-## Upgrade using GPO
-
 
 
 

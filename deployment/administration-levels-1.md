@@ -49,7 +49,7 @@ You can change the default organization name after logging on to the system as t
 Here are credentials for two predefined administrator accounts:
 
 * default global admin: `kodoadmin`with password `k0do@dmin` 
-* default organization admin: `admin`with password`k0do@dmin`
+* default organization admin: `admin`with password `changeme`
 {% endhint %}
 
 The credentials will be required later in the [Initial configuration](initial-configuration.md) chapter. 
