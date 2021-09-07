@@ -6,7 +6,7 @@ KODO for Endpoints server  has the following features implemented:
 
 * **Continuous Data Protection \(CDP\)** – "non-stop" data protection for newly created or changed files 
 * **Self-restore function** – mouse „right-click” approach for user’s easy restore 
-* **Deduplication, compression, encryption on the source** - the data is prepared 
+* **Deduplication, compression, encryption on the source** 
 * **Instant backup** – user transparent protection, the minimal workload for devices 
 * **File versioning**– „back to the past” recovery option for users 
 * **„Cross-device” recovery** –recover data from one user's device to another
