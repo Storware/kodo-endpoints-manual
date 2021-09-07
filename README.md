@@ -9,7 +9,7 @@ KODO for Endpoints provides robust protection, that is fundamental both to IT ad
 * File versioning
 * Data deduplication and compression on a source 
 
-Managing the IT infrastructure of the company is never an easy task. Nevertheless, KODO could be the IT department administrator's best friend. The system simplifies deployment, user and data management, and processes such as restoring critical data. KODO and its open API allow integration with asset management or helpdesk ticketing systems. 
+Managing a company's IT infrastructure is never an easy task. Nevertheless, KODO can be an IT administrator's best friend. The system simplifies deployment, user and data management, and processes such as restoring critical data. KODO and its open API allows for integration with asset management or helpdesk ticketing systems.
 
 Safety and manageability are our biggest priorities, so KODO has features, help administrators in everyday routine tasks:
 
