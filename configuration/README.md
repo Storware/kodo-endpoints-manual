@@ -17,7 +17,7 @@ _What's next_
 
 [Disaster recovery](disaster-recovery.md)
 
-[Common tasks](../deployment/common-tasks/)
+
 
 \_\_
 
