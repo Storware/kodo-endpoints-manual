@@ -44,7 +44,7 @@ KODO system requires some special IBM Spectrum Protect configuration. Create a c
 3. Define a new copy group and assign it as default. Remember to change `destination` parameter according to your Spectrum Protect configuration.
 
    ```text
-   SERVER1> define copy kodo kodo kodo destination=POOL_NAME rete=30 reto=30 vere=nol verd=nol 
+   SERVER1> define copy kodo kodo 30days destination=POOL_NAME rete=30 reto=30 vere=nol verd=nol 
    SERVER1> assign defmgmt kodo kodo 30days
    SERVER1> activate policy kodo kodo
    ```
