@@ -30,7 +30,7 @@ Here are just a few steps that need to be completed:
 	  - "/dev/sdf"
 	  - "/dev/sdg"
 	  - "/dev/sdh"
-	isp_storage_paths:
+   isp_storage_paths:
 	  - "/isp/storage1"
 	  - "/isp/storage2"
 	  - "/isp/storage3"
