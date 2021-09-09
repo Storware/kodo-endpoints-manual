@@ -15,10 +15,12 @@ Here are just a few steps that need to be completed:
 		1. ISP archive log (100 GB)
 		1. database backups (100 GB)
 		1. backup data (1 TB+ - more than 1 drive are supported with Ansible-based installation or when you provide YAML file with overridden parameters)
+
 1. Install CentOS or RHEL 8 (optionally you can use version 7) minimal - make sure to have
    * RHEL 8 requires an active subscription
 	* Internet connectivity - these are required for package installaltion
 	* FQDN and hostname configured in the OS - which is also resolvable in your DNS
+
 1. 	Optionally - you can override default parameters by using a YAML file:
    
    ```text
@@ -45,6 +47,7 @@ Here are just a few steps that need to be completed:
      ```
      KODO_VARS_FILE=/tmp/vars.yml 
      ``` 
+     
 1. Copy-and-paste this command and press ENTER:
 
      ```
