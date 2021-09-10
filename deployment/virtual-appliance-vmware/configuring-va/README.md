@@ -3,7 +3,7 @@
 After the KODO for Endpoints server is deployed and powered on, you can log in to the system and set up network configuration.
 
 {% hint style="warning" %}
-Do change the hostname of the KODO server virtual machine. Changing hostname may lead to system unstable behavior. If you need to change the hostname please contact Storware technical support.
+Do not change the hostname of the KODO server virtual machine. Changing hostname may lead to system unstable behavior. If you need to change the hostname please contact Storware technical support.
 {% endhint %}
 
 To set up network configuration, do as follow:
