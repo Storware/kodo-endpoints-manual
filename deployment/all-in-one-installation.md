@@ -45,7 +45,7 @@ Here are just a few steps that need to be completed:
    * Assuming that such file resisdes in `/tmp/vars.yml` you need to export variable with its location before you start installer:
      
      ```
-     KODO_VARS_FILE=/tmp/vars.yml 
+     export KODO_VARS_FILE=/tmp/vars.yml 
      ``` 
      
 1. Copy-and-paste this command and press ENTER:
