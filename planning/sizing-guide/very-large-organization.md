@@ -16,9 +16,13 @@ As an example for a  very large organization \(above 2000 endpoints\) the follow
           <li>at least 64 GB RAM</li>
           <li>at least 70GB free disk space for operating system binaries, MySQL database
             and KODO server binaries</li>
-          <li>Network: minimum 1Gb/s connection</li>
+          <li>at least 2 GB dedicated disk for /isp/db folder</li>
+          <li>at least 50 GB dedicated disk for /isp/activelog folder</li>
+          <li>at least 50 GB dedicated disk for /isp/archlog folder</li>
+          <li>at least 50 GB dedicated disk for /isp/dbbackup folder</li>
           <li>calculations for IBM Spectrum Protect backup storage space: <b>number of endpoints </b>* <b>average amount of endpoint data to protect and the outcome divide by 2 (2:1 deduplication/compression ratio) </b>
           </li>
+          <li>Network: minimum 1Gb/s connection</li>
         </ul>
       </td>
     </tr>

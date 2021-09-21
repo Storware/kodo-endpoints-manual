@@ -14,12 +14,16 @@ As an example for a large organization \(up to 2000 endpoints\) the following sy
         <ul>
           <li>at least 8 cores</li>
           <li>at least 32 GB RAM</li>
-          <li>at least 60 GB free disk space for operating system binaries, MySQL database
+          <li>at least 70 GB free disk space for operating system binaries, MySQL database
             and KODO server binaries</li>
-          <li>Network: minimum 1Gb/s connection</li>
+          <li>at least 120 GB dedicated disk for /isp/db folder</li>
+          <li>at least 640 GB dedicated disk for /isp/activelog folder</li>
+          <li>at least 240 GB dedicated disk for /isp/archlog folder</li>
+          <li>at least 1040 GB dedicated disk for /isp/dbbackup folder</li>
           <li>30 TB for IBM Spectrum Protect backup storage space (assuming 2000 endpoints
             protected with 30 GB of data on each and a deduplication/compression ratio
             of 2:1)</li>
+          <li>Network: minimum 1Gb/s connection</li>
         </ul>
       </td>
     </tr>

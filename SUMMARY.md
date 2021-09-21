@@ -22,6 +22,7 @@
       * [Time synchronization \(the OVA with IBM Spectrum Protect server only\)](deployment/virtual-appliance-vmware/configuring-va/time-synchronization-and-password-changing.md)
       * [Connecting to the IBM Spectrum  Protect server](deployment/virtual-appliance-vmware/configuring-va/connecting-to-the-ibm-spectrum-protect-server.md)
   * [Installation with RPMs](deployment/installation-with-rpm-packages.md)
+  * ["All-in-One" Installation](deployment/all-in-one-installation.md)
   * [IBM Spectrum Protect server configuration](deployment/spectrum-protect-tsm-configuration.md)
   * [Initial configuration](deployment/initial-configuration.md)
   * [Client deployment](deployment/deployments/README.md)
