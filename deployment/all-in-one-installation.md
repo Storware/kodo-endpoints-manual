@@ -6,7 +6,7 @@ The installation script can be found at the address [http://repo.storwa.eu/kodo-
 
 Before you start the installation process please do the following tasks:
 
-1. Install and configure a server according to the requirements of your environment \(sse [Sizing Guide](../planning/sizing-guide/) section\)
+1. Install and configure a server according to the requirements of your environment \(see the [Sizing Guide](../planning/sizing-guide/) section\).
 2. Log in as **root** user over **SSH** protocol to the machine you want to install KODO for Endpoint server on.
 3. Run `lsblk` command to check the system name for the disk you will use as a storage destination. 
 4. In this example, disk **sdb, sdc, sdd, sde, sdf** were added to the system platform.
@@ -37,7 +37,7 @@ Before you start the installation process please do the following tasks:
    ```
 
 7. The installation process may take up to 30 minutes, but it depends on your system performance.
-8. After the installation process is finished, you can check the KODO server service status by using the following command
+8. After the installation process is finished, you can check the KODO server service status by using the following command:
 
    ```text
    [root@centos8]# systemctl status kodo-for-endpoints
