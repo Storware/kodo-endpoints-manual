@@ -1,6 +1,6 @@
 # "All-in-One" Installation
 
-KODO fo Endpoints server can be installed on a physical or virtual machine using customized script, that configures server resources, install IBM Spectrum Protect binaries and KODO for Endpoints server. 
+KODO fo Endpoints server can be installed on a physical or virtual machine in the "All-in-one" configuration. To do this, the customized script can be executed. It configures server all required server resources \(dedicated disk partitions\), installs IBM Spectrum Protect binaries and KODO for Endpoints server bibaries and the service. 
 
 The installation script can be found at the address [http://repo.storwa.eu/kodo-endpoints/kodo-endpoints-local-install.sh](http://10.40.0.253/kodo-endpoints/kodo-endpoints-local-install.sh).
 
