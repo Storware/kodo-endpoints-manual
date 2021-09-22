@@ -17,7 +17,7 @@ As an example for a medium organization \(up to 1000 endpoints\) the following s
           <li>at least 60 GB free disk space for operating system binaries, MySQL database
             and KODO server binaries</li>
           <li>at least 90 GB dedicated disk for /isp/db folder</li>
-          <li>at least 420 GB dedicated disk for /isp/activelog folder</li>
+          <li>at least 70 GB dedicated disk for /isp/activelog folder</li>
           <li>at least 134 GB dedicated disk for /isp/archlog folder</li>
           <li>at least 840 GB dedicated disk for /isp/dbbackup folder</li>
           <li>Network: minimum 1Gb/s connection</li>
