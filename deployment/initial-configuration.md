@@ -38,7 +38,7 @@ If you've chosen another KODO for Endpoints server installation option, enter th
 
 If you've chosen **KODO for Endpoints Bundle** option, check if there's a connection with the IBM server \(the status should be **Connected**\).
 
-7. Go to the DB Backup, to configure **MariaDB** backup. It can be set to be triggered once a day at a given time. You can also set the number of stored backups.
+7. Go to the DB Backup, to configure **MariaDB** backup. It can be set to be triggered once a day at a given time. The files in the format "**db\_date\_time**_**.**_**sql**_"_ are stored in the folder **/opt/StorwareData/db\_backup**.  You can also set the number of stored backups.
 
 ![](../.gitbook/assets/image%20%2889%29.png)
 
